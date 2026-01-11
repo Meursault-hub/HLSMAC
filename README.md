@@ -20,7 +20,7 @@
 
 适用于以下地图：
 *   **gmzz** (关门捉贼)
-*   **wzsy** (围魏救赵)
+*   **wzsy** (无中生有)
 *   **dhls** (调虎离山)
 *   **sdjx** (声东击西)
 
@@ -44,3 +44,4 @@ python src/main.py --config=qatten_new --env-config=sc2te with env_args.map_name
 *   **日志文件**： 所有的运行日志和实验数据将保存在 `result/sacred` 目录下。
 
 *   **模型路径**： 命令中指定的 `checkpoint_path` 用于加载或保存最佳模型。
+
