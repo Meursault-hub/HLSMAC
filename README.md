@@ -19,7 +19,7 @@
 根据地图类型的不同，需要使用不同的算法配置文件 (`config`)。
 
 适用于以下地图：
-*   **gmzz** (关门打狗)
+*   **gmzz** (关门捉贼)
 *   **wzsy** (围魏救赵)
 *   **dhls** (调虎离山)
 *   **sdjx** (声东击西)
@@ -42,4 +42,5 @@ python src/main.py --config=qatten_new --env-config=sc2te with env_args.map_name
 ## 3. 日志与结果
 
 *   **日志文件**： 所有的运行日志和实验数据将保存在 `result/sacred` 目录下。
+
 *   **模型路径**： 命令中指定的 `checkpoint_path` 用于加载或保存最佳模型。
