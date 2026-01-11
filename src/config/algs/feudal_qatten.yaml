@@ -13,8 +13,8 @@ target_update_interval: 200
 agent_output_type: "q"
 learner: "feudal_learner" # [必须] 使用新的 Learner
 double_q: True
-mixer: "qatten_new"       # Learner 内部会实例化两个 Mixer，这里指定类型
-agent: "rnn_new"          
+mixer: "qatten_feudal"       # Learner 内部会实例化两个 Mixer，这里指定类型
+agent: "rnn_feudal"          
 mac: "hierarchical_mac"   # [必须] 使用分层 MAC
 
 # 3. Feudal 参数 (独立更新参数)

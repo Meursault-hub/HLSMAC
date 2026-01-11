@@ -1,0 +1,220 @@
+{
+    "Thirty_Six_Tactics": {
+        "mtgh": {
+            "tactic_id": 1,
+            "name_chinese": "瞒天过海",
+            "name_pinyin": "Man Tian Guo Hai",
+            "name_english": "Crossing the Sea Under Camouflage"
+        },
+        "wwjz": {
+            "tactic_id": 2,
+            "name_chinese": "围魏救赵",
+            "name_pinyin": "Wei Wei Jiu Zhao",
+            "name_english": "Relieving the State of Zhao by Besieging the State of Wei"
+        },
+        "jdsr": {
+            "tactic_id": 3,
+            "name_chinese": "借刀杀人",
+            "name_pinyin": "Jie Dao Sha Ren",
+            "name_english": "Killing Someone with a Borrowed Knife"
+        },
+        "yydl": {
+            "tactic_id": 4,
+            "name_chinese": "以逸待劳",
+            "name_pinyin": "Yi Yi Dai Lao",
+            "name_english": "Waiting at One’s Ease for the Exhausted Enemy"
+        },
+        "chdj": {
+            "tactic_id": 5,
+            "name_chinese": "趁火打劫",
+            "name_pinyin": "Chen Huo Da Jie",
+            "name_english": "Plundering a Burning House"
+        },
+        "sdjx": {
+            "tactic_id": 6,
+            "name_chinese": "声东击西",
+            "name_pinyin": "Sheng Dong Ji Xi",
+            "name_english": "Making a Feint to the East and Attacking in the West"
+        },
+        "wzsy": {
+            "tactic_id": 7,
+            "name_chinese": "无中生有",
+            "name_pinyin": "Wu Zhong Sheng You",
+            "name_english": "Creating Something Out of Nothing"
+        },
+        "adcc": {
+            "tactic_id": 8,
+            "name_chinese": "暗度陈仓",
+            "name_pinyin": "An Du Chen Cang",
+            "name_english": "Advancing Secretly by an Unknown Path"
+        },
+        "gagh": {
+            "tactic_id": 9,
+            "name_chinese": "隔岸观火",
+            "name_pinyin": "Ge An Guan Huo",
+            "name_english": "Watching a Fire from the Other Side of the River"
+        },
+        "xlcd": {
+            "tactic_id": 10,
+            "name_chinese": "笑里藏刀",
+            "name_pinyin": "Xiao Li Cang Dao",
+            "name_english": "Covering the Dagger with a Smile"
+        },
+        "ldtj": {
+            "tactic_id": 11,
+            "name_chinese": "李代桃僵",
+            "name_pinyin": "Li Dai Tao Jiang",
+            "name_english": "Palming Off Substitute for the Real Thing"
+        },
+        "sshq": {
+            "tactic_id": 12,
+            "name_chinese": "顺手牵羊",
+            "name_pinyin": "Shun Shou Qian Yang",
+            "name_english": "Picking Up Something in Passing"
+        },
+        "dcjs": {
+            "tactic_id": 13,
+            "name_chinese": "打草惊蛇",
+            "name_pinyin": "Da Cao Jing She",
+            "name_english": "Beating the Grass to Frighten the Snake"
+        },
+        "jshh": {
+            "tactic_id": 14,
+            "name_chinese": "借尸还魂",
+            "name_pinyin": "Jie Shi Huan Hun",
+            "name_english": "Resurrecting a Dead Soul by Borrowing a Corpse"
+        },
+        "dhls": {
+            "tactic_id": 15,
+            "name_chinese": "调虎离山",
+            "name_pinyin": "Diao Hu Li Shan",
+            "name_english": "Luring the Tiger Out of His Den"
+        },
+        "yqgz": {
+            "tactic_id": 16,
+            "name_chinese": "欲擒故纵",
+            "name_pinyin": "Yu Qin Gu Zong",
+            "name_english": "letting the enemy off in order to catch him"
+        },
+        "pzyy": {
+            "tactic_id": 17,
+            "name_chinese": "抛砖引玉",
+            "name_pinyin": "Pao Zhuan Yin Yu",
+            "name_english": "Giving the Enemy Something to Induce Him to Lose More Valuable Things"
+        },
+        "qzqw": {
+            "tactic_id": 18,
+            "name_chinese": "擒贼擒王",
+            "name_pinyin": "Qin Zei Qin Wang",
+            "name_english": "Capturing the Ringleader First in Order to Capture All the Followers"
+        },
+        "fdcx": {
+            "tactic_id": 19,
+            "name_chinese": "釜底抽薪",
+            "name_pinyin": "Fu Di Chou Xin",
+            "name_english": "Extracting the Firewood from Under the Cauldron"
+        },
+        "hsmq": {
+            "tactic_id": 20,
+            "name_chinese": "浑水摸鱼",
+            "name_pinyin": "Hun Shui Mo Yu",
+            "name_english": "Muddling the Water to Catch the Fish; Fishing in Troubled Waters"
+        },
+        "jctq": {
+            "tactic_id": 21,
+            "name_chinese": "金蝉脱壳",
+            "name_pinyin": "Jin Chan Tuo Qiao",
+            "name_english": "Slipping Away by Casting Off a Cloak; Getting Away Like the Cicada Sloughing Its Skin"
+        },
+        "gmzz": {
+            "tactic_id": 22,
+            "name_chinese": "关门捉贼",
+            "name_pinyin": "Guan Men Zhuo Zei",
+            "name_english": "Catching the Thief by Closing/Blocking His Escape Route"
+        },
+        "yjjg": {
+            "tactic_id": 23,
+            "name_chinese": "远交近攻",
+            "name_pinyin": "Yuan Jiao Jin Gong",
+            "name_english": "Befriending the Distant Enemy While Attacking a Nearby Enemy"
+        },
+        "jdfg": {
+            "tactic_id": 24,
+            "name_chinese": "假道伐虢",
+            "name_pinyin": "Jia Dao Fa Guo",
+            "name_english": "Attacking the Enemy by Passing Through a Common Neighbor"
+        },
+        "tlhz": {
+            "tactic_id": 25,
+            "name_chinese": "偷梁换柱",
+            "name_pinyin": "Tou Liang Huan Zhu",
+            "name_english": "Stealing the Beams and Pillars and Replacing Them with Rotten Timbers"
+        },
+        "zsmh": {
+            "tactic_id": 26,
+            "name_chinese": "指桑骂槐",
+            "name_pinyin": "Zhi Sang Ma Huai",
+            "name_english": "Reviling/Abusing the Locust Tree While Pointing to the Mulberry"
+        },
+        "jcbd": {
+            "tactic_id": 27,
+            "name_chinese": "假痴不癫",
+            "name_pinyin": "Jia Chi Bu Dian",
+            "name_english": "Feigning Madness Without Becoming Insane"
+        },
+        "swct": {
+            "tactic_id": 28,
+            "name_chinese": "上屋抽梯",
+            "name_pinyin": "Shang Wu Chou Ti",
+            "name_english": "Removing the Ladder After the Enemy Has Climbed Up the Roof"
+        },
+        "sskh": {
+            "tactic_id": 29,
+            "name_chinese": "树上开花",
+            "name_pinyin": "Shu Shang Kai Hua",
+            "name_english": "Putting Artificial Flowers on Trees"
+        },
+        "fkwz": {
+            "tactic_id": 30,
+            "name_chinese": "反客为主",
+            "name_pinyin": "Fan Ke Wei Zhu",
+            "name_english": "Turning from the Guest into the Host"
+        },
+        "mrj": {
+            "tactic_id": 31,
+            "name_chinese": "美人计",
+            "name_pinyin": "Mei Ren Ji",
+            "name_english": "Using Seductive Women to Corrupt the Enemy"
+        },
+        "kcj": {
+            "tactic_id": 32,
+            "name_chinese": "空城计",
+            "name_pinyin": "Kong Cheng Ji",
+            "name_english": "Presenting a Bold Front to Conceal Unpreparedness"
+        },
+        "fjj": {
+            "tactic_id": 33,
+            "name_chinese": "反间计",
+            "name_pinyin": "Fan Jian Ji",
+            "name_english": "Sowing Discord Among the Enemy"
+        },
+        "krj": {
+            "tactic_id": 34,
+            "name_chinese": "苦肉计",
+            "name_pinyin": "Ku Rou Ji",
+            "name_english": "Deceiving the Enemy by Torturing One’s Own Man"
+        },
+        "lhj": {
+            "tactic_id": 35,
+            "name_chinese": "连环计",
+            "name_pinyin": "Lian Huan Ji",
+            "name_english": "Coordinating One Stratagem with Another"
+        },
+        "zwsj": {
+            "tactic_id": 36,
+            "name_chinese": "走为上计",
+            "name_pinyin": "Zou Wei Shang Ji",
+            "name_english": "Decamping Being the Best; Running Away as the Best Choice"
+        }
+    }
+}

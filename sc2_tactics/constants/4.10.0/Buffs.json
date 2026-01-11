@@ -1,0 +1,1160 @@
+{
+    "Buffs": [
+        {
+            "id": 0,
+            "name": "Null"
+        },
+        {
+            "id": 1,
+            "name": "Radar25"
+        },
+        {
+            "id": 2,
+            "name": "tauntb"
+        },
+        {
+            "id": 3,
+            "name": "DisableAbils"
+        },
+        {
+            "id": 4,
+            "name": "TransientMorph"
+        },
+        {
+            "id": 5,
+            "name": "GravitonBeam"
+        },
+        {
+            "id": 6,
+            "name": "GhostCloak"
+        },
+        {
+            "id": 7,
+            "name": "BansheeCloak"
+        },
+        {
+            "id": 8,
+            "name": "PowerUserWarpable"
+        },
+        {
+            "id": 9,
+            "name": "VortexBehaviorEnemy"
+        },
+        {
+            "id": 10,
+            "name": "Corruption"
+        },
+        {
+            "id": 11,
+            "name": "QueenSpawnLarvaTimer"
+        },
+        {
+            "id": 12,
+            "name": "GhostHoldFire"
+        },
+        {
+            "id": 13,
+            "name": "GhostHoldFireB"
+        },
+        {
+            "id": 14,
+            "name": "Leech"
+        },
+        {
+            "id": 15,
+            "name": "LeechDisableAbilities"
+        },
+        {
+            "id": 16,
+            "name": "EMPDecloak"
+        },
+        {
+            "id": 17,
+            "name": "FungalGrowth"
+        },
+        {
+            "id": 18,
+            "name": "GuardianShield"
+        },
+        {
+            "id": 19,
+            "name": "SeekerMissileTimeout"
+        },
+        {
+            "id": 20,
+            "name": "TimeWarpProduction"
+        },
+        {
+            "id": 21,
+            "name": "Ethereal"
+        },
+        {
+            "id": 22,
+            "name": "NeuralParasite"
+        },
+        {
+            "id": 23,
+            "name": "NeuralParasiteWait"
+        },
+        {
+            "id": 24,
+            "name": "StimpackMarauder"
+        },
+        {
+            "id": 25,
+            "name": "SupplyDrop"
+        },
+        {
+            "id": 26,
+            "name": "250mmStrikeCannons"
+        },
+        {
+            "id": 27,
+            "name": "Stimpack"
+        },
+        {
+            "id": 28,
+            "name": "PsiStorm"
+        },
+        {
+            "id": 29,
+            "name": "CloakFieldEffect"
+        },
+        {
+            "id": 30,
+            "name": "Charging"
+        },
+        {
+            "id": 31,
+            "name": "AIDangerBuff"
+        },
+        {
+            "id": 32,
+            "name": "VortexBehavior"
+        },
+        {
+            "id": 33,
+            "name": "Slow"
+        },
+        {
+            "id": 34,
+            "name": "TemporalRiftUnit"
+        },
+        {
+            "id": 35,
+            "name": "SheepBusy"
+        },
+        {
+            "id": 36,
+            "name": "Contaminated"
+        },
+        {
+            "id": 37,
+            "name": "TimeScaleConversionBehavior"
+        },
+        {
+            "id": 38,
+            "name": "BlindingCloudStructure"
+        },
+        {
+            "id": 39,
+            "name": "CollapsibleRockTowerConjoinedSearch"
+        },
+        {
+            "id": 40,
+            "name": "CollapsibleRockTowerRampDiagonalConjoinedSearch"
+        },
+        {
+            "id": 41,
+            "name": "CollapsibleTerranTowerConjoinedSearch"
+        },
+        {
+            "id": 42,
+            "name": "CollapsibleTerranTowerRampDiagonalConjoinedSearch"
+        },
+        {
+            "id": 43,
+            "name": "DigesterCreepSprayVision"
+        },
+        {
+            "id": 44,
+            "name": "InvulnerabilityShield"
+        },
+        {
+            "id": 45,
+            "name": "MineDroneCountdown"
+        },
+        {
+            "id": 46,
+            "name": "MothershipStasis"
+        },
+        {
+            "id": 47,
+            "name": "MothershipStasisCaster"
+        },
+        {
+            "id": 48,
+            "name": "MothershipCoreEnergizeVisual"
+        },
+        {
+            "id": 49,
+            "name": "OracleRevelation"
+        },
+        {
+            "id": 50,
+            "name": "GhostSnipeDoT"
+        },
+        {
+            "id": 51,
+            "name": "NexusPhaseShift"
+        },
+        {
+            "id": 52,
+            "name": "NexusInvulnerability"
+        },
+        {
+            "id": 53,
+            "name": "RoughTerrainSearch"
+        },
+        {
+            "id": 54,
+            "name": "RoughTerrainSlow"
+        },
+        {
+            "id": 55,
+            "name": "OracleCloakField"
+        },
+        {
+            "id": 56,
+            "name": "OracleCloakFieldEffect"
+        },
+        {
+            "id": 57,
+            "name": "ScryerFriendly"
+        },
+        {
+            "id": 58,
+            "name": "SpectreShield"
+        },
+        {
+            "id": 59,
+            "name": "ViperConsumeStructure"
+        },
+        {
+            "id": 60,
+            "name": "RestoreShields"
+        },
+        {
+            "id": 61,
+            "name": "MercenaryCycloneMissiles"
+        },
+        {
+            "id": 62,
+            "name": "MercenarySensorDish"
+        },
+        {
+            "id": 63,
+            "name": "MercenaryShield"
+        },
+        {
+            "id": 64,
+            "name": "Scryer"
+        },
+        {
+            "id": 65,
+            "name": "StunRoundInitialBehavior"
+        },
+        {
+            "id": 66,
+            "name": "BuildingShield"
+        },
+        {
+            "id": 67,
+            "name": "LaserSight"
+        },
+        {
+            "id": 68,
+            "name": "ProtectiveBarrier"
+        },
+        {
+            "id": 69,
+            "name": "CorruptorGroundAttackDebuff"
+        },
+        {
+            "id": 70,
+            "name": "BattlecruiserAntiAirDisable"
+        },
+        {
+            "id": 71,
+            "name": "BuildingStasis"
+        },
+        {
+            "id": 72,
+            "name": "Stasis"
+        },
+        {
+            "id": 73,
+            "name": "ResourceStun"
+        },
+        {
+            "id": 74,
+            "name": "MaximumThrust"
+        },
+        {
+            "id": 75,
+            "name": "ChargeUp"
+        },
+        {
+            "id": 76,
+            "name": "CloakUnit"
+        },
+        {
+            "id": 77,
+            "name": "NullField"
+        },
+        {
+            "id": 78,
+            "name": "Rescue"
+        },
+        {
+            "id": 79,
+            "name": "Benign"
+        },
+        {
+            "id": 80,
+            "name": "LaserTargeting"
+        },
+        {
+            "id": 81,
+            "name": "Engage"
+        },
+        {
+            "id": 82,
+            "name": "CapResource"
+        },
+        {
+            "id": 83,
+            "name": "BlindingCloud"
+        },
+        {
+            "id": 84,
+            "name": "DoomDamageDelay"
+        },
+        {
+            "id": 85,
+            "name": "EyeStalk"
+        },
+        {
+            "id": 86,
+            "name": "BurrowCharge"
+        },
+        {
+            "id": 87,
+            "name": "Hidden"
+        },
+        {
+            "id": 88,
+            "name": "MineDroneDOT"
+        },
+        {
+            "id": 89,
+            "name": "MedivacSpeedBoost"
+        },
+        {
+            "id": 90,
+            "name": "ExtendBridgeExtendingBridgeNEWide8Out"
+        },
+        {
+            "id": 91,
+            "name": "ExtendBridgeExtendingBridgeNWWide8Out"
+        },
+        {
+            "id": 92,
+            "name": "ExtendBridgeExtendingBridgeNEWide10Out"
+        },
+        {
+            "id": 93,
+            "name": "ExtendBridgeExtendingBridgeNWWide10Out"
+        },
+        {
+            "id": 94,
+            "name": "ExtendBridgeExtendingBridgeNEWide12Out"
+        },
+        {
+            "id": 95,
+            "name": "ExtendBridgeExtendingBridgeNWWide12Out"
+        },
+        {
+            "id": 96,
+            "name": "PhaseShield"
+        },
+        {
+            "id": 97,
+            "name": "Purify"
+        },
+        {
+            "id": 98,
+            "name": "VoidSiphon"
+        },
+        {
+            "id": 99,
+            "name": "OracleWeapon"
+        },
+        {
+            "id": 100,
+            "name": "AntiAirWeaponSwitchCooldown"
+        },
+        {
+            "id": 101,
+            "name": "ArbiterMPStasisField"
+        },
+        {
+            "id": 102,
+            "name": "ImmortalOverload"
+        },
+        {
+            "id": 103,
+            "name": "CloakingFieldTargeted"
+        },
+        {
+            "id": 104,
+            "name": "LightningBomb"
+        },
+        {
+            "id": 105,
+            "name": "OraclePhaseShift"
+        },
+        {
+            "id": 106,
+            "name": "ReleaseInterceptorsCooldown"
+        },
+        {
+            "id": 107,
+            "name": "ReleaseInterceptorsTimedLifeWarning"
+        },
+        {
+            "id": 108,
+            "name": "ReleaseInterceptorsWanderDelay"
+        },
+        {
+            "id": 109,
+            "name": "ReleaseInterceptorsBeacon"
+        },
+        {
+            "id": 110,
+            "name": "ArbiterMPCloakFieldEffect"
+        },
+        {
+            "id": 111,
+            "name": "PurificationNova"
+        },
+        {
+            "id": 112,
+            "name": "CorruptionBombDamage"
+        },
+        {
+            "id": 113,
+            "name": "CorsairMPDisruptionWeb"
+        },
+        {
+            "id": 114,
+            "name": "DisruptorPush"
+        },
+        {
+            "id": 115,
+            "name": "LightofAiur"
+        },
+        {
+            "id": 116,
+            "name": "LockOn"
+        },
+        {
+            "id": 117,
+            "name": "Overcharge"
+        },
+        {
+            "id": 118,
+            "name": "OverchargeDamage"
+        },
+        {
+            "id": 119,
+            "name": "OverchargeSpeedBoost"
+        },
+        {
+            "id": 120,
+            "name": "SeekerMissile"
+        },
+        {
+            "id": 121,
+            "name": "TemporalField"
+        },
+        {
+            "id": 122,
+            "name": "VoidRaySwarmDamageBoost"
+        },
+        {
+            "id": 123,
+            "name": "VoidMPImmortalReviveSupressed"
+        },
+        {
+            "id": 124,
+            "name": "DevourerMPAcidSpores"
+        },
+        {
+            "id": 125,
+            "name": "DefilerMPConsume"
+        },
+        {
+            "id": 126,
+            "name": "DefilerMPDarkSwarm"
+        },
+        {
+            "id": 127,
+            "name": "DefilerMPPlague"
+        },
+        {
+            "id": 128,
+            "name": "QueenMPEnsnare"
+        },
+        {
+            "id": 129,
+            "name": "OracleStasisTrapTarget"
+        },
+        {
+            "id": 130,
+            "name": "SelfRepair"
+        },
+        {
+            "id": 131,
+            "name": "AggressiveMutation"
+        },
+        {
+            "id": 132,
+            "name": "ParasiticBomb"
+        },
+        {
+            "id": 133,
+            "name": "ParasiticBombUnitKU"
+        },
+        {
+            "id": 134,
+            "name": "ParasiticBombSecondaryUnitSearch"
+        },
+        {
+            "id": 135,
+            "name": "AdeptDeathCheck"
+        },
+        {
+            "id": 136,
+            "name": "LurkerHoldFire"
+        },
+        {
+            "id": 137,
+            "name": "LurkerHoldFireB"
+        },
+        {
+            "id": 138,
+            "name": "TimeStopStun"
+        },
+        {
+            "id": 139,
+            "name": "SlaynElementalGrabStun"
+        },
+        {
+            "id": 140,
+            "name": "PurificationNovaPost"
+        },
+        {
+            "id": 141,
+            "name": "DisableInterceptors"
+        },
+        {
+            "id": 142,
+            "name": "BypassArmorDebuffOne"
+        },
+        {
+            "id": 143,
+            "name": "BypassArmorDebuffTwo"
+        },
+        {
+            "id": 144,
+            "name": "BypassArmorDebuffThree"
+        },
+        {
+            "id": 145,
+            "name": "ChannelSnipeCombat"
+        },
+        {
+            "id": 146,
+            "name": "TempestDisruptionBlastStunBehavior"
+        },
+        {
+            "id": 147,
+            "name": "GravitonPrison"
+        },
+        {
+            "id": 148,
+            "name": "InfestorDisease"
+        },
+        {
+            "id": 149,
+            "name": "SS_LightningProjector"
+        },
+        {
+            "id": 150,
+            "name": "PurifierPlanetCrackerCharge"
+        },
+        {
+            "id": 151,
+            "name": "SpectreCloaking"
+        },
+        {
+            "id": 152,
+            "name": "WraithCloak"
+        },
+        {
+            "id": 153,
+            "name": "PsytrousOxide"
+        },
+        {
+            "id": 154,
+            "name": "BansheeCloakCrossSpectrumDampeners"
+        },
+        {
+            "id": 155,
+            "name": "SS_BattlecruiserHunterSeekerTimeout"
+        },
+        {
+            "id": 156,
+            "name": "SS_StrongerEnemyBuff"
+        },
+        {
+            "id": 157,
+            "name": "SS_TerraTronArmMissileTargetCheck"
+        },
+        {
+            "id": 158,
+            "name": "SS_MissileTimeout"
+        },
+        {
+            "id": 159,
+            "name": "SS_LeviathanBombCollisionCheck"
+        },
+        {
+            "id": 160,
+            "name": "SS_LeviathanBombExplodeTimer"
+        },
+        {
+            "id": 161,
+            "name": "SS_LeviathanBombMissileTargetCheck"
+        },
+        {
+            "id": 162,
+            "name": "SS_TerraTronCollisionCheck"
+        },
+        {
+            "id": 163,
+            "name": "SS_CarrierBossCollisionCheck"
+        },
+        {
+            "id": 164,
+            "name": "SS_CorruptorMissileTargetCheck"
+        },
+        {
+            "id": 165,
+            "name": "SS_Invulnerable"
+        },
+        {
+            "id": 166,
+            "name": "SS_LeviathanTentacleMissileTargetCheck"
+        },
+        {
+            "id": 167,
+            "name": "SS_LeviathanTentacleMissileTargetCheckInverted"
+        },
+        {
+            "id": 168,
+            "name": "SS_LeviathanTentacleTargetDeathDelay"
+        },
+        {
+            "id": 169,
+            "name": "SS_LeviathanTentacleMissileScanSwapDelay"
+        },
+        {
+            "id": 170,
+            "name": "SS_PowerUpDiagonal2"
+        },
+        {
+            "id": 171,
+            "name": "SS_BattlecruiserCollisionCheck"
+        },
+        {
+            "id": 172,
+            "name": "SS_TerraTronMissileSpinnerMissileLauncher"
+        },
+        {
+            "id": 173,
+            "name": "SS_TerraTronMissileSpinnerCollisionCheck"
+        },
+        {
+            "id": 174,
+            "name": "SS_TerraTronMissileLauncher"
+        },
+        {
+            "id": 175,
+            "name": "SS_BattlecruiserMissileLauncher"
+        },
+        {
+            "id": 176,
+            "name": "SS_TerraTronStun"
+        },
+        {
+            "id": 177,
+            "name": "SS_VikingRespawn"
+        },
+        {
+            "id": 178,
+            "name": "SS_WraithCollisionCheck"
+        },
+        {
+            "id": 179,
+            "name": "SS_ScourgeMissileTargetCheck"
+        },
+        {
+            "id": 180,
+            "name": "SS_ScourgeDeath"
+        },
+        {
+            "id": 181,
+            "name": "SS_SwarmGuardianCollisionCheck"
+        },
+        {
+            "id": 182,
+            "name": "SS_FighterBombMissileDeath"
+        },
+        {
+            "id": 183,
+            "name": "SS_FighterDroneDamageResponse"
+        },
+        {
+            "id": 184,
+            "name": "SS_InterceptorCollisionCheck"
+        },
+        {
+            "id": 185,
+            "name": "SS_CarrierCollisionCheck"
+        },
+        {
+            "id": 186,
+            "name": "SS_MissileTargetCheckVikingDrone"
+        },
+        {
+            "id": 187,
+            "name": "SS_MissileTargetCheckVikingStrong1"
+        },
+        {
+            "id": 188,
+            "name": "SS_MissileTargetCheckVikingStrong2"
+        },
+        {
+            "id": 189,
+            "name": "SS_PowerUpHealth1"
+        },
+        {
+            "id": 190,
+            "name": "SS_PowerUpHealth2"
+        },
+        {
+            "id": 191,
+            "name": "SS_PowerUpStrong"
+        },
+        {
+            "id": 192,
+            "name": "SS_PowerupMorphToBomb"
+        },
+        {
+            "id": 193,
+            "name": "SS_PowerupMorphToHealth"
+        },
+        {
+            "id": 194,
+            "name": "SS_PowerupMorphToSideMissiles"
+        },
+        {
+            "id": 195,
+            "name": "SS_PowerupMorphToStrongerMissiles"
+        },
+        {
+            "id": 196,
+            "name": "SS_CorruptorCollisionCheck"
+        },
+        {
+            "id": 197,
+            "name": "SS_ScoutCollisionCheck"
+        },
+        {
+            "id": 198,
+            "name": "SS_PhoenixCollisionCheck"
+        },
+        {
+            "id": 199,
+            "name": "SS_ScourgeCollisionCheck"
+        },
+        {
+            "id": 200,
+            "name": "SS_LeviathanCollisionCheck"
+        },
+        {
+            "id": 201,
+            "name": "SS_ScienceVesselCollisionCheck"
+        },
+        {
+            "id": 202,
+            "name": "SS_TerraTronSawCollisionCheck"
+        },
+        {
+            "id": 203,
+            "name": "SS_LightningProjectorCollisionCheck"
+        },
+        {
+            "id": 204,
+            "name": "ShiftDelay"
+        },
+        {
+            "id": 205,
+            "name": "BioStasis"
+        },
+        {
+            "id": 206,
+            "name": "PersonalCloakingFree"
+        },
+        {
+            "id": 207,
+            "name": "EMPDrain"
+        },
+        {
+            "id": 208,
+            "name": "MindBlastStun"
+        },
+        {
+            "id": 209,
+            "name": "330mmBarrageCannons"
+        },
+        {
+            "id": 210,
+            "name": "VoodooShield"
+        },
+        {
+            "id": 211,
+            "name": "SpectreCloakingFree"
+        },
+        {
+            "id": 212,
+            "name": "UltrasonicPulseStun"
+        },
+        {
+            "id": 213,
+            "name": "Irradiate"
+        },
+        {
+            "id": 214,
+            "name": "NydusWormLavaInstantDeath"
+        },
+        {
+            "id": 215,
+            "name": "PredatorCloaking"
+        },
+        {
+            "id": 216,
+            "name": "PsiDisruption"
+        },
+        {
+            "id": 217,
+            "name": "MindControl"
+        },
+        {
+            "id": 218,
+            "name": "QueenKnockdown"
+        },
+        {
+            "id": 219,
+            "name": "ScienceVesselCloakField"
+        },
+        {
+            "id": 220,
+            "name": "SporeCannonMissile"
+        },
+        {
+            "id": 221,
+            "name": "ArtanisTemporalRiftUnit"
+        },
+        {
+            "id": 222,
+            "name": "ArtanisCloakingFieldEffect"
+        },
+        {
+            "id": 223,
+            "name": "ArtanisVortexBehavior"
+        },
+        {
+            "id": 224,
+            "name": "Incapacitated"
+        },
+        {
+            "id": 225,
+            "name": "KarassPsiStorm"
+        },
+        {
+            "id": 226,
+            "name": "DutchMarauderSlow"
+        },
+        {
+            "id": 227,
+            "name": "JumpStompStun"
+        },
+        {
+            "id": 228,
+            "name": "JumpStompFStun"
+        },
+        {
+            "id": 229,
+            "name": "RaynorMissileTimedLife"
+        },
+        {
+            "id": 230,
+            "name": "PsionicShockwaveHeightAndStun"
+        },
+        {
+            "id": 231,
+            "name": "ShadowClone"
+        },
+        {
+            "id": 232,
+            "name": "AutomatedRepair"
+        },
+        {
+            "id": 233,
+            "name": "Slimed"
+        },
+        {
+            "id": 234,
+            "name": "RaynorTimeBombMissile"
+        },
+        {
+            "id": 235,
+            "name": "RaynorTimeBombUnit"
+        },
+        {
+            "id": 236,
+            "name": "TychusCommandoStimPack"
+        },
+        {
+            "id": 237,
+            "name": "ViralPlasma"
+        },
+        {
+            "id": 238,
+            "name": "Napalm"
+        },
+        {
+            "id": 239,
+            "name": "BurstCapacitorsDamageBuff"
+        },
+        {
+            "id": 240,
+            "name": "ColonyInfestation"
+        },
+        {
+            "id": 241,
+            "name": "Domination"
+        },
+        {
+            "id": 242,
+            "name": "EMPBurst"
+        },
+        {
+            "id": 243,
+            "name": "HybridCZergyRoots"
+        },
+        {
+            "id": 244,
+            "name": "HybridFZergyRoots"
+        },
+        {
+            "id": 245,
+            "name": "LockdownB"
+        },
+        {
+            "id": 246,
+            "name": "SpectreLockdownB"
+        },
+        {
+            "id": 247,
+            "name": "VoodooLockdown"
+        },
+        {
+            "id": 248,
+            "name": "ZeratulStun"
+        },
+        {
+            "id": 249,
+            "name": "BuildingScarab"
+        },
+        {
+            "id": 250,
+            "name": "VortexBehaviorEradicator"
+        },
+        {
+            "id": 251,
+            "name": "GhostBlast"
+        },
+        {
+            "id": 252,
+            "name": "HeroicBuff03"
+        },
+        {
+            "id": 253,
+            "name": "CannonRadar"
+        },
+        {
+            "id": 254,
+            "name": "SS_MissileTargetCheckViking"
+        },
+        {
+            "id": 255,
+            "name": "SS_MissileTargetCheck"
+        },
+        {
+            "id": 256,
+            "name": "SS_MaxSpeed"
+        },
+        {
+            "id": 257,
+            "name": "SS_MaxAcceleration"
+        },
+        {
+            "id": 258,
+            "name": "SS_PowerUpDiagonal1"
+        },
+        {
+            "id": 259,
+            "name": "Water"
+        },
+        {
+            "id": 260,
+            "name": "DefensiveMatrix"
+        },
+        {
+            "id": 261,
+            "name": "TestAttribute"
+        },
+        {
+            "id": 262,
+            "name": "TestVeterancy"
+        },
+        {
+            "id": 263,
+            "name": "ShredderSwarmDamageApply"
+        },
+        {
+            "id": 264,
+            "name": "CorruptorInfesting"
+        },
+        {
+            "id": 265,
+            "name": "MercGroundDropDelay"
+        },
+        {
+            "id": 266,
+            "name": "MercGroundDrop"
+        },
+        {
+            "id": 267,
+            "name": "MercAirDropDelay"
+        },
+        {
+            "id": 268,
+            "name": "SpectreHoldFire"
+        },
+        {
+            "id": 269,
+            "name": "SpectreHoldFireB"
+        },
+        {
+            "id": 270,
+            "name": "ItemGravityBombs"
+        },
+        {
+            "id": 271,
+            "name": "CarryMineralFieldMinerals"
+        },
+        {
+            "id": 272,
+            "name": "CarryHighYieldMineralFieldMinerals"
+        },
+        {
+            "id": 273,
+            "name": "CarryHarvestableVespeneGeyserGas"
+        },
+        {
+            "id": 274,
+            "name": "CarryHarvestableVespeneGeyserGasProtoss"
+        },
+        {
+            "id": 275,
+            "name": "CarryHarvestableVespeneGeyserGasZerg"
+        },
+        {
+            "id": 276,
+            "name": "PermanentlyCloaked"
+        },
+        {
+            "id": 277,
+            "name": "RavenScramblerMissile"
+        },
+        {
+            "id": 278,
+            "name": "RavenShredderMissileTimeout"
+        },
+        {
+            "id": 279,
+            "name": "RavenShredderMissileTint"
+        },
+        {
+            "id": 280,
+            "name": "RavenShredderMissileArmorReduction"
+        },
+        {
+            "id": 281,
+            "name": "ChronoBoostEnergyCost"
+        },
+        {
+            "id": 282,
+            "name": "NexusShieldRechargeOnPylonBehavior"
+        },
+        {
+            "id": 283,
+            "name": "NexusShieldRechargeOnPylonBehaviorSecondaryOnTarget"
+        },
+        {
+            "id": 284,
+            "name": "InfestorEnsnare"
+        },
+        {
+            "id": 285,
+            "name": "InfestorEnsnareMakePrecursorReheightSource"
+        },
+        {
+            "id": 286,
+            "name": "NexusShieldOvercharge"
+        },
+        {
+            "id": 287,
+            "name": "ParasiticBombDelayTimedLife"
+        },
+        {
+            "id": 288,
+            "name": "Transfusion"
+        }
+    ]
+}

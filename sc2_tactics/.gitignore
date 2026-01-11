@@ -1,0 +1,13 @@
+__pycache__/
+*.DS_Store
+*.pyc
+*.egg-info/
+*.MPQ
+*.SC2Archive
+*.SC2Assets
+*.SC2Data
+*.SC2Locale
+*.SC2Map
+*.SC2Maps
+*.SC2Mod
+*.SC2Replay

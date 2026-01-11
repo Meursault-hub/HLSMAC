@@ -1,0 +1,80 @@
+{
+    "Effects": [
+        {
+            "id": 0,
+            "name": "Null"
+        },
+        {
+            "friendlyname": "PsiStorm",
+            "id": 1,
+            "name": "PsiStormPersistent",
+            "radius": 1.5
+        },
+        {
+            "friendlyname": "GuardianShield",
+            "id": 2,
+            "name": "GuardianShieldPersistent",
+            "radius": 4.0
+        },
+        {
+            "friendlyname": "TemporalFieldGrowing",
+            "id": 3,
+            "name": "TemporalFieldGrowingBubbleCreatePersistent",
+            "radius": 4.0
+        },
+        {
+            "friendlyname": "TemporalField",
+            "id": 4,
+            "name": "TemporalFieldAfterBubbleCreatePersistent",
+            "radius": 4.0
+        },
+        {
+            "friendlyname": "ThermalLance",
+            "id": 5,
+            "name": "ThermalLancesForward",
+            "radius": 0.15
+        },
+        {
+            "friendlyname": "ScannerSweep",
+            "id": 6,
+            "name": "ScannerSweep",
+            "radius": 13.0
+        },
+        {
+            "friendlyname": "NukeDot",
+            "id": 7,
+            "name": "NukePersistent",
+            "radius": 0.5
+        },
+        {
+            "friendlyname": "LiberatorDefenderZoneSetup",
+            "id": 8,
+            "name": "LiberatorTargetMorphDelayPersistent",
+            "radius": 5.0
+        },
+        {
+            "friendlyname": "LiberatorDefenderZone",
+            "id": 9,
+            "name": "LiberatorTargetMorphPersistent",
+            "radius": 5.0
+        },
+        {
+            "friendlyname": "BlindingCloud",
+            "id": 10,
+            "name": "BlindingCloudCP",
+            "radius": 2.0
+        },
+        {
+            "friendlyname": "CorrosiveBile",
+            "id": 11,
+            "name": "RavagerCorrosiveBileCP",
+            "radius": 0.5
+        },
+        {
+            "friendlyname": "LurkerSpines",
+            "id": 12,
+            "name": "LurkerMP",
+            "radius": 0.5
+        }
+    ]
+}

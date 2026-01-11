@@ -1,0 +1,7847 @@
+{
+    "Units": [
+        {
+            "id": 0,
+            "name": "NotAUnit"
+        },
+        {
+            "id": 1,
+            "name": "System_Snapshot_Dummy"
+        },
+        {
+            "id": 2,
+            "name": "Ball"
+        },
+        {
+            "id": 3,
+            "name": "StereoscopicOptionsUnit"
+        },
+        {
+            "id": 4,
+            "name": "Colossus"
+        },
+        {
+            "id": 5,
+            "name": "TechLab"
+        },
+        {
+            "id": 6,
+            "name": "Reactor"
+        },
+        {
+            "friendlyname": "Infested Terran",
+            "id": 7,
+            "name": "InfestorTerran"
+        },
+        {
+            "friendlyname": "Baneling Cocoon",
+            "id": 8,
+            "name": "BanelingCocoon"
+        },
+        {
+            "id": 9,
+            "name": "Baneling"
+        },
+        {
+            "id": 10,
+            "name": "Mothership"
+        },
+        {
+            "id": 11,
+            "name": "PointDefenseDrone"
+        },
+        {
+            "id": 12,
+            "name": "Changeling"
+        },
+        {
+            "friendlyname": "Changeling Zealot",
+            "id": 13,
+            "name": "ChangelingZealot"
+        },
+        {
+            "friendlyname": "Changeling Marine WithShield",
+            "id": 14,
+            "name": "ChangelingMarineShield"
+        },
+        {
+            "friendlyname": "Changeling Marine",
+            "id": 15,
+            "name": "ChangelingMarine"
+        },
+        {
+            "friendlyname": "Changeling Zergling Wings",
+            "id": 16,
+            "name": "ChangelingZerglingWings"
+        },
+        {
+            "friendlyname": "Changeling Zergling",
+            "id": 17,
+            "name": "ChangelingZergling"
+        },
+        {
+            "id": 18,
+            "name": "CommandCenter"
+        },
+        {
+            "id": 19,
+            "name": "SupplyDepot"
+        },
+        {
+            "id": 20,
+            "name": "Refinery"
+        },
+        {
+            "id": 21,
+            "name": "Barracks"
+        },
+        {
+            "id": 22,
+            "name": "EngineeringBay"
+        },
+        {
+            "id": 23,
+            "name": "MissileTurret"
+        },
+        {
+            "id": 24,
+            "name": "Bunker"
+        },
+        {
+            "id": 25,
+            "name": "SensorTower"
+        },
+        {
+            "id": 26,
+            "name": "GhostAcademy"
+        },
+        {
+            "id": 27,
+            "name": "Factory"
+        },
+        {
+            "id": 28,
+            "name": "Starport"
+        },
+        {
+            "id": 29,
+            "name": "Armory"
+        },
+        {
+            "id": 30,
+            "name": "FusionCore"
+        },
+        {
+            "id": 31,
+            "name": "AutoTurret"
+        },
+        {
+            "friendlyname": "SiegeTank Sieged",
+            "id": 32,
+            "name": "SiegeTankSieged"
+        },
+        {
+            "id": 33,
+            "name": "SiegeTank"
+        },
+        {
+            "friendlyname": "Viking Assault",
+            "id": 34,
+            "name": "VikingAssault"
+        },
+        {
+            "friendlyname": "Viking Fighter",
+            "id": 35,
+            "name": "VikingFighter"
+        },
+        {
+            "friendlyname": "CommandCenter Flying",
+            "id": 36,
+            "name": "CommandCenterFlying"
+        },
+        {
+            "friendlyname": "Barracks TechLab",
+            "id": 37,
+            "name": "BarracksTechLab"
+        },
+        {
+            "friendlyname": "Barracks Reactor",
+            "id": 38,
+            "name": "BarracksReactor"
+        },
+        {
+            "friendlyname": "Factory TechLab",
+            "id": 39,
+            "name": "FactoryTechLab"
+        },
+        {
+            "friendlyname": "Factory Reactor",
+            "id": 40,
+            "name": "FactoryReactor"
+        },
+        {
+            "friendlyname": "Starport TechLab",
+            "id": 41,
+            "name": "StarportTechLab"
+        },
+        {
+            "friendlyname": "Starport Reactor",
+            "id": 42,
+            "name": "StarportReactor"
+        },
+        {
+            "friendlyname": "Factory Flying",
+            "id": 43,
+            "name": "FactoryFlying"
+        },
+        {
+            "friendlyname": "Starport Flying",
+            "id": 44,
+            "name": "StarportFlying"
+        },
+        {
+            "id": 45,
+            "name": "SCV"
+        },
+        {
+            "friendlyname": "Barracks Flying",
+            "id": 46,
+            "name": "BarracksFlying"
+        },
+        {
+            "friendlyname": "SupplyDepot Lowered",
+            "id": 47,
+            "name": "SupplyDepotLowered"
+        },
+        {
+            "id": 48,
+            "name": "Marine"
+        },
+        {
+            "id": 49,
+            "name": "Reaper"
+        },
+        {
+            "id": 50,
+            "name": "Ghost"
+        },
+        {
+            "id": 51,
+            "name": "Marauder"
+        },
+        {
+            "id": 52,
+            "name": "Thor"
+        },
+        {
+            "id": 53,
+            "name": "Hellion"
+        },
+        {
+            "id": 54,
+            "name": "Medivac"
+        },
+        {
+            "id": 55,
+            "name": "Banshee"
+        },
+        {
+            "id": 56,
+            "name": "Raven"
+        },
+        {
+            "id": 57,
+            "name": "Battlecruiser"
+        },
+        {
+            "id": 58,
+            "name": "Nuke"
+        },
+        {
+            "id": 59,
+            "name": "Nexus"
+        },
+        {
+            "id": 60,
+            "name": "Pylon"
+        },
+        {
+            "id": 61,
+            "name": "Assimilator"
+        },
+        {
+            "id": 62,
+            "name": "Gateway"
+        },
+        {
+            "id": 63,
+            "name": "Forge"
+        },
+        {
+            "id": 64,
+            "name": "FleetBeacon"
+        },
+        {
+            "id": 65,
+            "name": "TwilightCouncil"
+        },
+        {
+            "id": 66,
+            "name": "PhotonCannon"
+        },
+        {
+            "id": 67,
+            "name": "Stargate"
+        },
+        {
+            "id": 68,
+            "name": "TemplarArchive"
+        },
+        {
+            "id": 69,
+            "name": "DarkShrine"
+        },
+        {
+            "id": 70,
+            "name": "RoboticsBay"
+        },
+        {
+            "id": 71,
+            "name": "RoboticsFacility"
+        },
+        {
+            "id": 72,
+            "name": "CyberneticsCore"
+        },
+        {
+            "id": 73,
+            "name": "Zealot"
+        },
+        {
+            "id": 74,
+            "name": "Stalker"
+        },
+        {
+            "id": 75,
+            "name": "HighTemplar"
+        },
+        {
+            "id": 76,
+            "name": "DarkTemplar"
+        },
+        {
+            "id": 77,
+            "name": "Sentry"
+        },
+        {
+            "id": 78,
+            "name": "Phoenix"
+        },
+        {
+            "id": 79,
+            "name": "Carrier"
+        },
+        {
+            "id": 80,
+            "name": "VoidRay"
+        },
+        {
+            "id": 81,
+            "name": "WarpPrism"
+        },
+        {
+            "id": 82,
+            "name": "Observer"
+        },
+        {
+            "id": 83,
+            "name": "Immortal"
+        },
+        {
+            "id": 84,
+            "name": "Probe"
+        },
+        {
+            "id": 85,
+            "name": "Interceptor"
+        },
+        {
+            "id": 86,
+            "name": "Hatchery"
+        },
+        {
+            "id": 87,
+            "name": "CreepTumor"
+        },
+        {
+            "id": 88,
+            "name": "Extractor"
+        },
+        {
+            "id": 89,
+            "name": "SpawningPool"
+        },
+        {
+            "id": 90,
+            "name": "EvolutionChamber"
+        },
+        {
+            "id": 91,
+            "name": "HydraliskDen"
+        },
+        {
+            "id": 92,
+            "name": "Spire"
+        },
+        {
+            "id": 93,
+            "name": "UltraliskCavern"
+        },
+        {
+            "id": 94,
+            "name": "InfestationPit"
+        },
+        {
+            "id": 95,
+            "name": "NydusNetwork"
+        },
+        {
+            "id": 96,
+            "name": "BanelingNest"
+        },
+        {
+            "id": 97,
+            "name": "RoachWarren"
+        },
+        {
+            "id": 98,
+            "name": "SpineCrawler"
+        },
+        {
+            "id": 99,
+            "name": "SporeCrawler"
+        },
+        {
+            "id": 100,
+            "name": "Lair"
+        },
+        {
+            "id": 101,
+            "name": "Hive"
+        },
+        {
+            "id": 102,
+            "name": "GreaterSpire"
+        },
+        {
+            "friendlyname": "Cocoon",
+            "id": 103,
+            "name": "Egg"
+        },
+        {
+            "id": 104,
+            "name": "Drone"
+        },
+        {
+            "id": 105,
+            "name": "Zergling"
+        },
+        {
+            "id": 106,
+            "name": "Overlord"
+        },
+        {
+            "id": 107,
+            "name": "Hydralisk"
+        },
+        {
+            "id": 108,
+            "name": "Mutalisk"
+        },
+        {
+            "id": 109,
+            "name": "Ultralisk"
+        },
+        {
+            "id": 110,
+            "name": "Roach"
+        },
+        {
+            "id": 111,
+            "name": "Infestor"
+        },
+        {
+            "id": 112,
+            "name": "Corruptor"
+        },
+        {
+            "friendlyname": "BroodLord_Cocoon",
+            "id": 113,
+            "name": "BroodLordCocoon"
+        },
+        {
+            "id": 114,
+            "name": "BroodLord"
+        },
+        {
+            "friendlyname": "Baneling Burrowed",
+            "id": 115,
+            "name": "BanelingBurrowed"
+        },
+        {
+            "friendlyname": "Drone Burrowed",
+            "id": 116,
+            "name": "DroneBurrowed"
+        },
+        {
+            "friendlyname": "Hydralisk Burrowed",
+            "id": 117,
+            "name": "HydraliskBurrowed"
+        },
+        {
+            "friendlyname": "Roach Burrowed",
+            "id": 118,
+            "name": "RoachBurrowed"
+        },
+        {
+            "friendlyname": "Zergling Burrowed",
+            "id": 119,
+            "name": "ZerglingBurrowed"
+        },
+        {
+            "friendlyname": "Infested Terran Burrowed",
+            "id": 120,
+            "name": "InfestorTerranBurrowed"
+        },
+        {
+            "id": 121,
+            "name": "RedstoneLavaCritterBurrowed"
+        },
+        {
+            "id": 122,
+            "name": "RedstoneLavaCritterInjuredBurrowed"
+        },
+        {
+            "id": 123,
+            "name": "RedstoneLavaCritter"
+        },
+        {
+            "id": 124,
+            "name": "RedstoneLavaCritterInjured"
+        },
+        {
+            "friendlyname": "Queen Burrowed",
+            "id": 125,
+            "name": "QueenBurrowed"
+        },
+        {
+            "id": 126,
+            "name": "Queen"
+        },
+        {
+            "friendlyname": "Infestor Burrowed",
+            "id": 127,
+            "name": "InfestorBurrowed"
+        },
+        {
+            "friendlyname": "Overseer Cocoon",
+            "id": 128,
+            "name": "OverlordCocoon"
+        },
+        {
+            "id": 129,
+            "name": "Overseer"
+        },
+        {
+            "id": 130,
+            "name": "PlanetaryFortress"
+        },
+        {
+            "friendlyname": "Ultralisk Burrowed",
+            "id": 131,
+            "name": "UltraliskBurrowed"
+        },
+        {
+            "id": 132,
+            "name": "OrbitalCommand"
+        },
+        {
+            "id": 133,
+            "name": "WarpGate"
+        },
+        {
+            "friendlyname": "OrbitalCommand Flying",
+            "id": 134,
+            "name": "OrbitalCommandFlying"
+        },
+        {
+            "id": 135,
+            "name": "ForceField"
+        },
+        {
+            "friendlyname": "WarpPrism Phasing",
+            "id": 136,
+            "name": "WarpPrismPhasing"
+        },
+        {
+            "friendlyname": "CreepTumor Burrowed",
+            "id": 137,
+            "name": "CreepTumorBurrowed"
+        },
+        {
+            "friendlyname": "CreepTumor Queen",
+            "id": 138,
+            "name": "CreepTumorQueen"
+        },
+        {
+            "friendlyname": "SpineCrawler Uprooted",
+            "id": 139,
+            "name": "SpineCrawlerUprooted"
+        },
+        {
+            "friendlyname": "SporeCrawler Uprooted",
+            "id": 140,
+            "name": "SporeCrawlerUprooted"
+        },
+        {
+            "id": 141,
+            "name": "Archon"
+        },
+        {
+            "id": 142,
+            "name": "NydusCanal"
+        },
+        {
+            "id": 143,
+            "name": "BroodlingEscort"
+        },
+        {
+            "id": 144,
+            "name": "GhostAlternate"
+        },
+        {
+            "id": 145,
+            "name": "GhostNova"
+        },
+        {
+            "id": 146,
+            "name": "RichMineralField"
+        },
+        {
+            "id": 147,
+            "name": "RichMineralField750"
+        },
+        {
+            "id": 148,
+            "name": "Ursadon"
+        },
+        {
+            "id": 149,
+            "name": "XelNagaTower"
+        },
+        {
+            "friendlyname": "Infested Terran Cocoon",
+            "id": 150,
+            "name": "InfestedTerransEgg"
+        },
+        {
+            "id": 151,
+            "name": "Larva"
+        },
+        {
+            "id": 152,
+            "name": "ReaperPlaceholder"
+        },
+        {
+            "id": 153,
+            "name": "MarineACGluescreenDummy"
+        },
+        {
+            "id": 154,
+            "name": "FirebatACGluescreenDummy"
+        },
+        {
+            "id": 155,
+            "name": "MedicACGluescreenDummy"
+        },
+        {
+            "id": 156,
+            "name": "MarauderACGluescreenDummy"
+        },
+        {
+            "id": 157,
+            "name": "VultureACGluescreenDummy"
+        },
+        {
+            "id": 158,
+            "name": "SiegeTankACGluescreenDummy"
+        },
+        {
+            "id": 159,
+            "name": "VikingACGluescreenDummy"
+        },
+        {
+            "id": 160,
+            "name": "BansheeACGluescreenDummy"
+        },
+        {
+            "id": 161,
+            "name": "BattlecruiserACGluescreenDummy"
+        },
+        {
+            "id": 162,
+            "name": "OrbitalCommandACGluescreenDummy"
+        },
+        {
+            "id": 163,
+            "name": "BunkerACGluescreenDummy"
+        },
+        {
+            "id": 164,
+            "name": "BunkerUpgradedACGluescreenDummy"
+        },
+        {
+            "id": 165,
+            "name": "MissileTurretACGluescreenDummy"
+        },
+        {
+            "id": 166,
+            "name": "HellbatACGluescreenDummy"
+        },
+        {
+            "id": 167,
+            "name": "GoliathACGluescreenDummy"
+        },
+        {
+            "id": 168,
+            "name": "CycloneACGluescreenDummy"
+        },
+        {
+            "id": 169,
+            "name": "WraithACGluescreenDummy"
+        },
+        {
+            "id": 170,
+            "name": "ScienceVesselACGluescreenDummy"
+        },
+        {
+            "id": 171,
+            "name": "HerculesACGluescreenDummy"
+        },
+        {
+            "id": 172,
+            "name": "ThorACGluescreenDummy"
+        },
+        {
+            "id": 173,
+            "name": "PerditionTurretACGluescreenDummy"
+        },
+        {
+            "id": 174,
+            "name": "FlamingBettyACGluescreenDummy"
+        },
+        {
+            "id": 175,
+            "name": "DevastationTurretACGluescreenDummy"
+        },
+        {
+            "id": 176,
+            "name": "BlasterBillyACGluescreenDummy"
+        },
+        {
+            "id": 177,
+            "name": "SpinningDizzyACGluescreenDummy"
+        },
+        {
+            "id": 178,
+            "name": "ZerglingKerriganACGluescreenDummy"
+        },
+        {
+            "id": 179,
+            "name": "RaptorACGluescreenDummy"
+        },
+        {
+            "id": 180,
+            "name": "QueenCoopACGluescreenDummy"
+        },
+        {
+            "id": 181,
+            "name": "HydraliskACGluescreenDummy"
+        },
+        {
+            "id": 182,
+            "name": "HydraliskLurkerACGluescreenDummy"
+        },
+        {
+            "id": 183,
+            "name": "MutaliskBroodlordACGluescreenDummy"
+        },
+        {
+            "id": 184,
+            "name": "BroodLordACGluescreenDummy"
+        },
+        {
+            "id": 185,
+            "name": "UltraliskACGluescreenDummy"
+        },
+        {
+            "id": 186,
+            "name": "TorrasqueACGluescreenDummy"
+        },
+        {
+            "id": 187,
+            "name": "OverseerACGluescreenDummy"
+        },
+        {
+            "id": 188,
+            "name": "LurkerACGluescreenDummy"
+        },
+        {
+            "id": 189,
+            "name": "SpineCrawlerACGluescreenDummy"
+        },
+        {
+            "id": 190,
+            "name": "SporeCrawlerACGluescreenDummy"
+        },
+        {
+            "id": 191,
+            "name": "NydusNetworkACGluescreenDummy"
+        },
+        {
+            "id": 192,
+            "name": "OmegaNetworkACGluescreenDummy"
+        },
+        {
+            "id": 193,
+            "name": "ZerglingZagaraACGluescreenDummy"
+        },
+        {
+            "id": 194,
+            "name": "SwarmlingACGluescreenDummy"
+        },
+        {
+            "id": 195,
+            "name": "BanelingACGluescreenDummy"
+        },
+        {
+            "id": 196,
+            "name": "SplitterlingACGluescreenDummy"
+        },
+        {
+            "id": 197,
+            "name": "AberrationACGluescreenDummy"
+        },
+        {
+            "id": 198,
+            "name": "ScourgeACGluescreenDummy"
+        },
+        {
+            "id": 199,
+            "name": "CorruptorACGluescreenDummy"
+        },
+        {
+            "id": 200,
+            "name": "BileLauncherACGluescreenDummy"
+        },
+        {
+            "id": 201,
+            "name": "SwarmQueenACGluescreenDummy"
+        },
+        {
+            "id": 202,
+            "name": "RoachACGluescreenDummy"
+        },
+        {
+            "id": 203,
+            "name": "RoachVileACGluescreenDummy"
+        },
+        {
+            "id": 204,
+            "name": "RavagerACGluescreenDummy"
+        },
+        {
+            "id": 205,
+            "name": "SwarmHostACGluescreenDummy"
+        },
+        {
+            "id": 206,
+            "name": "MutaliskACGluescreenDummy"
+        },
+        {
+            "id": 207,
+            "name": "GuardianACGluescreenDummy"
+        },
+        {
+            "id": 208,
+            "name": "DevourerACGluescreenDummy"
+        },
+        {
+            "id": 209,
+            "name": "ViperACGluescreenDummy"
+        },
+        {
+            "id": 210,
+            "name": "BrutaliskACGluescreenDummy"
+        },
+        {
+            "id": 211,
+            "name": "LeviathanACGluescreenDummy"
+        },
+        {
+            "id": 212,
+            "name": "ZealotACGluescreenDummy"
+        },
+        {
+            "id": 213,
+            "name": "ZealotAiurACGluescreenDummy"
+        },
+        {
+            "id": 214,
+            "name": "DragoonACGluescreenDummy"
+        },
+        {
+            "id": 215,
+            "name": "HighTemplarACGluescreenDummy"
+        },
+        {
+            "id": 216,
+            "name": "ArchonACGluescreenDummy"
+        },
+        {
+            "id": 217,
+            "name": "ImmortalACGluescreenDummy"
+        },
+        {
+            "id": 218,
+            "name": "ObserverACGluescreenDummy"
+        },
+        {
+            "id": 219,
+            "name": "PhoenixAiurACGluescreenDummy"
+        },
+        {
+            "id": 220,
+            "name": "ReaverACGluescreenDummy"
+        },
+        {
+            "id": 221,
+            "name": "TempestACGluescreenDummy"
+        },
+        {
+            "id": 222,
+            "name": "PhotonCannonACGluescreenDummy"
+        },
+        {
+            "id": 223,
+            "name": "ZealotVorazunACGluescreenDummy"
+        },
+        {
+            "id": 224,
+            "name": "ZealotShakurasACGluescreenDummy"
+        },
+        {
+            "id": 225,
+            "name": "StalkerShakurasACGluescreenDummy"
+        },
+        {
+            "id": 226,
+            "name": "DarkTemplarShakurasACGluescreenDummy"
+        },
+        {
+            "id": 227,
+            "name": "CorsairACGluescreenDummy"
+        },
+        {
+            "id": 228,
+            "name": "VoidRayACGluescreenDummy"
+        },
+        {
+            "id": 229,
+            "name": "VoidRayShakurasACGluescreenDummy"
+        },
+        {
+            "id": 230,
+            "name": "OracleACGluescreenDummy"
+        },
+        {
+            "id": 231,
+            "name": "DarkArchonACGluescreenDummy"
+        },
+        {
+            "id": 232,
+            "name": "DarkPylonACGluescreenDummy"
+        },
+        {
+            "id": 233,
+            "name": "ZealotPurifierACGluescreenDummy"
+        },
+        {
+            "id": 234,
+            "name": "SentryPurifierACGluescreenDummy"
+        },
+        {
+            "id": 235,
+            "name": "ImmortalKaraxACGluescreenDummy"
+        },
+        {
+            "id": 236,
+            "name": "ColossusACGluescreenDummy"
+        },
+        {
+            "id": 237,
+            "name": "ColossusPurifierACGluescreenDummy"
+        },
+        {
+            "id": 238,
+            "name": "PhoenixPurifierACGluescreenDummy"
+        },
+        {
+            "id": 239,
+            "name": "CarrierACGluescreenDummy"
+        },
+        {
+            "id": 240,
+            "name": "CarrierAiurACGluescreenDummy"
+        },
+        {
+            "id": 241,
+            "name": "KhaydarinMonolithACGluescreenDummy"
+        },
+        {
+            "id": 242,
+            "name": "ShieldBatteryACGluescreenDummy"
+        },
+        {
+            "id": 243,
+            "name": "EliteMarineACGluescreenDummy"
+        },
+        {
+            "id": 244,
+            "name": "MarauderCommandoACGluescreenDummy"
+        },
+        {
+            "id": 245,
+            "name": "SpecOpsGhostACGluescreenDummy"
+        },
+        {
+            "id": 246,
+            "name": "HellbatRangerACGluescreenDummy"
+        },
+        {
+            "id": 247,
+            "name": "StrikeGoliathACGluescreenDummy"
+        },
+        {
+            "id": 248,
+            "name": "HeavySiegeTankACGluescreenDummy"
+        },
+        {
+            "id": 249,
+            "name": "RaidLiberatorACGluescreenDummy"
+        },
+        {
+            "id": 250,
+            "name": "RavenTypeIIACGluescreenDummy"
+        },
+        {
+            "id": 251,
+            "name": "CovertBansheeACGluescreenDummy"
+        },
+        {
+            "id": 252,
+            "name": "RailgunTurretACGluescreenDummy"
+        },
+        {
+            "id": 253,
+            "name": "BlackOpsMissileTurretACGluescreenDummy"
+        },
+        {
+            "id": 254,
+            "name": "SupplicantACGluescreenDummy"
+        },
+        {
+            "id": 255,
+            "name": "StalkerTaldarimACGluescreenDummy"
+        },
+        {
+            "id": 256,
+            "name": "SentryTaldarimACGluescreenDummy"
+        },
+        {
+            "id": 257,
+            "name": "HighTemplarTaldarimACGluescreenDummy"
+        },
+        {
+            "id": 258,
+            "name": "ImmortalTaldarimACGluescreenDummy"
+        },
+        {
+            "id": 259,
+            "name": "ColossusTaldarimACGluescreenDummy"
+        },
+        {
+            "id": 260,
+            "name": "WarpPrismTaldarimACGluescreenDummy"
+        },
+        {
+            "id": 261,
+            "name": "PhotonCannonTaldarimACGluescreenDummy"
+        },
+        {
+            "id": 262,
+            "name": "NeedleSpinesWeapon"
+        },
+        {
+            "id": 263,
+            "name": "CorruptionWeapon"
+        },
+        {
+            "id": 264,
+            "name": "InfestedTerransWeapon"
+        },
+        {
+            "id": 265,
+            "name": "NeuralParasiteWeapon"
+        },
+        {
+            "id": 266,
+            "name": "PointDefenseDroneReleaseWeapon"
+        },
+        {
+            "id": 267,
+            "name": "HunterSeekerWeapon"
+        },
+        {
+            "id": 268,
+            "name": "MULE"
+        },
+        {
+            "id": 269,
+            "name": "ThorAAWeapon"
+        },
+        {
+            "id": 270,
+            "name": "PunisherGrenadesLMWeapon"
+        },
+        {
+            "id": 271,
+            "name": "VikingFighterWeapon"
+        },
+        {
+            "id": 272,
+            "name": "ATALaserBatteryLMWeapon"
+        },
+        {
+            "id": 273,
+            "name": "ATSLaserBatteryLMWeapon"
+        },
+        {
+            "id": 274,
+            "name": "LongboltMissileWeapon"
+        },
+        {
+            "id": 275,
+            "name": "D8ChargeWeapon"
+        },
+        {
+            "id": 276,
+            "name": "YamatoWeapon"
+        },
+        {
+            "id": 277,
+            "name": "IonCannonsWeapon"
+        },
+        {
+            "id": 278,
+            "name": "AcidSalivaWeapon"
+        },
+        {
+            "id": 279,
+            "name": "SpineCrawlerWeapon"
+        },
+        {
+            "id": 280,
+            "name": "SporeCrawlerWeapon"
+        },
+        {
+            "id": 281,
+            "name": "GlaiveWurmWeapon"
+        },
+        {
+            "id": 282,
+            "name": "GlaiveWurmM2Weapon"
+        },
+        {
+            "id": 283,
+            "name": "GlaiveWurmM3Weapon"
+        },
+        {
+            "id": 284,
+            "name": "StalkerWeapon"
+        },
+        {
+            "id": 285,
+            "name": "EMP2Weapon"
+        },
+        {
+            "id": 286,
+            "name": "BacklashRocketsLMWeapon"
+        },
+        {
+            "id": 287,
+            "name": "PhotonCannonWeapon"
+        },
+        {
+            "id": 288,
+            "name": "ParasiteSporeWeapon"
+        },
+        {
+            "id": 289,
+            "name": "Broodling"
+        },
+        {
+            "id": 290,
+            "name": "BroodLordBWeapon"
+        },
+        {
+            "id": 291,
+            "name": "AutoTurretReleaseWeapon"
+        },
+        {
+            "id": 292,
+            "name": "LarvaReleaseMissile"
+        },
+        {
+            "id": 293,
+            "name": "AcidSpinesWeapon"
+        },
+        {
+            "id": 294,
+            "name": "FrenzyWeapon"
+        },
+        {
+            "id": 295,
+            "name": "ContaminateWeapon"
+        },
+        {
+            "id": 296,
+            "name": "BeaconRally"
+        },
+        {
+            "id": 297,
+            "name": "BeaconArmy"
+        },
+        {
+            "id": 298,
+            "name": "BeaconAttack"
+        },
+        {
+            "id": 299,
+            "name": "BeaconDefend"
+        },
+        {
+            "id": 300,
+            "name": "BeaconHarass"
+        },
+        {
+            "id": 301,
+            "name": "BeaconIdle"
+        },
+        {
+            "id": 302,
+            "name": "BeaconAuto"
+        },
+        {
+            "id": 303,
+            "name": "BeaconDetect"
+        },
+        {
+            "id": 304,
+            "name": "BeaconScout"
+        },
+        {
+            "id": 305,
+            "name": "BeaconClaim"
+        },
+        {
+            "id": 306,
+            "name": "BeaconExpand"
+        },
+        {
+            "id": 307,
+            "name": "BeaconCustom1"
+        },
+        {
+            "id": 308,
+            "name": "BeaconCustom2"
+        },
+        {
+            "id": 309,
+            "name": "BeaconCustom3"
+        },
+        {
+            "id": 310,
+            "name": "BeaconCustom4"
+        },
+        {
+            "id": 311,
+            "name": "Adept"
+        },
+        {
+            "id": 312,
+            "name": "Rocks2x2NonConjoined"
+        },
+        {
+            "id": 313,
+            "name": "FungalGrowthMissile"
+        },
+        {
+            "id": 314,
+            "name": "NeuralParasiteTentacleMissile"
+        },
+        {
+            "id": 315,
+            "name": "Beacon_Protoss"
+        },
+        {
+            "id": 316,
+            "name": "Beacon_ProtossSmall"
+        },
+        {
+            "id": 317,
+            "name": "Beacon_Terran"
+        },
+        {
+            "id": 318,
+            "name": "Beacon_TerranSmall"
+        },
+        {
+            "id": 319,
+            "name": "Beacon_Zerg"
+        },
+        {
+            "id": 320,
+            "name": "Beacon_ZergSmall"
+        },
+        {
+            "id": 321,
+            "name": "Lyote"
+        },
+        {
+            "id": 322,
+            "name": "CarrionBird"
+        },
+        {
+            "id": 323,
+            "name": "KarakMale"
+        },
+        {
+            "id": 324,
+            "name": "KarakFemale"
+        },
+        {
+            "id": 325,
+            "name": "UrsadakFemaleExotic"
+        },
+        {
+            "id": 326,
+            "name": "UrsadakMale"
+        },
+        {
+            "id": 327,
+            "name": "UrsadakFemale"
+        },
+        {
+            "id": 328,
+            "name": "UrsadakCalf"
+        },
+        {
+            "id": 329,
+            "name": "UrsadakMaleExotic"
+        },
+        {
+            "id": 330,
+            "name": "UtilityBot"
+        },
+        {
+            "id": 331,
+            "name": "CommentatorBot1"
+        },
+        {
+            "id": 332,
+            "name": "CommentatorBot2"
+        },
+        {
+            "id": 333,
+            "name": "CommentatorBot3"
+        },
+        {
+            "id": 334,
+            "name": "CommentatorBot4"
+        },
+        {
+            "id": 335,
+            "name": "Scantipede"
+        },
+        {
+            "id": 336,
+            "name": "Dog"
+        },
+        {
+            "id": 337,
+            "name": "Sheep"
+        },
+        {
+            "id": 338,
+            "name": "Cow"
+        },
+        {
+            "id": 339,
+            "name": "InfestedTerransEggPlacement"
+        },
+        {
+            "id": 340,
+            "name": "InfestorTerransWeapon"
+        },
+        {
+            "id": 341,
+            "name": "MineralField"
+        },
+        {
+            "id": 342,
+            "name": "VespeneGeyser"
+        },
+        {
+            "id": 343,
+            "name": "SpacePlatformGeyser"
+        },
+        {
+            "id": 344,
+            "name": "RichVespeneGeyser"
+        },
+        {
+            "id": 345,
+            "name": "DestructibleSearchlight"
+        },
+        {
+            "id": 346,
+            "name": "DestructibleBullhornLights"
+        },
+        {
+            "id": 347,
+            "name": "DestructibleStreetlight"
+        },
+        {
+            "id": 348,
+            "name": "DestructibleSpacePlatformSign"
+        },
+        {
+            "id": 349,
+            "name": "DestructibleStoreFrontCityProps"
+        },
+        {
+            "id": 350,
+            "name": "DestructibleBillboardTall"
+        },
+        {
+            "id": 351,
+            "name": "DestructibleBillboardScrollingText"
+        },
+        {
+            "id": 352,
+            "name": "DestructibleSpacePlatformBarrier"
+        },
+        {
+            "id": 353,
+            "name": "DestructibleSignsDirectional"
+        },
+        {
+            "id": 354,
+            "name": "DestructibleSignsConstruction"
+        },
+        {
+            "id": 355,
+            "name": "DestructibleSignsFunny"
+        },
+        {
+            "id": 356,
+            "name": "DestructibleSignsIcons"
+        },
+        {
+            "id": 357,
+            "name": "DestructibleSignsWarning"
+        },
+        {
+            "id": 358,
+            "name": "DestructibleGarage"
+        },
+        {
+            "id": 359,
+            "name": "DestructibleGarageLarge"
+        },
+        {
+            "id": 360,
+            "name": "DestructibleTrafficSignal"
+        },
+        {
+            "id": 361,
+            "name": "TrafficSignal"
+        },
+        {
+            "id": 362,
+            "name": "BraxisAlphaDestructible1x1"
+        },
+        {
+            "id": 363,
+            "name": "BraxisAlphaDestructible2x2"
+        },
+        {
+            "id": 364,
+            "name": "DestructibleDebris4x4"
+        },
+        {
+            "id": 365,
+            "name": "DestructibleDebris6x6"
+        },
+        {
+            "id": 366,
+            "name": "DestructibleRock2x4Vertical"
+        },
+        {
+            "id": 367,
+            "name": "DestructibleRock2x4Horizontal"
+        },
+        {
+            "id": 368,
+            "name": "DestructibleRock2x6Vertical"
+        },
+        {
+            "id": 369,
+            "name": "DestructibleRock2x6Horizontal"
+        },
+        {
+            "id": 370,
+            "name": "DestructibleRock4x4"
+        },
+        {
+            "id": 371,
+            "name": "DestructibleRock6x6"
+        },
+        {
+            "id": 372,
+            "name": "DestructibleRampDiagonalHugeULBR"
+        },
+        {
+            "id": 373,
+            "name": "DestructibleRampDiagonalHugeBLUR"
+        },
+        {
+            "id": 374,
+            "name": "DestructibleRampVerticalHuge"
+        },
+        {
+            "id": 375,
+            "name": "DestructibleRampHorizontalHuge"
+        },
+        {
+            "id": 376,
+            "name": "DestructibleDebrisRampDiagonalHugeULBR"
+        },
+        {
+            "id": 377,
+            "name": "DestructibleDebrisRampDiagonalHugeBLUR"
+        },
+        {
+            "id": 378,
+            "name": "OverlordGenerateCreepKeybind"
+        },
+        {
+            "id": 379,
+            "name": "MengskStatueAlone"
+        },
+        {
+            "id": 380,
+            "name": "MengskStatue"
+        },
+        {
+            "id": 381,
+            "name": "WolfStatue"
+        },
+        {
+            "id": 382,
+            "name": "GlobeStatue"
+        },
+        {
+            "id": 383,
+            "name": "Weapon"
+        },
+        {
+            "id": 384,
+            "name": "GlaiveWurmBounceWeapon"
+        },
+        {
+            "id": 385,
+            "name": "BroodLordWeapon"
+        },
+        {
+            "id": 386,
+            "name": "BroodLordAWeapon"
+        },
+        {
+            "id": 387,
+            "name": "CreepBlocker1x1"
+        },
+        {
+            "id": 388,
+            "name": "PermanentCreepBlocker1x1"
+        },
+        {
+            "id": 389,
+            "name": "PathingBlocker1x1"
+        },
+        {
+            "id": 390,
+            "name": "PathingBlocker2x2"
+        },
+        {
+            "id": 391,
+            "name": "AutoTestAttackTargetGround"
+        },
+        {
+            "id": 392,
+            "name": "AutoTestAttackTargetAir"
+        },
+        {
+            "id": 393,
+            "name": "AutoTestAttacker"
+        },
+        {
+            "id": 394,
+            "name": "HelperEmitterSelectionArrow"
+        },
+        {
+            "id": 395,
+            "name": "MultiKillObject"
+        },
+        {
+            "id": 396,
+            "name": "ShapeGolfball"
+        },
+        {
+            "id": 397,
+            "name": "ShapeCone"
+        },
+        {
+            "id": 398,
+            "name": "ShapeCube"
+        },
+        {
+            "id": 399,
+            "name": "ShapeCylinder"
+        },
+        {
+            "id": 400,
+            "name": "ShapeDodecahedron"
+        },
+        {
+            "id": 401,
+            "name": "ShapeIcosahedron"
+        },
+        {
+            "id": 402,
+            "name": "ShapeOctahedron"
+        },
+        {
+            "id": 403,
+            "name": "ShapePyramid"
+        },
+        {
+            "id": 404,
+            "name": "ShapeRoundedCube"
+        },
+        {
+            "id": 405,
+            "name": "ShapeSphere"
+        },
+        {
+            "id": 406,
+            "name": "ShapeTetrahedron"
+        },
+        {
+            "id": 407,
+            "name": "ShapeThickTorus"
+        },
+        {
+            "id": 408,
+            "name": "ShapeThinTorus"
+        },
+        {
+            "id": 409,
+            "name": "ShapeTorus"
+        },
+        {
+            "id": 410,
+            "name": "Shape4PointStar"
+        },
+        {
+            "id": 411,
+            "name": "Shape5PointStar"
+        },
+        {
+            "id": 412,
+            "name": "Shape6PointStar"
+        },
+        {
+            "id": 413,
+            "name": "Shape8PointStar"
+        },
+        {
+            "id": 414,
+            "name": "ShapeArrowPointer"
+        },
+        {
+            "id": 415,
+            "name": "ShapeBowl"
+        },
+        {
+            "id": 416,
+            "name": "ShapeBox"
+        },
+        {
+            "id": 417,
+            "name": "ShapeCapsule"
+        },
+        {
+            "id": 418,
+            "name": "ShapeCrescentMoon"
+        },
+        {
+            "id": 419,
+            "name": "ShapeDecahedron"
+        },
+        {
+            "id": 420,
+            "name": "ShapeDiamond"
+        },
+        {
+            "id": 421,
+            "name": "ShapeFootball"
+        },
+        {
+            "id": 422,
+            "name": "ShapeGemstone"
+        },
+        {
+            "id": 423,
+            "name": "ShapeHeart"
+        },
+        {
+            "id": 424,
+            "name": "ShapeJack"
+        },
+        {
+            "id": 425,
+            "name": "ShapePlusSign"
+        },
+        {
+            "id": 426,
+            "name": "ShapeShamrock"
+        },
+        {
+            "id": 427,
+            "name": "ShapeSpade"
+        },
+        {
+            "id": 428,
+            "name": "ShapeTube"
+        },
+        {
+            "id": 429,
+            "name": "ShapeEgg"
+        },
+        {
+            "id": 430,
+            "name": "ShapeYenSign"
+        },
+        {
+            "id": 431,
+            "name": "ShapeX"
+        },
+        {
+            "id": 432,
+            "name": "ShapeWatermelon"
+        },
+        {
+            "id": 433,
+            "name": "ShapeWonSign"
+        },
+        {
+            "id": 434,
+            "name": "ShapeTennisball"
+        },
+        {
+            "id": 435,
+            "name": "ShapeStrawberry"
+        },
+        {
+            "id": 436,
+            "name": "ShapeSmileyFace"
+        },
+        {
+            "id": 437,
+            "name": "ShapeSoccerball"
+        },
+        {
+            "id": 438,
+            "name": "ShapeRainbow"
+        },
+        {
+            "id": 439,
+            "name": "ShapeSadFace"
+        },
+        {
+            "id": 440,
+            "name": "ShapePoundSign"
+        },
+        {
+            "id": 441,
+            "name": "ShapePear"
+        },
+        {
+            "id": 442,
+            "name": "ShapePineapple"
+        },
+        {
+            "id": 443,
+            "name": "ShapeOrange"
+        },
+        {
+            "id": 444,
+            "name": "ShapePeanut"
+        },
+        {
+            "id": 445,
+            "name": "ShapeO"
+        },
+        {
+            "id": 446,
+            "name": "ShapeLemon"
+        },
+        {
+            "id": 447,
+            "name": "ShapeMoneyBag"
+        },
+        {
+            "id": 448,
+            "name": "ShapeHorseshoe"
+        },
+        {
+            "id": 449,
+            "name": "ShapeHockeyStick"
+        },
+        {
+            "id": 450,
+            "name": "ShapeHockeyPuck"
+        },
+        {
+            "id": 451,
+            "name": "ShapeHand"
+        },
+        {
+            "id": 452,
+            "name": "ShapeGolfClub"
+        },
+        {
+            "id": 453,
+            "name": "ShapeGrape"
+        },
+        {
+            "id": 454,
+            "name": "ShapeEuroSign"
+        },
+        {
+            "id": 455,
+            "name": "ShapeDollarSign"
+        },
+        {
+            "id": 456,
+            "name": "ShapeBasketball"
+        },
+        {
+            "id": 457,
+            "name": "ShapeCarrot"
+        },
+        {
+            "id": 458,
+            "name": "ShapeCherry"
+        },
+        {
+            "id": 459,
+            "name": "ShapeBaseball"
+        },
+        {
+            "id": 460,
+            "name": "ShapeBaseballBat"
+        },
+        {
+            "id": 461,
+            "name": "ShapeBanana"
+        },
+        {
+            "id": 462,
+            "name": "ShapeApple"
+        },
+        {
+            "id": 463,
+            "name": "ShapeCashLarge"
+        },
+        {
+            "id": 464,
+            "name": "ShapeCashMedium"
+        },
+        {
+            "id": 465,
+            "name": "ShapeCashSmall"
+        },
+        {
+            "id": 466,
+            "name": "ShapeFootballColored"
+        },
+        {
+            "id": 467,
+            "name": "ShapeLemonSmall"
+        },
+        {
+            "id": 468,
+            "name": "ShapeOrangeSmall"
+        },
+        {
+            "id": 469,
+            "name": "ShapeTreasureChestOpen"
+        },
+        {
+            "id": 470,
+            "name": "ShapeTreasureChestClosed"
+        },
+        {
+            "id": 471,
+            "name": "ShapeWatermelonSmall"
+        },
+        {
+            "id": 472,
+            "name": "UnbuildableRocksDestructible"
+        },
+        {
+            "id": 473,
+            "name": "UnbuildableBricksDestructible"
+        },
+        {
+            "id": 474,
+            "name": "UnbuildablePlatesDestructible"
+        },
+        {
+            "id": 475,
+            "name": "Debris2x2NonConjoined"
+        },
+        {
+            "id": 476,
+            "name": "EnemyPathingBlocker1x1"
+        },
+        {
+            "id": 477,
+            "name": "EnemyPathingBlocker2x2"
+        },
+        {
+            "id": 478,
+            "name": "EnemyPathingBlocker4x4"
+        },
+        {
+            "id": 479,
+            "name": "EnemyPathingBlocker8x8"
+        },
+        {
+            "id": 480,
+            "name": "EnemyPathingBlocker16x16"
+        },
+        {
+            "id": 481,
+            "name": "ScopeTest"
+        },
+        {
+            "id": 482,
+            "name": "SentryACGluescreenDummy"
+        },
+        {
+            "id": 483,
+            "name": "MineralField750"
+        },
+        {
+            "friendlyname": "Hellbat",
+            "id": 484,
+            "name": "HellionTank"
+        },
+        {
+            "id": 485,
+            "name": "CollapsibleTerranTowerDebris"
+        },
+        {
+            "id": 486,
+            "name": "DebrisRampLeft"
+        },
+        {
+            "id": 487,
+            "name": "DebrisRampRight"
+        },
+        {
+            "id": 488,
+            "name": "MothershipCore"
+        },
+        {
+            "friendlyname": "Locust",
+            "id": 489,
+            "name": "LocustMP"
+        },
+        {
+            "id": 490,
+            "name": "CollapsibleRockTowerDebris"
+        },
+        {
+            "id": 491,
+            "name": "NydusCanalAttacker"
+        },
+        {
+            "id": 492,
+            "name": "NydusCanalCreeper"
+        },
+        {
+            "friendlyname": "SwarmHost Burrowed",
+            "id": 493,
+            "name": "SwarmHostBurrowedMP"
+        },
+        {
+            "friendlyname": "SwarmHost",
+            "id": 494,
+            "name": "SwarmHostMP"
+        },
+        {
+            "id": 495,
+            "name": "Oracle"
+        },
+        {
+            "id": 496,
+            "name": "Tempest"
+        },
+        {
+            "id": 497,
+            "name": "WarHound"
+        },
+        {
+            "id": 498,
+            "name": "WidowMine"
+        },
+        {
+            "id": 499,
+            "name": "Viper"
+        },
+        {
+            "friendlyname": "WidowMine Burrowed",
+            "id": 500,
+            "name": "WidowMineBurrowed"
+        },
+        {
+            "friendlyname": "Lurker Cocoon",
+            "id": 501,
+            "name": "LurkerMPEgg"
+        },
+        {
+            "friendlyname": "Lurker",
+            "id": 502,
+            "name": "LurkerMP"
+        },
+        {
+            "friendlyname": "Lurker Burrowed",
+            "id": 503,
+            "name": "LurkerMPBurrowed"
+        },
+        {
+            "friendlyname": "LurkerDen",
+            "id": 504,
+            "name": "LurkerDenMP"
+        },
+        {
+            "id": 505,
+            "name": "ExtendingBridgeNEWide8Out"
+        },
+        {
+            "id": 506,
+            "name": "ExtendingBridgeNEWide8"
+        },
+        {
+            "id": 507,
+            "name": "ExtendingBridgeNWWide8Out"
+        },
+        {
+            "id": 508,
+            "name": "ExtendingBridgeNWWide8"
+        },
+        {
+            "id": 509,
+            "name": "ExtendingBridgeNEWide10Out"
+        },
+        {
+            "id": 510,
+            "name": "ExtendingBridgeNEWide10"
+        },
+        {
+            "id": 511,
+            "name": "ExtendingBridgeNWWide10Out"
+        },
+        {
+            "id": 512,
+            "name": "ExtendingBridgeNWWide10"
+        },
+        {
+            "id": 513,
+            "name": "ExtendingBridgeNEWide12Out"
+        },
+        {
+            "id": 514,
+            "name": "ExtendingBridgeNEWide12"
+        },
+        {
+            "id": 515,
+            "name": "ExtendingBridgeNWWide12Out"
+        },
+        {
+            "id": 516,
+            "name": "ExtendingBridgeNWWide12"
+        },
+        {
+            "id": 517,
+            "name": "CollapsibleRockTowerDebrisRampRight"
+        },
+        {
+            "id": 518,
+            "name": "CollapsibleRockTowerDebrisRampLeft"
+        },
+        {
+            "id": 519,
+            "name": "XelNaga_Caverns_DoorE"
+        },
+        {
+            "id": 520,
+            "name": "XelNaga_Caverns_DoorEOpened"
+        },
+        {
+            "id": 521,
+            "name": "XelNaga_Caverns_DoorN"
+        },
+        {
+            "id": 522,
+            "name": "XelNaga_Caverns_DoorNE"
+        },
+        {
+            "id": 523,
+            "name": "XelNaga_Caverns_DoorNEOpened"
+        },
+        {
+            "id": 524,
+            "name": "XelNaga_Caverns_DoorNOpened"
+        },
+        {
+            "id": 525,
+            "name": "XelNaga_Caverns_DoorNW"
+        },
+        {
+            "id": 526,
+            "name": "XelNaga_Caverns_DoorNWOpened"
+        },
+        {
+            "id": 527,
+            "name": "XelNaga_Caverns_DoorS"
+        },
+        {
+            "id": 528,
+            "name": "XelNaga_Caverns_DoorSE"
+        },
+        {
+            "id": 529,
+            "name": "XelNaga_Caverns_DoorSEOpened"
+        },
+        {
+            "id": 530,
+            "name": "XelNaga_Caverns_DoorSOpened"
+        },
+        {
+            "id": 531,
+            "name": "XelNaga_Caverns_DoorSW"
+        },
+        {
+            "id": 532,
+            "name": "XelNaga_Caverns_DoorSWOpened"
+        },
+        {
+            "id": 533,
+            "name": "XelNaga_Caverns_DoorW"
+        },
+        {
+            "id": 534,
+            "name": "XelNaga_Caverns_DoorWOpened"
+        },
+        {
+            "id": 535,
+            "name": "XelNaga_Caverns_Floating_BridgeNE8Out"
+        },
+        {
+            "id": 536,
+            "name": "XelNaga_Caverns_Floating_BridgeNE8"
+        },
+        {
+            "id": 537,
+            "name": "XelNaga_Caverns_Floating_BridgeNW8Out"
+        },
+        {
+            "id": 538,
+            "name": "XelNaga_Caverns_Floating_BridgeNW8"
+        },
+        {
+            "id": 539,
+            "name": "XelNaga_Caverns_Floating_BridgeNE10Out"
+        },
+        {
+            "id": 540,
+            "name": "XelNaga_Caverns_Floating_BridgeNE10"
+        },
+        {
+            "id": 541,
+            "name": "XelNaga_Caverns_Floating_BridgeNW10Out"
+        },
+        {
+            "id": 542,
+            "name": "XelNaga_Caverns_Floating_BridgeNW10"
+        },
+        {
+            "id": 543,
+            "name": "XelNaga_Caverns_Floating_BridgeNE12Out"
+        },
+        {
+            "id": 544,
+            "name": "XelNaga_Caverns_Floating_BridgeNE12"
+        },
+        {
+            "id": 545,
+            "name": "XelNaga_Caverns_Floating_BridgeNW12Out"
+        },
+        {
+            "id": 546,
+            "name": "XelNaga_Caverns_Floating_BridgeNW12"
+        },
+        {
+            "id": 547,
+            "name": "XelNaga_Caverns_Floating_BridgeH8Out"
+        },
+        {
+            "id": 548,
+            "name": "XelNaga_Caverns_Floating_BridgeH8"
+        },
+        {
+            "id": 549,
+            "name": "XelNaga_Caverns_Floating_BridgeV8Out"
+        },
+        {
+            "id": 550,
+            "name": "XelNaga_Caverns_Floating_BridgeV8"
+        },
+        {
+            "id": 551,
+            "name": "XelNaga_Caverns_Floating_BridgeH10Out"
+        },
+        {
+            "id": 552,
+            "name": "XelNaga_Caverns_Floating_BridgeH10"
+        },
+        {
+            "id": 553,
+            "name": "XelNaga_Caverns_Floating_BridgeV10Out"
+        },
+        {
+            "id": 554,
+            "name": "XelNaga_Caverns_Floating_BridgeV10"
+        },
+        {
+            "id": 555,
+            "name": "XelNaga_Caverns_Floating_BridgeH12Out"
+        },
+        {
+            "id": 556,
+            "name": "XelNaga_Caverns_Floating_BridgeH12"
+        },
+        {
+            "id": 557,
+            "name": "XelNaga_Caverns_Floating_BridgeV12Out"
+        },
+        {
+            "id": 558,
+            "name": "XelNaga_Caverns_Floating_BridgeV12"
+        },
+        {
+            "id": 559,
+            "name": "CollapsibleTerranTowerPushUnitRampLeft"
+        },
+        {
+            "id": 560,
+            "name": "CollapsibleTerranTowerPushUnitRampRight"
+        },
+        {
+            "id": 561,
+            "name": "CollapsibleRockTowerPushUnit"
+        },
+        {
+            "id": 562,
+            "name": "CollapsibleTerranTowerPushUnit"
+        },
+        {
+            "id": 563,
+            "name": "CollapsibleRockTowerPushUnitRampRight"
+        },
+        {
+            "id": 564,
+            "name": "CollapsibleRockTowerPushUnitRampLeft"
+        },
+        {
+            "id": 565,
+            "name": "DigesterCreepSprayTargetUnit"
+        },
+        {
+            "id": 566,
+            "name": "DigesterCreepSprayUnit"
+        },
+        {
+            "id": 567,
+            "name": "NydusCanalAttackerWeapon"
+        },
+        {
+            "id": 568,
+            "name": "ViperConsumeStructureWeapon"
+        },
+        {
+            "id": 569,
+            "name": "ResourceBlocker"
+        },
+        {
+            "id": 570,
+            "name": "TempestWeapon"
+        },
+        {
+            "id": 571,
+            "name": "YoinkMissile"
+        },
+        {
+            "id": 572,
+            "name": "YoinkVikingAirMissile"
+        },
+        {
+            "id": 573,
+            "name": "YoinkVikingGroundMissile"
+        },
+        {
+            "id": 574,
+            "name": "YoinkSiegeTankMissile"
+        },
+        {
+            "id": 575,
+            "name": "WarHoundWeapon"
+        },
+        {
+            "id": 576,
+            "name": "EyeStalkWeapon"
+        },
+        {
+            "id": 577,
+            "name": "WidowMineWeapon"
+        },
+        {
+            "id": 578,
+            "name": "WidowMineAirWeapon"
+        },
+        {
+            "id": 579,
+            "name": "MothershipCoreWeaponWeapon"
+        },
+        {
+            "id": 580,
+            "name": "TornadoMissileWeapon"
+        },
+        {
+            "id": 581,
+            "name": "TornadoMissileDummyWeapon"
+        },
+        {
+            "id": 582,
+            "name": "TalonsMissileWeapon"
+        },
+        {
+            "id": 583,
+            "name": "CreepTumorMissile"
+        },
+        {
+            "id": 584,
+            "name": "LocustMPEggAMissileWeapon"
+        },
+        {
+            "id": 585,
+            "name": "LocustMPEggBMissileWeapon"
+        },
+        {
+            "id": 586,
+            "name": "LocustMPWeapon"
+        },
+        {
+            "id": 587,
+            "name": "RepulsorCannonWeapon"
+        },
+        {
+            "id": 588,
+            "name": "CollapsibleRockTowerDiagonal"
+        },
+        {
+            "id": 589,
+            "name": "CollapsibleTerranTowerDiagonal"
+        },
+        {
+            "id": 590,
+            "name": "CollapsibleTerranTowerRampLeft"
+        },
+        {
+            "id": 591,
+            "name": "CollapsibleTerranTowerRampRight"
+        },
+        {
+            "id": 592,
+            "name": "Ice2x2NonConjoined"
+        },
+        {
+            "id": 593,
+            "name": "IceProtossCrates"
+        },
+        {
+            "id": 594,
+            "name": "ProtossCrates"
+        },
+        {
+            "id": 595,
+            "name": "TowerMine"
+        },
+        {
+            "id": 596,
+            "name": "PickupPalletGas"
+        },
+        {
+            "id": 597,
+            "name": "PickupPalletMinerals"
+        },
+        {
+            "id": 598,
+            "name": "PickupScrapSalvage1x1"
+        },
+        {
+            "id": 599,
+            "name": "PickupScrapSalvage2x2"
+        },
+        {
+            "id": 600,
+            "name": "PickupScrapSalvage3x3"
+        },
+        {
+            "id": 601,
+            "name": "RoughTerrain"
+        },
+        {
+            "id": 602,
+            "name": "UnbuildableBricksSmallUnit"
+        },
+        {
+            "id": 603,
+            "name": "UnbuildablePlatesSmallUnit"
+        },
+        {
+            "id": 604,
+            "name": "UnbuildablePlatesUnit"
+        },
+        {
+            "id": 605,
+            "name": "UnbuildableRocksSmallUnit"
+        },
+        {
+            "id": 606,
+            "name": "XelNagaHealingShrine"
+        },
+        {
+            "id": 607,
+            "name": "InvisibleTargetDummy"
+        },
+        {
+            "id": 608,
+            "name": "ProtossVespeneGeyser"
+        },
+        {
+            "id": 609,
+            "name": "CollapsibleRockTower"
+        },
+        {
+            "id": 610,
+            "name": "CollapsibleTerranTower"
+        },
+        {
+            "id": 611,
+            "name": "ThornLizard"
+        },
+        {
+            "id": 612,
+            "name": "CleaningBot"
+        },
+        {
+            "id": 613,
+            "name": "DestructibleRock6x6Weak"
+        },
+        {
+            "id": 614,
+            "name": "ProtossSnakeSegmentDemo"
+        },
+        {
+            "id": 615,
+            "name": "PhysicsCapsule"
+        },
+        {
+            "id": 616,
+            "name": "PhysicsCube"
+        },
+        {
+            "id": 617,
+            "name": "PhysicsCylinder"
+        },
+        {
+            "id": 618,
+            "name": "PhysicsKnot"
+        },
+        {
+            "id": 619,
+            "name": "PhysicsL"
+        },
+        {
+            "id": 620,
+            "name": "PhysicsPrimitives"
+        },
+        {
+            "id": 621,
+            "name": "PhysicsSphere"
+        },
+        {
+            "id": 622,
+            "name": "PhysicsStar"
+        },
+        {
+            "id": 623,
+            "name": "CreepBlocker4x4"
+        },
+        {
+            "id": 624,
+            "name": "DestructibleCityDebris2x4Vertical"
+        },
+        {
+            "id": 625,
+            "name": "DestructibleCityDebris2x4Horizontal"
+        },
+        {
+            "id": 626,
+            "name": "DestructibleCityDebris2x6Vertical"
+        },
+        {
+            "id": 627,
+            "name": "DestructibleCityDebris2x6Horizontal"
+        },
+        {
+            "id": 628,
+            "name": "DestructibleCityDebris4x4"
+        },
+        {
+            "id": 629,
+            "name": "DestructibleCityDebris6x6"
+        },
+        {
+            "id": 630,
+            "name": "DestructibleCityDebrisHugeDiagonalBLUR"
+        },
+        {
+            "id": 631,
+            "name": "DestructibleCityDebrisHugeDiagonalULBR"
+        },
+        {
+            "id": 632,
+            "name": "TestZerg"
+        },
+        {
+            "id": 633,
+            "name": "PathingBlockerRadius1"
+        },
+        {
+            "id": 634,
+            "name": "DestructibleRockEx12x4Vertical"
+        },
+        {
+            "id": 635,
+            "name": "DestructibleRockEx12x4Horizontal"
+        },
+        {
+            "id": 636,
+            "name": "DestructibleRockEx12x6Vertical"
+        },
+        {
+            "id": 637,
+            "name": "DestructibleRockEx12x6Horizontal"
+        },
+        {
+            "id": 638,
+            "name": "DestructibleRockEx14x4"
+        },
+        {
+            "id": 639,
+            "name": "DestructibleRockEx16x6"
+        },
+        {
+            "id": 640,
+            "name": "DestructibleRockEx1DiagonalHugeULBR"
+        },
+        {
+            "id": 641,
+            "name": "DestructibleRockEx1DiagonalHugeBLUR"
+        },
+        {
+            "id": 642,
+            "name": "DestructibleRockEx1VerticalHuge"
+        },
+        {
+            "id": 643,
+            "name": "DestructibleRockEx1HorizontalHuge"
+        },
+        {
+            "id": 644,
+            "name": "DestructibleIce2x4Vertical"
+        },
+        {
+            "id": 645,
+            "name": "DestructibleIce2x4Horizontal"
+        },
+        {
+            "id": 646,
+            "name": "DestructibleIce2x6Vertical"
+        },
+        {
+            "id": 647,
+            "name": "DestructibleIce2x6Horizontal"
+        },
+        {
+            "id": 648,
+            "name": "DestructibleIce4x4"
+        },
+        {
+            "id": 649,
+            "name": "DestructibleIce6x6"
+        },
+        {
+            "id": 650,
+            "name": "DestructibleIceDiagonalHugeULBR"
+        },
+        {
+            "id": 651,
+            "name": "DestructibleIceDiagonalHugeBLUR"
+        },
+        {
+            "id": 652,
+            "name": "DestructibleIceVerticalHuge"
+        },
+        {
+            "id": 653,
+            "name": "DestructibleIceHorizontalHuge"
+        },
+        {
+            "id": 654,
+            "name": "DesertPlanetSearchlight"
+        },
+        {
+            "id": 655,
+            "name": "DesertPlanetStreetlight"
+        },
+        {
+            "id": 656,
+            "name": "UnbuildableBricksUnit"
+        },
+        {
+            "id": 657,
+            "name": "UnbuildableRocksUnit"
+        },
+        {
+            "id": 658,
+            "name": "ZerusDestructibleArch"
+        },
+        {
+            "id": 659,
+            "name": "Artosilope"
+        },
+        {
+            "id": 660,
+            "name": "Anteplott"
+        },
+        {
+            "id": 661,
+            "name": "LabBot"
+        },
+        {
+            "id": 662,
+            "name": "Crabeetle"
+        },
+        {
+            "id": 663,
+            "name": "CollapsibleRockTowerRampRight"
+        },
+        {
+            "id": 664,
+            "name": "CollapsibleRockTowerRampLeft"
+        },
+        {
+            "id": 665,
+            "name": "LabMineralField"
+        },
+        {
+            "id": 666,
+            "name": "LabMineralField750"
+        },
+        {
+            "id": 667,
+            "name": "SnowRefinery_Terran_ExtendingBridgeNEShort8Out"
+        },
+        {
+            "id": 668,
+            "name": "SnowRefinery_Terran_ExtendingBridgeNEShort8"
+        },
+        {
+            "id": 669,
+            "name": "SnowRefinery_Terran_ExtendingBridgeNWShort8Out"
+        },
+        {
+            "id": 670,
+            "name": "SnowRefinery_Terran_ExtendingBridgeNWShort8"
+        },
+        {
+            "id": 671,
+            "name": "Tarsonis_DoorN"
+        },
+        {
+            "id": 672,
+            "name": "Tarsonis_DoorNLowered"
+        },
+        {
+            "id": 673,
+            "name": "Tarsonis_DoorNE"
+        },
+        {
+            "id": 674,
+            "name": "Tarsonis_DoorNELowered"
+        },
+        {
+            "id": 675,
+            "name": "Tarsonis_DoorE"
+        },
+        {
+            "id": 676,
+            "name": "Tarsonis_DoorELowered"
+        },
+        {
+            "id": 677,
+            "name": "Tarsonis_DoorNW"
+        },
+        {
+            "id": 678,
+            "name": "Tarsonis_DoorNWLowered"
+        },
+        {
+            "id": 679,
+            "name": "CompoundMansion_DoorN"
+        },
+        {
+            "id": 680,
+            "name": "CompoundMansion_DoorNLowered"
+        },
+        {
+            "id": 681,
+            "name": "CompoundMansion_DoorNE"
+        },
+        {
+            "id": 682,
+            "name": "CompoundMansion_DoorNELowered"
+        },
+        {
+            "id": 683,
+            "name": "CompoundMansion_DoorE"
+        },
+        {
+            "id": 684,
+            "name": "CompoundMansion_DoorELowered"
+        },
+        {
+            "id": 685,
+            "name": "CompoundMansion_DoorNW"
+        },
+        {
+            "id": 686,
+            "name": "CompoundMansion_DoorNWLowered"
+        },
+        {
+            "id": 687,
+            "name": "RavagerCocoon"
+        },
+        {
+            "id": 688,
+            "name": "Ravager"
+        },
+        {
+            "id": 689,
+            "name": "Liberator"
+        },
+        {
+            "id": 690,
+            "name": "RavagerBurrowed"
+        },
+        {
+            "friendlyname": "Thor HighImpact Mode",
+            "id": 691,
+            "name": "ThorAP"
+        },
+        {
+            "id": 692,
+            "name": "Cyclone"
+        },
+        {
+            "friendlyname": "Locust Flying",
+            "id": 693,
+            "name": "LocustMPFlying"
+        },
+        {
+            "id": 694,
+            "name": "Disruptor"
+        },
+        {
+            "id": 695,
+            "name": "AiurLightBridgeNE8Out"
+        },
+        {
+            "id": 696,
+            "name": "AiurLightBridgeNE8"
+        },
+        {
+            "id": 697,
+            "name": "AiurLightBridgeNE10Out"
+        },
+        {
+            "id": 698,
+            "name": "AiurLightBridgeNE10"
+        },
+        {
+            "id": 699,
+            "name": "AiurLightBridgeNE12Out"
+        },
+        {
+            "id": 700,
+            "name": "AiurLightBridgeNE12"
+        },
+        {
+            "id": 701,
+            "name": "AiurLightBridgeNW8Out"
+        },
+        {
+            "id": 702,
+            "name": "AiurLightBridgeNW8"
+        },
+        {
+            "id": 703,
+            "name": "AiurLightBridgeNW10Out"
+        },
+        {
+            "id": 704,
+            "name": "AiurLightBridgeNW10"
+        },
+        {
+            "id": 705,
+            "name": "AiurLightBridgeNW12Out"
+        },
+        {
+            "id": 706,
+            "name": "AiurLightBridgeNW12"
+        },
+        {
+            "id": 707,
+            "name": "AiurTempleBridgeNE8Out"
+        },
+        {
+            "id": 708,
+            "name": "AiurTempleBridgeNE10Out"
+        },
+        {
+            "id": 709,
+            "name": "AiurTempleBridgeNE12Out"
+        },
+        {
+            "id": 710,
+            "name": "AiurTempleBridgeNW8Out"
+        },
+        {
+            "id": 711,
+            "name": "AiurTempleBridgeNW10Out"
+        },
+        {
+            "id": 712,
+            "name": "AiurTempleBridgeNW12Out"
+        },
+        {
+            "id": 713,
+            "name": "ShakurasLightBridgeNE8Out"
+        },
+        {
+            "id": 714,
+            "name": "ShakurasLightBridgeNE8"
+        },
+        {
+            "id": 715,
+            "name": "ShakurasLightBridgeNE10Out"
+        },
+        {
+            "id": 716,
+            "name": "ShakurasLightBridgeNE10"
+        },
+        {
+            "id": 717,
+            "name": "ShakurasLightBridgeNE12Out"
+        },
+        {
+            "id": 718,
+            "name": "ShakurasLightBridgeNE12"
+        },
+        {
+            "id": 719,
+            "name": "ShakurasLightBridgeNW8Out"
+        },
+        {
+            "id": 720,
+            "name": "ShakurasLightBridgeNW8"
+        },
+        {
+            "id": 721,
+            "name": "ShakurasLightBridgeNW10Out"
+        },
+        {
+            "id": 722,
+            "name": "ShakurasLightBridgeNW10"
+        },
+        {
+            "id": 723,
+            "name": "ShakurasLightBridgeNW12Out"
+        },
+        {
+            "id": 724,
+            "name": "ShakurasLightBridgeNW12"
+        },
+        {
+            "id": 725,
+            "name": "VoidMPImmortalReviveCorpse"
+        },
+        {
+            "friendlyname": "Guardian Cocoon",
+            "id": 726,
+            "name": "GuardianCocoonMP"
+        },
+        {
+            "friendlyname": "Guardian",
+            "id": 727,
+            "name": "GuardianMP"
+        },
+        {
+            "friendlyname": "Devourer Cocoon",
+            "id": 728,
+            "name": "DevourerCocoonMP"
+        },
+        {
+            "friendlyname": "Devourer",
+            "id": 729,
+            "name": "DevourerMP"
+        },
+        {
+            "friendlyname": "Defiler Burrowed",
+            "id": 730,
+            "name": "DefilerMPBurrowed"
+        },
+        {
+            "friendlyname": "Defiler",
+            "id": 731,
+            "name": "DefilerMP"
+        },
+        {
+            "friendlyname": "StasisTrap",
+            "id": 732,
+            "name": "OracleStasisTrap"
+        },
+        {
+            "friendlyname": "Disruptor Phased",
+            "id": 733,
+            "name": "DisruptorPhased"
+        },
+        {
+            "friendlyname": "Liberator",
+            "id": 734,
+            "name": "LiberatorAG"
+        },
+        {
+            "id": 735,
+            "name": "AiurLightBridgeAbandonedNE8Out"
+        },
+        {
+            "id": 736,
+            "name": "AiurLightBridgeAbandonedNE8"
+        },
+        {
+            "id": 737,
+            "name": "AiurLightBridgeAbandonedNE10Out"
+        },
+        {
+            "id": 738,
+            "name": "AiurLightBridgeAbandonedNE10"
+        },
+        {
+            "id": 739,
+            "name": "AiurLightBridgeAbandonedNE12Out"
+        },
+        {
+            "id": 740,
+            "name": "AiurLightBridgeAbandonedNE12"
+        },
+        {
+            "id": 741,
+            "name": "AiurLightBridgeAbandonedNW8Out"
+        },
+        {
+            "id": 742,
+            "name": "AiurLightBridgeAbandonedNW8"
+        },
+        {
+            "id": 743,
+            "name": "AiurLightBridgeAbandonedNW10Out"
+        },
+        {
+            "id": 744,
+            "name": "AiurLightBridgeAbandonedNW10"
+        },
+        {
+            "id": 745,
+            "name": "AiurLightBridgeAbandonedNW12Out"
+        },
+        {
+            "id": 746,
+            "name": "AiurLightBridgeAbandonedNW12"
+        },
+        {
+            "id": 747,
+            "name": "CollapsiblePurifierTowerDebris"
+        },
+        {
+            "id": 748,
+            "name": "PortCity_Bridge_UnitNE8Out"
+        },
+        {
+            "id": 749,
+            "name": "PortCity_Bridge_UnitNE8"
+        },
+        {
+            "id": 750,
+            "name": "PortCity_Bridge_UnitSE8Out"
+        },
+        {
+            "id": 751,
+            "name": "PortCity_Bridge_UnitSE8"
+        },
+        {
+            "id": 752,
+            "name": "PortCity_Bridge_UnitNW8Out"
+        },
+        {
+            "id": 753,
+            "name": "PortCity_Bridge_UnitNW8"
+        },
+        {
+            "id": 754,
+            "name": "PortCity_Bridge_UnitSW8Out"
+        },
+        {
+            "id": 755,
+            "name": "PortCity_Bridge_UnitSW8"
+        },
+        {
+            "id": 756,
+            "name": "PortCity_Bridge_UnitNE10Out"
+        },
+        {
+            "id": 757,
+            "name": "PortCity_Bridge_UnitNE10"
+        },
+        {
+            "id": 758,
+            "name": "PortCity_Bridge_UnitSE10Out"
+        },
+        {
+            "id": 759,
+            "name": "PortCity_Bridge_UnitSE10"
+        },
+        {
+            "id": 760,
+            "name": "PortCity_Bridge_UnitNW10Out"
+        },
+        {
+            "id": 761,
+            "name": "PortCity_Bridge_UnitNW10"
+        },
+        {
+            "id": 762,
+            "name": "PortCity_Bridge_UnitSW10Out"
+        },
+        {
+            "id": 763,
+            "name": "PortCity_Bridge_UnitSW10"
+        },
+        {
+            "id": 764,
+            "name": "PortCity_Bridge_UnitNE12Out"
+        },
+        {
+            "id": 765,
+            "name": "PortCity_Bridge_UnitNE12"
+        },
+        {
+            "id": 766,
+            "name": "PortCity_Bridge_UnitSE12Out"
+        },
+        {
+            "id": 767,
+            "name": "PortCity_Bridge_UnitSE12"
+        },
+        {
+            "id": 768,
+            "name": "PortCity_Bridge_UnitNW12Out"
+        },
+        {
+            "id": 769,
+            "name": "PortCity_Bridge_UnitNW12"
+        },
+        {
+            "id": 770,
+            "name": "PortCity_Bridge_UnitSW12Out"
+        },
+        {
+            "id": 771,
+            "name": "PortCity_Bridge_UnitSW12"
+        },
+        {
+            "id": 772,
+            "name": "PortCity_Bridge_UnitN8Out"
+        },
+        {
+            "id": 773,
+            "name": "PortCity_Bridge_UnitN8"
+        },
+        {
+            "id": 774,
+            "name": "PortCity_Bridge_UnitS8Out"
+        },
+        {
+            "id": 775,
+            "name": "PortCity_Bridge_UnitS8"
+        },
+        {
+            "id": 776,
+            "name": "PortCity_Bridge_UnitE8Out"
+        },
+        {
+            "id": 777,
+            "name": "PortCity_Bridge_UnitE8"
+        },
+        {
+            "id": 778,
+            "name": "PortCity_Bridge_UnitW8Out"
+        },
+        {
+            "id": 779,
+            "name": "PortCity_Bridge_UnitW8"
+        },
+        {
+            "id": 780,
+            "name": "PortCity_Bridge_UnitN10Out"
+        },
+        {
+            "id": 781,
+            "name": "PortCity_Bridge_UnitN10"
+        },
+        {
+            "id": 782,
+            "name": "PortCity_Bridge_UnitS10Out"
+        },
+        {
+            "id": 783,
+            "name": "PortCity_Bridge_UnitS10"
+        },
+        {
+            "id": 784,
+            "name": "PortCity_Bridge_UnitE10Out"
+        },
+        {
+            "id": 785,
+            "name": "PortCity_Bridge_UnitE10"
+        },
+        {
+            "id": 786,
+            "name": "PortCity_Bridge_UnitW10Out"
+        },
+        {
+            "id": 787,
+            "name": "PortCity_Bridge_UnitW10"
+        },
+        {
+            "id": 788,
+            "name": "PortCity_Bridge_UnitN12Out"
+        },
+        {
+            "id": 789,
+            "name": "PortCity_Bridge_UnitN12"
+        },
+        {
+            "id": 790,
+            "name": "PortCity_Bridge_UnitS12Out"
+        },
+        {
+            "id": 791,
+            "name": "PortCity_Bridge_UnitS12"
+        },
+        {
+            "id": 792,
+            "name": "PortCity_Bridge_UnitE12Out"
+        },
+        {
+            "id": 793,
+            "name": "PortCity_Bridge_UnitE12"
+        },
+        {
+            "id": 794,
+            "name": "PortCity_Bridge_UnitW12Out"
+        },
+        {
+            "id": 795,
+            "name": "PortCity_Bridge_UnitW12"
+        },
+        {
+            "id": 796,
+            "name": "PurifierRichMineralField"
+        },
+        {
+            "id": 797,
+            "name": "PurifierRichMineralField750"
+        },
+        {
+            "id": 798,
+            "name": "CollapsiblePurifierTowerPushUnit"
+        },
+        {
+            "id": 799,
+            "name": "LocustMPPrecursor"
+        },
+        {
+            "id": 800,
+            "name": "ReleaseInterceptorsBeacon"
+        },
+        {
+            "id": 801,
+            "name": "AdeptPhaseShift"
+        },
+        {
+            "id": 802,
+            "name": "RavagerCorrosiveBileMissile"
+        },
+        {
+            "id": 803,
+            "name": "HydraliskImpaleMissile"
+        },
+        {
+            "id": 804,
+            "name": "CycloneMissileLargeAir"
+        },
+        {
+            "id": 805,
+            "name": "CycloneMissile"
+        },
+        {
+            "id": 806,
+            "name": "CycloneMissileLarge"
+        },
+        {
+            "id": 807,
+            "name": "ThorAALance"
+        },
+        {
+            "id": 808,
+            "name": "OracleWeapon"
+        },
+        {
+            "id": 809,
+            "name": "TempestWeaponGround"
+        },
+        {
+            "id": 810,
+            "name": "RavagerWeaponMissile"
+        },
+        {
+            "id": 811,
+            "name": "ScoutMPAirWeaponLeft"
+        },
+        {
+            "id": 812,
+            "name": "ScoutMPAirWeaponRight"
+        },
+        {
+            "id": 813,
+            "name": "ArbiterMPWeaponMissile"
+        },
+        {
+            "id": 814,
+            "name": "GuardianMPWeapon"
+        },
+        {
+            "id": 815,
+            "name": "DevourerMPWeaponMissile"
+        },
+        {
+            "id": 816,
+            "name": "DefilerMPDarkSwarmWeapon"
+        },
+        {
+            "id": 817,
+            "name": "QueenMPEnsnareMissile"
+        },
+        {
+            "id": 818,
+            "name": "QueenMPSpawnBroodlingsMissile"
+        },
+        {
+            "id": 819,
+            "name": "LightningBombWeapon"
+        },
+        {
+            "id": 820,
+            "name": "HERCPlacement"
+        },
+        {
+            "id": 821,
+            "name": "GrappleWeapon"
+        },
+        {
+            "id": 822,
+            "name": "CausticSprayMissile"
+        },
+        {
+            "id": 823,
+            "name": "ParasiticBombMissile"
+        },
+        {
+            "id": 824,
+            "name": "ParasiticBombDummy"
+        },
+        {
+            "id": 825,
+            "name": "AdeptWeapon"
+        },
+        {
+            "id": 826,
+            "name": "AdeptUpgradeWeapon"
+        },
+        {
+            "id": 827,
+            "name": "LiberatorMissile"
+        },
+        {
+            "id": 828,
+            "name": "LiberatorDamageMissile"
+        },
+        {
+            "id": 829,
+            "name": "LiberatorAGMissile"
+        },
+        {
+            "id": 830,
+            "name": "KD8Charge"
+        },
+        {
+            "id": 831,
+            "name": "KD8ChargeWeapon"
+        },
+        {
+            "id": 832,
+            "name": "SlaynElementalGrabWeapon"
+        },
+        {
+            "id": 833,
+            "name": "SlaynElementalGrabAirUnit"
+        },
+        {
+            "id": 834,
+            "name": "SlaynElementalGrabGroundUnit"
+        },
+        {
+            "id": 835,
+            "name": "SlaynElementalWeapon"
+        },
+        {
+            "id": 836,
+            "name": "DestructibleExpeditionGate6x6"
+        },
+        {
+            "id": 837,
+            "name": "DestructibleZergInfestation3x3"
+        },
+        {
+            "id": 838,
+            "name": "HERC"
+        },
+        {
+            "id": 839,
+            "name": "Moopy"
+        },
+        {
+            "id": 840,
+            "name": "Replicant"
+        },
+        {
+            "id": 841,
+            "name": "SeekerMissile"
+        },
+        {
+            "id": 842,
+            "name": "AiurTempleBridgeDestructibleNE8Out"
+        },
+        {
+            "id": 843,
+            "name": "AiurTempleBridgeDestructibleNE10Out"
+        },
+        {
+            "id": 844,
+            "name": "AiurTempleBridgeDestructibleNE12Out"
+        },
+        {
+            "id": 845,
+            "name": "AiurTempleBridgeDestructibleNW8Out"
+        },
+        {
+            "id": 846,
+            "name": "AiurTempleBridgeDestructibleNW10Out"
+        },
+        {
+            "id": 847,
+            "name": "AiurTempleBridgeDestructibleNW12Out"
+        },
+        {
+            "id": 848,
+            "name": "AiurTempleBridgeDestructibleSW8Out"
+        },
+        {
+            "id": 849,
+            "name": "AiurTempleBridgeDestructibleSW10Out"
+        },
+        {
+            "id": 850,
+            "name": "AiurTempleBridgeDestructibleSW12Out"
+        },
+        {
+            "id": 851,
+            "name": "AiurTempleBridgeDestructibleSE8Out"
+        },
+        {
+            "id": 852,
+            "name": "AiurTempleBridgeDestructibleSE10Out"
+        },
+        {
+            "id": 853,
+            "name": "AiurTempleBridgeDestructibleSE12Out"
+        },
+        {
+            "id": 854,
+            "name": "FlyoverUnit"
+        },
+        {
+            "id": 855,
+            "name": "CorsairMP"
+        },
+        {
+            "id": 856,
+            "name": "ScoutMP"
+        },
+        {
+            "id": 857,
+            "name": "ArbiterMP"
+        },
+        {
+            "id": 858,
+            "name": "ScourgeMP"
+        },
+        {
+            "id": 859,
+            "name": "DefilerMPPlagueWeapon"
+        },
+        {
+            "id": 860,
+            "name": "QueenMP"
+        },
+        {
+            "id": 861,
+            "name": "XelNagaDestructibleRampBlocker6S"
+        },
+        {
+            "id": 862,
+            "name": "XelNagaDestructibleRampBlocker6SE"
+        },
+        {
+            "id": 863,
+            "name": "XelNagaDestructibleRampBlocker6E"
+        },
+        {
+            "id": 864,
+            "name": "XelNagaDestructibleRampBlocker6NE"
+        },
+        {
+            "id": 865,
+            "name": "XelNagaDestructibleRampBlocker6N"
+        },
+        {
+            "id": 866,
+            "name": "XelNagaDestructibleRampBlocker6NW"
+        },
+        {
+            "id": 867,
+            "name": "XelNagaDestructibleRampBlocker6W"
+        },
+        {
+            "id": 868,
+            "name": "XelNagaDestructibleRampBlocker6SW"
+        },
+        {
+            "id": 869,
+            "name": "XelNagaDestructibleRampBlocker8S"
+        },
+        {
+            "id": 870,
+            "name": "XelNagaDestructibleRampBlocker8SE"
+        },
+        {
+            "id": 871,
+            "name": "XelNagaDestructibleRampBlocker8E"
+        },
+        {
+            "id": 872,
+            "name": "XelNagaDestructibleRampBlocker8NE"
+        },
+        {
+            "id": 873,
+            "name": "XelNagaDestructibleRampBlocker8N"
+        },
+        {
+            "id": 874,
+            "name": "XelNagaDestructibleRampBlocker8NW"
+        },
+        {
+            "id": 875,
+            "name": "XelNagaDestructibleRampBlocker8W"
+        },
+        {
+            "id": 876,
+            "name": "XelNagaDestructibleRampBlocker8SW"
+        },
+        {
+            "id": 877,
+            "name": "ReptileCrate"
+        },
+        {
+            "id": 878,
+            "name": "SlaynSwarmHostSpawnFlyer"
+        },
+        {
+            "id": 879,
+            "name": "SlaynElemental"
+        },
+        {
+            "id": 880,
+            "name": "PurifierVespeneGeyser"
+        },
+        {
+            "id": 881,
+            "name": "ShakurasVespeneGeyser"
+        },
+        {
+            "id": 882,
+            "name": "CollapsiblePurifierTowerDiagonal"
+        },
+        {
+            "id": 883,
+            "name": "CreepOnlyBlocker4x4"
+        },
+        {
+            "id": 884,
+            "name": "PurifierMineralField"
+        },
+        {
+            "id": 885,
+            "name": "PurifierMineralField750"
+        },
+        {
+            "id": 886,
+            "name": "BattleStationMineralField"
+        },
+        {
+            "id": 887,
+            "name": "BattleStationMineralField750"
+        },
+        {
+            "id": 888,
+            "name": "Beacon_Nova"
+        },
+        {
+            "id": 889,
+            "name": "Beacon_NovaSmall"
+        },
+        {
+            "id": 890,
+            "name": "Ursula"
+        },
+        {
+            "id": 891,
+            "name": "Elsecaro_Colonist_Hut"
+        },
+        {
+            "friendlyname": "Overlord Transport Cocoon",
+            "id": 892,
+            "name": "TransportOverlordCocoon"
+        },
+        {
+            "friendlyname": "Overlord Transport",
+            "id": 893,
+            "name": "OverlordTransport"
+        },
+        {
+            "friendlyname": "Pylon Overcharged",
+            "id": 894,
+            "name": "PylonOvercharged"
+        },
+        {
+            "id": 895,
+            "name": "BypassArmorDrone"
+        },
+        {
+            "id": 896,
+            "name": "AdeptPiercingWeapon"
+        },
+        {
+            "id": 897,
+            "name": "CorrosiveParasiteWeapon"
+        },
+        {
+            "id": 898,
+            "name": "InfestedTerran"
+        },
+        {
+            "id": 899,
+            "name": "MercCompound"
+        },
+        {
+            "id": 900,
+            "name": "SupplyDepotDrop"
+        },
+        {
+            "id": 901,
+            "name": "LurkerDen"
+        },
+        {
+            "id": 902,
+            "name": "D8Charge"
+        },
+        {
+            "id": 903,
+            "name": "ThorWreckage"
+        },
+        {
+            "id": 904,
+            "name": "Goliath"
+        },
+        {
+            "id": 905,
+            "name": "TechReactor"
+        },
+        {
+            "id": 906,
+            "name": "SS_PowerupBomb"
+        },
+        {
+            "id": 907,
+            "name": "SS_PowerupHealth"
+        },
+        {
+            "id": 908,
+            "name": "SS_PowerupSideMissiles"
+        },
+        {
+            "id": 909,
+            "name": "SS_PowerupStrongerMissiles"
+        },
+        {
+            "friendlyname": "Lurker Cocoon",
+            "id": 910,
+            "name": "LurkerEgg"
+        },
+        {
+            "id": 911,
+            "name": "Lurker"
+        },
+        {
+            "friendlyname": "Lurker Burrowed",
+            "id": 912,
+            "name": "LurkerBurrowed"
+        },
+        {
+            "id": 913,
+            "name": "ArchiveSealed"
+        },
+        {
+            "id": 914,
+            "name": "InfestedCivilian"
+        },
+        {
+            "id": 915,
+            "name": "FlamingBetty"
+        },
+        {
+            "id": 916,
+            "name": "InfestedCivilianBurrowed"
+        },
+        {
+            "id": 917,
+            "name": "SelendisInterceptor"
+        },
+        {
+            "id": 918,
+            "name": "SiegeBreakerSieged"
+        },
+        {
+            "id": 919,
+            "name": "SiegeBreaker"
+        },
+        {
+            "id": 920,
+            "name": "PerditionTurretUnderground"
+        },
+        {
+            "id": 921,
+            "name": "PerditionTurret"
+        },
+        {
+            "id": 922,
+            "name": "SentryGunUnderground"
+        },
+        {
+            "id": 923,
+            "name": "SentryGun"
+        },
+        {
+            "id": 924,
+            "name": "WarPig"
+        },
+        {
+            "id": 925,
+            "name": "DevilDog"
+        },
+        {
+            "id": 926,
+            "name": "SpartanCompany"
+        },
+        {
+            "id": 927,
+            "name": "HammerSecurity"
+        },
+        {
+            "id": 928,
+            "name": "HelsAngelFighter"
+        },
+        {
+            "id": 929,
+            "name": "DuskWing"
+        },
+        {
+            "id": 930,
+            "name": "DukesRevenge"
+        },
+        {
+            "id": 931,
+            "name": "OdinWreckage"
+        },
+        {
+            "id": 932,
+            "name": "HeroNuke"
+        },
+        {
+            "id": 933,
+            "name": "KerriganCharBurrowed"
+        },
+        {
+            "id": 934,
+            "name": "KerriganChar"
+        },
+        {
+            "friendlyname": "SpiderMine Burrowed",
+            "id": 935,
+            "name": "SpiderMineBurrowed"
+        },
+        {
+            "id": 936,
+            "name": "SpiderMine"
+        },
+        {
+            "id": 937,
+            "name": "Zeratul"
+        },
+        {
+            "id": 938,
+            "name": "Urun"
+        },
+        {
+            "id": 939,
+            "name": "Mohandar"
+        },
+        {
+            "id": 940,
+            "name": "Selendis"
+        },
+        {
+            "id": 941,
+            "name": "Scout"
+        },
+        {
+            "id": 942,
+            "name": "OmegaliskBurrowed"
+        },
+        {
+            "id": 943,
+            "name": "Omegalisk"
+        },
+        {
+            "id": 944,
+            "name": "InfestedAbominationBurrowed"
+        },
+        {
+            "id": 945,
+            "name": "InfestedAbomination"
+        },
+        {
+            "id": 946,
+            "name": "HunterKillerBurrowed"
+        },
+        {
+            "id": 947,
+            "name": "HunterKiller"
+        },
+        {
+            "id": 948,
+            "name": "InfestedTerranCampaignBurrowed"
+        },
+        {
+            "id": 949,
+            "name": "InfestedTerranCampaign"
+        },
+        {
+            "id": 950,
+            "name": "CheckStation"
+        },
+        {
+            "id": 951,
+            "name": "CheckStationDiagonalBLUR"
+        },
+        {
+            "id": 952,
+            "name": "CheckStationDiagonalULBR"
+        },
+        {
+            "id": 953,
+            "name": "CheckStationVertical"
+        },
+        {
+            "id": 954,
+            "name": "CheckStationOpened"
+        },
+        {
+            "id": 955,
+            "name": "CheckStationDiagonalBLUROpened"
+        },
+        {
+            "id": 956,
+            "name": "CheckStationDiagonalULBROpened"
+        },
+        {
+            "id": 957,
+            "name": "CheckStationVerticalOpened"
+        },
+        {
+            "id": 958,
+            "name": "BarracksTechReactor"
+        },
+        {
+            "id": 959,
+            "name": "FactoryTechReactor"
+        },
+        {
+            "id": 960,
+            "name": "StarportTechReactor"
+        },
+        {
+            "id": 961,
+            "name": "SpectreNuke"
+        },
+        {
+            "id": 962,
+            "name": "ColonistShipFlying"
+        },
+        {
+            "id": 963,
+            "name": "ColonistShip"
+        },
+        {
+            "id": 964,
+            "name": "BioDomeCommandFlying"
+        },
+        {
+            "id": 965,
+            "name": "BioDomeCommand"
+        },
+        {
+            "id": 966,
+            "name": "HerculesLanderFlying"
+        },
+        {
+            "id": 967,
+            "name": "HerculesLander"
+        },
+        {
+            "id": 968,
+            "name": "ZhakulDasLightBridgeOff"
+        },
+        {
+            "id": 969,
+            "name": "ZhakulDasLightBridge"
+        },
+        {
+            "id": 970,
+            "name": "ZhakulDasLibraryUnitBurrowed"
+        },
+        {
+            "id": 971,
+            "name": "ZhakulDasLibraryUnit"
+        },
+        {
+            "id": 972,
+            "name": "XelNagaTempleDoorBurrowed"
+        },
+        {
+            "id": 973,
+            "name": "XelNagaTempleDoor"
+        },
+        {
+            "id": 974,
+            "name": "XelNagaTempleDoorURDLBurrowed"
+        },
+        {
+            "id": 975,
+            "name": "XelNagaTempleDoorURDL"
+        },
+        {
+            "id": 976,
+            "name": "HelsAngelAssault"
+        },
+        {
+            "id": 977,
+            "name": "AutomatedRefinery"
+        },
+        {
+            "id": 978,
+            "name": "BattlecruiserHeliosMorph"
+        },
+        {
+            "id": 979,
+            "name": "HealingPotionTESTInstant"
+        },
+        {
+            "id": 980,
+            "name": "SpacePlatformCliffDoorOpen0"
+        },
+        {
+            "id": 981,
+            "name": "SpacePlatformCliffDoor0"
+        },
+        {
+            "id": 982,
+            "name": "SpacePlatformCliffDoorOpen1"
+        },
+        {
+            "id": 983,
+            "name": "SpacePlatformCliffDoor1"
+        },
+        {
+            "id": 984,
+            "name": "DestructibleGateDiagonalBLURLowered"
+        },
+        {
+            "id": 985,
+            "name": "DestructibleGateDiagonalULBRLowered"
+        },
+        {
+            "id": 986,
+            "name": "DestructibleGateStraightHorizontalBFLowered"
+        },
+        {
+            "id": 987,
+            "name": "DestructibleGateStraightHorizontalLowered"
+        },
+        {
+            "id": 988,
+            "name": "DestructibleGateStraightVerticalLFLowered"
+        },
+        {
+            "id": 989,
+            "name": "DestructibleGateStraightVerticalLowered"
+        },
+        {
+            "id": 990,
+            "name": "DestructibleGateDiagonalBLUR"
+        },
+        {
+            "id": 991,
+            "name": "DestructibleGateDiagonalULBR"
+        },
+        {
+            "id": 992,
+            "name": "DestructibleGateStraightHorizontalBF"
+        },
+        {
+            "id": 993,
+            "name": "DestructibleGateStraightHorizontal"
+        },
+        {
+            "id": 994,
+            "name": "DestructibleGateStraightVerticalLF"
+        },
+        {
+            "id": 995,
+            "name": "DestructibleGateStraightVertical"
+        },
+        {
+            "id": 996,
+            "name": "MetalGateDiagonalBLURLowered"
+        },
+        {
+            "id": 997,
+            "name": "MetalGateDiagonalULBRLowered"
+        },
+        {
+            "id": 998,
+            "name": "MetalGateStraightHorizontalBFLowered"
+        },
+        {
+            "id": 999,
+            "name": "MetalGateStraightHorizontalLowered"
+        },
+        {
+            "id": 1000,
+            "name": "MetalGateStraightVerticalLFLowered"
+        },
+        {
+            "id": 1001,
+            "name": "MetalGateStraightVerticalLowered"
+        },
+        {
+            "id": 1002,
+            "name": "MetalGateDiagonalBLUR"
+        },
+        {
+            "id": 1003,
+            "name": "MetalGateDiagonalULBR"
+        },
+        {
+            "id": 1004,
+            "name": "MetalGateStraightHorizontalBF"
+        },
+        {
+            "id": 1005,
+            "name": "MetalGateStraightHorizontal"
+        },
+        {
+            "id": 1006,
+            "name": "MetalGateStraightVerticalLF"
+        },
+        {
+            "id": 1007,
+            "name": "MetalGateStraightVertical"
+        },
+        {
+            "id": 1008,
+            "name": "SecurityGateDiagonalBLURLowered"
+        },
+        {
+            "id": 1009,
+            "name": "SecurityGateDiagonalULBRLowered"
+        },
+        {
+            "id": 1010,
+            "name": "SecurityGateStraightHorizontalBFLowered"
+        },
+        {
+            "id": 1011,
+            "name": "SecurityGateStraightHorizontalLowered"
+        },
+        {
+            "id": 1012,
+            "name": "SecurityGateStraightVerticalLFLowered"
+        },
+        {
+            "id": 1013,
+            "name": "SecurityGateStraightVerticalLowered"
+        },
+        {
+            "id": 1014,
+            "name": "SecurityGateDiagonalBLUR"
+        },
+        {
+            "id": 1015,
+            "name": "SecurityGateDiagonalULBR"
+        },
+        {
+            "id": 1016,
+            "name": "SecurityGateStraightHorizontalBF"
+        },
+        {
+            "id": 1017,
+            "name": "SecurityGateStraightHorizontal"
+        },
+        {
+            "id": 1018,
+            "name": "SecurityGateStraightVerticalLF"
+        },
+        {
+            "id": 1019,
+            "name": "SecurityGateStraightVertical"
+        },
+        {
+            "id": 1020,
+            "name": "TerrazineNodeDeadTerran"
+        },
+        {
+            "id": 1021,
+            "name": "TerrazineNodeHappyProtoss"
+        },
+        {
+            "id": 1022,
+            "name": "ZhakulDasLightBridgeOffTopRight"
+        },
+        {
+            "id": 1023,
+            "name": "ZhakulDasLightBridgeTopRight"
+        },
+        {
+            "id": 1024,
+            "name": "BattlecruiserHelios"
+        },
+        {
+            "id": 1025,
+            "name": "NukeSiloNova"
+        },
+        {
+            "id": 1026,
+            "name": "Odin"
+        },
+        {
+            "id": 1027,
+            "name": "PygaliskCocoon"
+        },
+        {
+            "id": 1028,
+            "name": "DevourerTissueDoodad"
+        },
+        {
+            "id": 1029,
+            "name": "SS_BattlecruiserMissileLauncher"
+        },
+        {
+            "id": 1030,
+            "name": "SS_TerraTronMissileSpinnerMissile"
+        },
+        {
+            "id": 1031,
+            "name": "SS_TerraTronSaw"
+        },
+        {
+            "id": 1032,
+            "name": "SS_BattlecruiserHunterSeekerMissile"
+        },
+        {
+            "id": 1033,
+            "name": "SS_LeviathanBomb"
+        },
+        {
+            "id": 1034,
+            "name": "DevourerTissueMissile"
+        },
+        {
+            "id": 1035,
+            "name": "SS_Interceptor"
+        },
+        {
+            "id": 1036,
+            "name": "SS_LeviathanBombMissile"
+        },
+        {
+            "id": 1037,
+            "name": "SS_LeviathanSpawnBombMissile"
+        },
+        {
+            "id": 1038,
+            "name": "SS_FighterMissileLeft"
+        },
+        {
+            "id": 1039,
+            "name": "SS_FighterMissileRight"
+        },
+        {
+            "id": 1040,
+            "name": "SS_InterceptorSpawnMissile"
+        },
+        {
+            "id": 1041,
+            "name": "SS_CarrierBossMissile"
+        },
+        {
+            "id": 1042,
+            "name": "SS_LeviathanTentacleTarget"
+        },
+        {
+            "id": 1043,
+            "name": "SS_LeviathanTentacleL2Missile"
+        },
+        {
+            "id": 1044,
+            "name": "SS_LeviathanTentacleR1Missile"
+        },
+        {
+            "id": 1045,
+            "name": "SS_LeviathanTentacleR2Missile"
+        },
+        {
+            "id": 1046,
+            "name": "SS_LeviathanTentacleL1Missile"
+        },
+        {
+            "id": 1047,
+            "name": "SS_TerraTronMissile"
+        },
+        {
+            "id": 1048,
+            "name": "SS_WraithMissile"
+        },
+        {
+            "id": 1049,
+            "name": "SS_ScourgeMissile"
+        },
+        {
+            "id": 1050,
+            "name": "SS_CorruptorMissile"
+        },
+        {
+            "id": 1051,
+            "name": "SS_SwarmGuardianMissile"
+        },
+        {
+            "id": 1052,
+            "name": "SS_StrongMissile1"
+        },
+        {
+            "id": 1053,
+            "name": "SS_StrongMissile2"
+        },
+        {
+            "id": 1054,
+            "name": "SS_FighterDroneMissile"
+        },
+        {
+            "id": 1055,
+            "name": "SS_PhoenixMissile"
+        },
+        {
+            "id": 1056,
+            "name": "SS_ScoutMissile"
+        },
+        {
+            "id": 1057,
+            "name": "SS_InterceptorMissile"
+        },
+        {
+            "id": 1058,
+            "name": "SS_ScienceVesselMissile"
+        },
+        {
+            "id": 1059,
+            "name": "SS_BattlecruiserMissile"
+        },
+        {
+            "id": 1060,
+            "name": "D8ClusterBombWeapon"
+        },
+        {
+            "id": 1061,
+            "name": "D8ClusterBomb"
+        },
+        {
+            "friendlyname": "BroodLord Cocoon",
+            "id": 1062,
+            "name": "BroodLordEgg"
+        },
+        {
+            "id": 1063,
+            "name": "BroodLordEggMissile"
+        },
+        {
+            "id": 1064,
+            "name": "CivilianWeapon"
+        },
+        {
+            "id": 1065,
+            "name": "BattlecruiserHeliosALMWeapon"
+        },
+        {
+            "id": 1066,
+            "name": "BattlecruiserLokiLMWeapon"
+        },
+        {
+            "id": 1067,
+            "name": "BattlecruiserHeliosGLMWeapon"
+        },
+        {
+            "id": 1068,
+            "name": "BioStasisMissile"
+        },
+        {
+            "id": 1069,
+            "name": "InfestedVentBroodLordEgg"
+        },
+        {
+            "id": 1070,
+            "name": "InfestedVentCorruptorEgg"
+        },
+        {
+            "id": 1071,
+            "name": "TentacleAMissile"
+        },
+        {
+            "id": 1072,
+            "name": "TentacleBMissile"
+        },
+        {
+            "id": 1073,
+            "name": "TentacleCMissile"
+        },
+        {
+            "id": 1074,
+            "name": "TentacleDMissile"
+        },
+        {
+            "friendlyname": "Mutalisk Cocoon",
+            "id": 1075,
+            "name": "MutaliskEgg"
+        },
+        {
+            "id": 1076,
+            "name": "InfestedVentMutaliskEgg"
+        },
+        {
+            "id": 1077,
+            "name": "MutaliskEggMissile"
+        },
+        {
+            "id": 1078,
+            "name": "InfestedVentEggMissile"
+        },
+        {
+            "id": 1079,
+            "name": "SporeCannonFireMissile"
+        },
+        {
+            "id": 1080,
+            "name": "ExperimentalPlasmaGunWeapon"
+        },
+        {
+            "id": 1081,
+            "name": "BrutaliskWeapon"
+        },
+        {
+            "id": 1082,
+            "name": "LokiHurricaneMissileLeft"
+        },
+        {
+            "id": 1083,
+            "name": "LokiHurricaneMissileRight"
+        },
+        {
+            "id": 1084,
+            "name": "OdinAAWeapon"
+        },
+        {
+            "id": 1085,
+            "name": "DuskWingWeapon"
+        },
+        {
+            "id": 1086,
+            "name": "KerriganWeapon"
+        },
+        {
+            "id": 1087,
+            "name": "UltrasonicPulseWeapon"
+        },
+        {
+            "id": 1088,
+            "name": "KerriganCharWeapon"
+        },
+        {
+            "id": 1089,
+            "name": "DevastatorMissileWeapon"
+        },
+        {
+            "id": 1090,
+            "name": "SwannWeapon"
+        },
+        {
+            "id": 1091,
+            "name": "HammerSecurityLMWeapon"
+        },
+        {
+            "id": 1092,
+            "name": "ConsumeDNAFeedbackWeapon"
+        },
+        {
+            "id": 1093,
+            "name": "UrunWeaponLeft"
+        },
+        {
+            "id": 1094,
+            "name": "UrunWeaponRight"
+        },
+        {
+            "id": 1095,
+            "name": "HailstormMissilesWeapon"
+        },
+        {
+            "id": 1096,
+            "name": "ColonyInfestationWeapon"
+        },
+        {
+            "id": 1097,
+            "name": "VoidSeekerPhaseMineBlastWeapon"
+        },
+        {
+            "id": 1098,
+            "name": "VoidSeekerPhaseMineBlastSecondaryWeapon"
+        },
+        {
+            "id": 1099,
+            "name": "TossGrenadeWeapon"
+        },
+        {
+            "id": 1100,
+            "name": "TychusGrenadeWeapon"
+        },
+        {
+            "id": 1101,
+            "name": "VileStreamWeapon"
+        },
+        {
+            "id": 1102,
+            "name": "WraithAirWeaponRight"
+        },
+        {
+            "id": 1103,
+            "name": "WraithAirWeaponLeft"
+        },
+        {
+            "id": 1104,
+            "name": "WraithGroundWeapon"
+        },
+        {
+            "id": 1105,
+            "name": "WeaponHybridD"
+        },
+        {
+            "id": 1106,
+            "name": "KarassWeapon"
+        },
+        {
+            "id": 1107,
+            "name": "HybridCPlasmaWeapon"
+        },
+        {
+            "id": 1108,
+            "name": "WarbotBMissile"
+        },
+        {
+            "id": 1109,
+            "name": "LokiYamatoWeapon"
+        },
+        {
+            "id": 1110,
+            "name": "HyperionYamatoSpecialWeapon"
+        },
+        {
+            "id": 1111,
+            "name": "HyperionLMWeapon"
+        },
+        {
+            "id": 1112,
+            "name": "HyperionALMWeapon"
+        },
+        {
+            "id": 1113,
+            "name": "VultureWeapon"
+        },
+        {
+            "id": 1114,
+            "name": "ScoutAirWeaponLeft"
+        },
+        {
+            "id": 1115,
+            "name": "ScoutAirWeaponRight"
+        },
+        {
+            "id": 1116,
+            "name": "HunterKillerWeapon"
+        },
+        {
+            "id": 1117,
+            "name": "GoliathAWeapon"
+        },
+        {
+            "id": 1118,
+            "name": "SpartanCompanyAWeapon"
+        },
+        {
+            "id": 1119,
+            "name": "LeviathanScourgeMissile"
+        },
+        {
+            "id": 1120,
+            "name": "BioPlasmidDischargeWeapon"
+        },
+        {
+            "id": 1121,
+            "name": "VoidSeekerWeapon"
+        },
+        {
+            "id": 1122,
+            "name": "HelsAngelFighterWeapon"
+        },
+        {
+            "id": 1123,
+            "name": "DRBattlecruiserALMWeapon"
+        },
+        {
+            "id": 1124,
+            "name": "DRBattlecruiserGLMWeapon"
+        },
+        {
+            "id": 1125,
+            "name": "HurricaneMissileRight"
+        },
+        {
+            "id": 1126,
+            "name": "HurricaneMissileLeft"
+        },
+        {
+            "id": 1127,
+            "name": "HybridSingularityFeedbackWeapon"
+        },
+        {
+            "id": 1128,
+            "name": "DominionKillTeamLMWeapon"
+        },
+        {
+            "id": 1129,
+            "name": "ItemGrenadesWeapon"
+        },
+        {
+            "id": 1130,
+            "name": "ItemGravityBombsWeapon"
+        },
+        {
+            "id": 1131,
+            "name": "TestHeroThrowMissile"
+        },
+        {
+            "id": 1132,
+            "name": "TestHeroDebugMissileAbility1Weapon"
+        },
+        {
+            "id": 1133,
+            "name": "TestHeroDebugMissileAbility2Weapon"
+        },
+        {
+            "id": 1134,
+            "name": "Spectre"
+        },
+        {
+            "id": 1135,
+            "name": "Vulture"
+        },
+        {
+            "id": 1136,
+            "name": "Loki"
+        },
+        {
+            "id": 1137,
+            "name": "Wraith"
+        },
+        {
+            "id": 1138,
+            "name": "DominionKillTeam"
+        },
+        {
+            "id": 1139,
+            "name": "Firebat"
+        },
+        {
+            "id": 1140,
+            "name": "Diamondback"
+        },
+        {
+            "id": 1141,
+            "name": "G4ChargeWeapon"
+        },
+        {
+            "id": 1142,
+            "name": "SS_BlackEdgeBorder"
+        },
+        {
+            "id": 1143,
+            "name": "DevourerTissueSampleTube"
+        },
+        {
+            "id": 1144,
+            "name": "Monolith"
+        },
+        {
+            "id": 1145,
+            "name": "Obelisk"
+        },
+        {
+            "id": 1146,
+            "name": "Archive"
+        },
+        {
+            "id": 1147,
+            "name": "ArtifactVault"
+        },
+        {
+            "id": 1148,
+            "name": "AvernusGateControl"
+        },
+        {
+            "id": 1149,
+            "name": "GateControlUnit"
+        },
+        {
+            "id": 1150,
+            "name": "BlimpAds"
+        },
+        {
+            "id": 1151,
+            "name": "Blocker6x6"
+        },
+        {
+            "id": 1152,
+            "name": "Blocker8x8"
+        },
+        {
+            "id": 1153,
+            "name": "Blocker16x16"
+        },
+        {
+            "id": 1154,
+            "name": "CargoTruckUnitFlatbed"
+        },
+        {
+            "id": 1155,
+            "name": "CargoTruckUnitTrailer"
+        },
+        {
+            "id": 1156,
+            "name": "Blimp"
+        },
+        {
+            "id": 1157,
+            "name": "CastanarWindowLargeDiagonalULBRUnit"
+        },
+        {
+            "id": 1158,
+            "name": "Blocker4x4"
+        },
+        {
+            "id": 1159,
+            "name": "HomeLarge"
+        },
+        {
+            "id": 1160,
+            "name": "HomeSmall"
+        },
+        {
+            "id": 1161,
+            "name": "ElevatorBlocker"
+        },
+        {
+            "id": 1162,
+            "name": "QuestionMark"
+        },
+        {
+            "id": 1163,
+            "name": "NydusWormLavaDeath"
+        },
+        {
+            "id": 1164,
+            "name": "SS_BackgroundSpaceLarge"
+        },
+        {
+            "id": 1165,
+            "name": "SS_BackgroundSpaceTerran00"
+        },
+        {
+            "id": 1166,
+            "name": "SS_BackgroundSpaceTerran02"
+        },
+        {
+            "id": 1167,
+            "name": "SS_BackgroundSpaceZerg00"
+        },
+        {
+            "id": 1168,
+            "name": "SS_BackgroundSpaceZerg02"
+        },
+        {
+            "id": 1169,
+            "name": "SS_CarrierBoss"
+        },
+        {
+            "id": 1170,
+            "name": "SS_Battlecruiser"
+        },
+        {
+            "id": 1171,
+            "name": "SS_TerraTronMissileSpinnerLauncher"
+        },
+        {
+            "id": 1172,
+            "name": "SS_TerraTronMissileSpinner"
+        },
+        {
+            "id": 1173,
+            "name": "SS_TerraTronBeamTarget"
+        },
+        {
+            "id": 1174,
+            "name": "SS_LightningProjectorFaceRight"
+        },
+        {
+            "id": 1175,
+            "name": "SS_Scourge"
+        },
+        {
+            "id": 1176,
+            "name": "SS_Corruptor"
+        },
+        {
+            "id": 1177,
+            "name": "SS_TerraTronMissileLauncher"
+        },
+        {
+            "id": 1178,
+            "name": "SS_LightningProjectorFaceLeft"
+        },
+        {
+            "id": 1179,
+            "name": "SS_Wraith"
+        },
+        {
+            "id": 1180,
+            "name": "SS_SwarmGuardian"
+        },
+        {
+            "id": 1181,
+            "name": "SS_Scout"
+        },
+        {
+            "id": 1182,
+            "name": "SS_Leviathan"
+        },
+        {
+            "id": 1183,
+            "name": "SS_ScienceVessel"
+        },
+        {
+            "id": 1184,
+            "name": "SS_TerraTron"
+        },
+        {
+            "id": 1185,
+            "name": "SecretDocuments"
+        },
+        {
+            "id": 1186,
+            "name": "Predator"
+        },
+        {
+            "id": 1187,
+            "name": "DefilerBoneSample"
+        },
+        {
+            "id": 1188,
+            "name": "DevourerTissueSample"
+        },
+        {
+            "id": 1189,
+            "name": "ProtossPsiElements"
+        },
+        {
+            "id": 1190,
+            "name": "Tassadar"
+        },
+        {
+            "id": 1191,
+            "name": "ScienceFacility"
+        },
+        {
+            "id": 1192,
+            "name": "InfestedCocoon"
+        },
+        {
+            "id": 1193,
+            "name": "FusionReactor"
+        },
+        {
+            "id": 1194,
+            "name": "BubbaCommercial"
+        },
+        {
+            "id": 1195,
+            "name": "XelNagaPrisonHeight2"
+        },
+        {
+            "id": 1196,
+            "name": "XelNagaPrison"
+        },
+        {
+            "id": 1197,
+            "name": "XelNagaPrisonNorth"
+        },
+        {
+            "id": 1198,
+            "name": "XelNagaPrisonNorthHeight2"
+        },
+        {
+            "id": 1199,
+            "name": "ZergDropPodCreep"
+        },
+        {
+            "id": 1200,
+            "name": "iPistolAd"
+        },
+        {
+            "id": 1201,
+            "name": "L800ETC_Ad"
+        },
+        {
+            "id": 1202,
+            "name": "NukeNoodlesCommercial"
+        },
+        {
+            "id": 1203,
+            "name": "PsiOpsCommercial"
+        },
+        {
+            "id": 1204,
+            "name": "ShipAlarm"
+        },
+        {
+            "id": 1205,
+            "name": "SpacePlatformDestructibleJumboBlocker"
+        },
+        {
+            "id": 1206,
+            "name": "SpacePlatformDestructibleLargeBlocker"
+        },
+        {
+            "id": 1207,
+            "name": "SpacePlatformDestructibleMediumBlocker"
+        },
+        {
+            "id": 1208,
+            "name": "SpacePlatformDestructibleSmallBlocker"
+        },
+        {
+            "id": 1209,
+            "name": "TalDarimMothership"
+        },
+        {
+            "id": 1210,
+            "name": "PlasmaTorpedoesWeapon"
+        },
+        {
+            "id": 1211,
+            "name": "PsiDisruptor"
+        },
+        {
+            "id": 1212,
+            "name": "HiveMindEmulator"
+        },
+        {
+            "id": 1213,
+            "name": "Raynor01"
+        },
+        {
+            "id": 1214,
+            "name": "ScienceVessel"
+        },
+        {
+            "id": 1215,
+            "name": "Scourge"
+        },
+        {
+            "id": 1216,
+            "name": "SpacePlatformReactorPathingBlocker"
+        },
+        {
+            "id": 1217,
+            "name": "TaurenOuthouse"
+        },
+        {
+            "id": 1218,
+            "name": "TychusEjectMissile"
+        },
+        {
+            "id": 1219,
+            "name": "Feederling"
+        },
+        {
+            "id": 1220,
+            "name": "UlaanSmokeBridge"
+        },
+        {
+            "id": 1221,
+            "name": "TalDarimPrisonCrystal"
+        },
+        {
+            "id": 1222,
+            "name": "SpaceDiablo"
+        },
+        {
+            "id": 1223,
+            "name": "MurlocMarine"
+        },
+        {
+            "id": 1224,
+            "name": "XelNagaPrisonConsole"
+        },
+        {
+            "id": 1225,
+            "name": "TalDarimPrison"
+        },
+        {
+            "id": 1226,
+            "name": "AdjutantCapsule"
+        },
+        {
+            "id": 1227,
+            "name": "XelNagaVault"
+        },
+        {
+            "id": 1228,
+            "name": "HoldingPen"
+        },
+        {
+            "id": 1229,
+            "name": "ScrapHuge"
+        },
+        {
+            "id": 1230,
+            "name": "PrisonerCivilian"
+        },
+        {
+            "id": 1231,
+            "name": "BiodomeHalfBuilt"
+        },
+        {
+            "id": 1232,
+            "name": "Biodome"
+        },
+        {
+            "id": 1233,
+            "name": "DestructibleKorhalFlag"
+        },
+        {
+            "id": 1234,
+            "name": "DestructibleKorhalPodium"
+        },
+        {
+            "id": 1235,
+            "name": "DestructibleKorhalTree"
+        },
+        {
+            "id": 1236,
+            "name": "DestructibleKorhalFoliage"
+        },
+        {
+            "id": 1237,
+            "name": "DestructibleSandbags"
+        },
+        {
+            "id": 1238,
+            "name": "CastanarWindowLargeDiagonalBLURUnit"
+        },
+        {
+            "id": 1239,
+            "name": "CargoTruckUnitBarrels"
+        },
+        {
+            "id": 1240,
+            "name": "SporeCannon"
+        },
+        {
+            "id": 1241,
+            "name": "Stetmann"
+        },
+        {
+            "id": 1242,
+            "name": "BridgeBlocker4x12"
+        },
+        {
+            "id": 1243,
+            "name": "CivilianShipWrecked"
+        },
+        {
+            "id": 1244,
+            "name": "Swann"
+        },
+        {
+            "id": 1245,
+            "name": "DrakkenLaserDrill"
+        },
+        {
+            "id": 1246,
+            "name": "MindSiphonReturnWeapon"
+        },
+        {
+            "id": 1247,
+            "name": "KerriganEgg"
+        },
+        {
+            "id": 1248,
+            "name": "ChrysalisEgg"
+        },
+        {
+            "id": 1249,
+            "name": "PrisonerSpectre"
+        },
+        {
+            "id": 1250,
+            "name": "PrisonZealot"
+        },
+        {
+            "id": 1251,
+            "name": "ScrapSalvage1x1"
+        },
+        {
+            "id": 1252,
+            "name": "ScrapSalvage2x2"
+        },
+        {
+            "id": 1253,
+            "name": "ScrapSalvage3x3"
+        },
+        {
+            "id": 1254,
+            "name": "RaynorCommando"
+        },
+        {
+            "id": 1255,
+            "name": "Overmind"
+        },
+        {
+            "id": 1256,
+            "name": "OvermindRemains"
+        },
+        {
+            "id": 1257,
+            "name": "InfestedMercHaven"
+        },
+        {
+            "id": 1258,
+            "name": "MonlythArtifactForceField"
+        },
+        {
+            "id": 1259,
+            "name": "MonlythForceFieldStatue"
+        },
+        {
+            "id": 1260,
+            "name": "Virophage"
+        },
+        {
+            "id": 1261,
+            "name": "PsiShockWeapon"
+        },
+        {
+            "id": 1262,
+            "name": "TychusCommando"
+        },
+        {
+            "id": 1263,
+            "name": "Brutalisk"
+        },
+        {
+            "id": 1264,
+            "name": "Pygalisk"
+        },
+        {
+            "id": 1265,
+            "name": "ValhallaBaseDestructibleDoorDead"
+        },
+        {
+            "id": 1266,
+            "name": "ValhallaBaseDestructibleDoor"
+        },
+        {
+            "id": 1267,
+            "name": "VoidSeeker"
+        },
+        {
+            "id": 1268,
+            "name": "MindSiphonWeapon"
+        },
+        {
+            "id": 1269,
+            "name": "Warbot"
+        },
+        {
+            "id": 1270,
+            "name": "PlatformConnector"
+        },
+        {
+            "id": 1271,
+            "name": "Artanis"
+        },
+        {
+            "id": 1272,
+            "name": "TerrazineCanister"
+        },
+        {
+            "id": 1273,
+            "name": "Hercules"
+        },
+        {
+            "id": 1274,
+            "name": "MercenaryFortress"
+        },
+        {
+            "id": 1275,
+            "name": "Raynor"
+        },
+        {
+            "id": 1276,
+            "name": "ArtifactPiece1"
+        },
+        {
+            "id": 1277,
+            "name": "ArtifactPiece2"
+        },
+        {
+            "id": 1278,
+            "name": "ArtifactPiece4"
+        },
+        {
+            "id": 1279,
+            "name": "ArtifactPiece3"
+        },
+        {
+            "id": 1280,
+            "name": "ArtifactPiece5"
+        },
+        {
+            "id": 1281,
+            "name": "RipFieldGenerator"
+        },
+        {
+            "id": 1282,
+            "name": "RipFieldGeneratorSmall"
+        },
+        {
+            "id": 1283,
+            "name": "XelNagaWorldshipVault"
+        },
+        {
+            "id": 1284,
+            "name": "TychusChaingun"
+        },
+        {
+            "id": 1285,
+            "name": "Artifact"
+        },
+        {
+            "id": 1286,
+            "name": "CellBlockB"
+        },
+        {
+            "id": 1287,
+            "name": "GhostLaserLines"
+        },
+        {
+            "id": 1288,
+            "name": "MainCellBlock"
+        },
+        {
+            "id": 1289,
+            "name": "Kerrigan"
+        },
+        {
+            "id": 1290,
+            "name": "DataCore"
+        },
+        {
+            "id": 1291,
+            "name": "SpecialOpsDropship"
+        },
+        {
+            "id": 1292,
+            "name": "Tosh"
+        },
+        {
+            "id": 1293,
+            "name": "CastanarUltraliskShackledUnit"
+        },
+        {
+            "id": 1294,
+            "name": "Karass"
+        },
+        {
+            "id": 1295,
+            "name": "InvisiblePylon"
+        },
+        {
+            "id": 1296,
+            "name": "Maar"
+        },
+        {
+            "id": 1297,
+            "name": "HybridDestroyer"
+        },
+        {
+            "id": 1298,
+            "name": "HybridReaver"
+        },
+        {
+            "id": 1299,
+            "name": "Hybrid"
+        },
+        {
+            "id": 1300,
+            "name": "TerrazineNode"
+        },
+        {
+            "id": 1301,
+            "name": "TransportTruck"
+        },
+        {
+            "id": 1302,
+            "name": "WallOfFire"
+        },
+        {
+            "id": 1303,
+            "name": "WeaponHybridC"
+        },
+        {
+            "id": 1304,
+            "name": "XelNagaTemple"
+        },
+        {
+            "id": 1305,
+            "name": "ExplodingBarrelLarge"
+        },
+        {
+            "id": 1306,
+            "name": "SuperWarpGate"
+        },
+        {
+            "id": 1307,
+            "name": "TerrazineTank"
+        },
+        {
+            "id": 1308,
+            "name": "XelNagaShrine"
+        },
+        {
+            "id": 1309,
+            "name": "SMCameraBridge"
+        },
+        {
+            "id": 1310,
+            "name": "SMMarSaraBarTychusCameras"
+        },
+        {
+            "id": 1311,
+            "name": "SMHyperionBridgeStage1HansonCameras"
+        },
+        {
+            "id": 1312,
+            "name": "SMHyperionBridgeStage1HornerCameras"
+        },
+        {
+            "id": 1313,
+            "name": "SMHyperionBridgeStage1TychusCameras"
+        },
+        {
+            "id": 1314,
+            "name": "SMHyperionBridgeStage1ToshCameras"
+        },
+        {
+            "id": 1315,
+            "name": "SMHyperionArmoryStage1SwannCameras"
+        },
+        {
+            "id": 1316,
+            "name": "SMHyperionCantinaToshCameras"
+        },
+        {
+            "id": 1317,
+            "name": "SMHyperionCantinaTychusCameras"
+        },
+        {
+            "id": 1318,
+            "name": "SMHyperionCantinaYbarraCameras"
+        },
+        {
+            "id": 1319,
+            "name": "SMHyperionLabAdjutantCameras"
+        },
+        {
+            "id": 1320,
+            "name": "SMHyperionLabCowinCameras"
+        },
+        {
+            "id": 1321,
+            "name": "SMHyperionLabHansonCameras"
+        },
+        {
+            "id": 1322,
+            "name": "SMHyperionBridgeTRaynor03BriefingCamera"
+        },
+        {
+            "id": 1323,
+            "name": "SMTestCamera"
+        },
+        {
+            "id": 1324,
+            "name": "SMCameraTerran01"
+        },
+        {
+            "id": 1325,
+            "name": "SMCameraTerran02A"
+        },
+        {
+            "id": 1326,
+            "name": "SMCameraTerran02B"
+        },
+        {
+            "id": 1327,
+            "name": "SMCameraTerran03"
+        },
+        {
+            "id": 1328,
+            "name": "SMCameraTerran04"
+        },
+        {
+            "id": 1329,
+            "name": "SMCameraTerran04A"
+        },
+        {
+            "id": 1330,
+            "name": "SMCameraTerran04B"
+        },
+        {
+            "id": 1331,
+            "name": "SMCameraTerran05"
+        },
+        {
+            "id": 1332,
+            "name": "SMCameraTerran06A"
+        },
+        {
+            "id": 1333,
+            "name": "SMCameraTerran06B"
+        },
+        {
+            "id": 1334,
+            "name": "SMCameraTerran06C"
+        },
+        {
+            "id": 1335,
+            "name": "SMCameraTerran07"
+        },
+        {
+            "id": 1336,
+            "name": "SMCameraTerran08"
+        },
+        {
+            "id": 1337,
+            "name": "SMCameraTerran09"
+        },
+        {
+            "id": 1338,
+            "name": "SMCameraTerran10"
+        },
+        {
+            "id": 1339,
+            "name": "SMCameraTerran11"
+        },
+        {
+            "id": 1340,
+            "name": "SMCameraTerran12"
+        },
+        {
+            "id": 1341,
+            "name": "SMCameraTerran13"
+        },
+        {
+            "id": 1342,
+            "name": "SMCameraTerran14"
+        },
+        {
+            "id": 1343,
+            "name": "SMCameraTerran15"
+        },
+        {
+            "id": 1344,
+            "name": "SMCameraTerran16"
+        },
+        {
+            "id": 1345,
+            "name": "SMCameraTerran17"
+        },
+        {
+            "id": 1346,
+            "name": "SMCameraTerran20"
+        },
+        {
+            "id": 1347,
+            "name": "SMFirstOfficer"
+        },
+        {
+            "id": 1348,
+            "name": "SMHyperionBridgeBriefingLeft"
+        },
+        {
+            "id": 1349,
+            "name": "SMHyperionBridgeBriefingRight"
+        },
+        {
+            "id": 1350,
+            "name": "SMHyperionMedLabBriefing"
+        },
+        {
+            "id": 1351,
+            "name": "SMHyperionMedLabBriefingCenter"
+        },
+        {
+            "id": 1352,
+            "name": "SMHyperionMedLabBriefingLeft"
+        },
+        {
+            "id": 1353,
+            "name": "SMHyperionMedLabBriefingRight"
+        },
+        {
+            "id": 1354,
+            "name": "SMToshShuttleSet"
+        },
+        {
+            "id": 1355,
+            "name": "SMKerriganPhoto"
+        },
+        {
+            "id": 1356,
+            "name": "SMToshShuttleSet2"
+        },
+        {
+            "id": 1357,
+            "name": "SMMarSaraBarJukeboxHS"
+        },
+        {
+            "id": 1358,
+            "name": "SMMarSaraBarKerriganPhotoHS"
+        },
+        {
+            "id": 1359,
+            "name": "SMValerianFlagshipCorridorsSet"
+        },
+        {
+            "id": 1360,
+            "name": "SMValerianFlagshipCorridorsSet2"
+        },
+        {
+            "id": 1361,
+            "name": "SMValerianFlagshipCorridorsSet3"
+        },
+        {
+            "id": 1362,
+            "name": "SMValerianFlagshipCorridorsSet4"
+        },
+        {
+            "id": 1363,
+            "name": "SMValerianObservatorySet"
+        },
+        {
+            "id": 1364,
+            "name": "SMValerianObservatorySet2"
+        },
+        {
+            "id": 1365,
+            "name": "SMValerianObservatorySet3"
+        },
+        {
+            "id": 1366,
+            "name": "SMValerianObservatoryPaintingHS"
+        },
+        {
+            "id": 1367,
+            "name": "SMCharBattlezoneFlag"
+        },
+        {
+            "id": 1368,
+            "name": "SMUNNSet"
+        },
+        {
+            "id": 1369,
+            "name": "SMTerranReadyRoomSet"
+        },
+        {
+            "id": 1370,
+            "name": "SMCharBattlezoneSet"
+        },
+        {
+            "id": 1371,
+            "name": "SMCharBattlezoneSet2"
+        },
+        {
+            "id": 1372,
+            "name": "SMCharBattlezoneSet3"
+        },
+        {
+            "id": 1373,
+            "name": "SMCharBattlezoneSet4"
+        },
+        {
+            "id": 1374,
+            "name": "SMCharBattlezoneSet5"
+        },
+        {
+            "id": 1375,
+            "name": "SMCharBattlezoneArtifactHS"
+        },
+        {
+            "id": 1376,
+            "name": "SMCharBattlezoneRadioHS"
+        },
+        {
+            "id": 1377,
+            "name": "SMCharBattlezoneDropshipHS"
+        },
+        {
+            "id": 1378,
+            "name": "SMCharBattlezoneBriefcaseHS"
+        },
+        {
+            "id": 1379,
+            "name": "SMCharBattlezoneBriefingSet"
+        },
+        {
+            "id": 1380,
+            "name": "SMCharBattlezoneBriefingSet2"
+        },
+        {
+            "id": 1381,
+            "name": "SMCharBattlezoneBriefingSetLeft"
+        },
+        {
+            "id": 1382,
+            "name": "SMCharBattlezoneBriefingSetRight"
+        },
+        {
+            "id": 1383,
+            "name": "SMMarSaraBarBadgeHS"
+        },
+        {
+            "id": 1384,
+            "name": "SMHyperionCantinaBadgeHS"
+        },
+        {
+            "id": 1385,
+            "name": "SMHyperionCantinaPoster1HS"
+        },
+        {
+            "id": 1386,
+            "name": "SMHyperionCantinaPoster2HS"
+        },
+        {
+            "id": 1387,
+            "name": "SMHyperionCantinaPoster3HS"
+        },
+        {
+            "id": 1388,
+            "name": "SMHyperionCantinaPoster4HS"
+        },
+        {
+            "id": 1389,
+            "name": "SMHyperionCantinaPoster5HS"
+        },
+        {
+            "id": 1390,
+            "name": "SMFly"
+        },
+        {
+            "id": 1391,
+            "name": "SMBridgeWindowSpace"
+        },
+        {
+            "id": 1392,
+            "name": "SMBridgePlanetSpace"
+        },
+        {
+            "id": 1393,
+            "name": "SMBridgePlanetSpaceAsteroids"
+        },
+        {
+            "id": 1394,
+            "name": "SMBridgePlanetAgria"
+        },
+        {
+            "id": 1395,
+            "name": "SMBridgePlanetAiur"
+        },
+        {
+            "id": 1396,
+            "name": "SMBridgePlanetAvernus"
+        },
+        {
+            "id": 1397,
+            "name": "SMBridgePlanetBelShir"
+        },
+        {
+            "id": 1398,
+            "name": "SMBridgePlanetCastanar"
+        },
+        {
+            "id": 1399,
+            "name": "SMBridgePlanetChar"
+        },
+        {
+            "id": 1400,
+            "name": "SMBridgePlanetHaven"
+        },
+        {
+            "id": 1401,
+            "name": "SMBridgePlanetKorhal"
+        },
+        {
+            "id": 1402,
+            "name": "SMBridgePlanetMeinhoff"
+        },
+        {
+            "id": 1403,
+            "name": "SMBridgePlanetMonlyth"
+        },
+        {
+            "id": 1404,
+            "name": "SMBridgePlanetNewFolsom"
+        },
+        {
+            "id": 1405,
+            "name": "SMBridgePlanetPortZion"
+        },
+        {
+            "id": 1406,
+            "name": "SMBridgePlanetRedstone"
+        },
+        {
+            "id": 1407,
+            "name": "SMBridgePlanetShakuras"
+        },
+        {
+            "id": 1408,
+            "name": "SMBridgePlanetTarsonis"
+        },
+        {
+            "id": 1409,
+            "name": "SMBridgePlanetTyphon"
+        },
+        {
+            "id": 1410,
+            "name": "SMBridgePlanetTyrador"
+        },
+        {
+            "id": 1411,
+            "name": "SMBridgePlanetUlaan"
+        },
+        {
+            "id": 1412,
+            "name": "SMBridgePlanetUlnar"
+        },
+        {
+            "id": 1413,
+            "name": "SMBridgePlanetValhalla"
+        },
+        {
+            "id": 1414,
+            "name": "SMBridgePlanetXil"
+        },
+        {
+            "id": 1415,
+            "name": "SMBridgePlanetZhakulDas"
+        },
+        {
+            "id": 1416,
+            "name": "SMMarSaraPlanet"
+        },
+        {
+            "id": 1417,
+            "name": "SMNova"
+        },
+        {
+            "id": 1418,
+            "name": "SMHavenPlanet"
+        },
+        {
+            "id": 1419,
+            "name": "SMHyperionBridgeBriefing"
+        },
+        {
+            "id": 1420,
+            "name": "SMHyperionBridgeBriefingCenter"
+        },
+        {
+            "id": 1421,
+            "name": "SMCharBattlefieldEndProps"
+        },
+        {
+            "id": 1422,
+            "name": "SMCharBattlezoneTurret"
+        },
+        {
+            "id": 1423,
+            "name": "SMTerran01FX"
+        },
+        {
+            "id": 1424,
+            "name": "SMTerran03FX"
+        },
+        {
+            "id": 1425,
+            "name": "SMTerran05FX"
+        },
+        {
+            "id": 1426,
+            "name": "SMTerran05FXMutalisks"
+        },
+        {
+            "id": 1427,
+            "name": "SMTerran05Props"
+        },
+        {
+            "id": 1428,
+            "name": "SMTerran06aFX"
+        },
+        {
+            "id": 1429,
+            "name": "SMTerran06bFX"
+        },
+        {
+            "id": 1430,
+            "name": "SMTerran06cFX"
+        },
+        {
+            "id": 1431,
+            "name": "SMTerran12FX"
+        },
+        {
+            "id": 1432,
+            "name": "SMTerran14FX"
+        },
+        {
+            "id": 1433,
+            "name": "SMTerran15FX"
+        },
+        {
+            "id": 1434,
+            "name": "SMTerran06AProps"
+        },
+        {
+            "id": 1435,
+            "name": "SMTerran06bProps"
+        },
+        {
+            "id": 1436,
+            "name": "SMTerran07Props"
+        },
+        {
+            "id": 1437,
+            "name": "SMTerran07FX"
+        },
+        {
+            "id": 1438,
+            "name": "SMTerran08Props"
+        },
+        {
+            "id": 1439,
+            "name": "SMTerran09FX"
+        },
+        {
+            "id": 1440,
+            "name": "SMTerran09Props"
+        },
+        {
+            "id": 1441,
+            "name": "SMTerran11FX"
+        },
+        {
+            "id": 1442,
+            "name": "SMTerran11FXMissiles"
+        },
+        {
+            "id": 1443,
+            "name": "SMTerran11FXExplosions"
+        },
+        {
+            "id": 1444,
+            "name": "SMTerran11FXBlood"
+        },
+        {
+            "id": 1445,
+            "name": "SMTerran11FXDebris"
+        },
+        {
+            "id": 1446,
+            "name": "SMTerran11FXDebris1"
+        },
+        {
+            "id": 1447,
+            "name": "SMTerran11FXDebris2"
+        },
+        {
+            "id": 1448,
+            "name": "SMTerran11Props"
+        },
+        {
+            "id": 1449,
+            "name": "SMTerran11PropsBurrowRocks"
+        },
+        {
+            "id": 1450,
+            "name": "SMTerran11PropsRifleShells"
+        },
+        {
+            "id": 1451,
+            "name": "SMTerran12Props"
+        },
+        {
+            "id": 1452,
+            "name": "SMTerran13Props"
+        },
+        {
+            "id": 1453,
+            "name": "SMTerran14Props"
+        },
+        {
+            "id": 1454,
+            "name": "SMTerran15Props"
+        },
+        {
+            "id": 1455,
+            "name": "SMTerran16FX"
+        },
+        {
+            "id": 1456,
+            "name": "SMTerran16FXFlak"
+        },
+        {
+            "id": 1457,
+            "name": "SMTerran17Props"
+        },
+        {
+            "id": 1458,
+            "name": "SMTerran17FX"
+        },
+        {
+            "id": 1459,
+            "name": "SMMarSaraBarProps"
+        },
+        {
+            "id": 1460,
+            "name": "SMHyperionCorridorProps"
+        },
+        {
+            "id": 1461,
+            "name": "ZeratulCrystalCharge"
+        },
+        {
+            "id": 1462,
+            "name": "SMRaynorHands"
+        },
+        {
+            "id": 1463,
+            "name": "SMPressRoomProps"
+        },
+        {
+            "id": 1464,
+            "name": "SMRaynorGun"
+        },
+        {
+            "id": 1465,
+            "name": "SMMarineRifle"
+        },
+        {
+            "id": 1466,
+            "name": "SMToshKnife"
+        },
+        {
+            "id": 1467,
+            "name": "SMToshShuttleProps"
+        },
+        {
+            "id": 1468,
+            "name": "SMHyperionExterior"
+        },
+        {
+            "id": 1469,
+            "name": "SMHyperionExteriorLow"
+        },
+        {
+            "id": 1470,
+            "name": "SMHyperionExteriorHologram"
+        },
+        {
+            "id": 1471,
+            "name": "SMCharCutScenes00"
+        },
+        {
+            "id": 1472,
+            "name": "SMCharCutScenes01"
+        },
+        {
+            "id": 1473,
+            "name": "SMCharCutScenes02"
+        },
+        {
+            "id": 1474,
+            "name": "SMCharCutScenes03"
+        },
+        {
+            "id": 1475,
+            "name": "SMMarSaraBarBriefingSet"
+        },
+        {
+            "id": 1476,
+            "name": "SMMarSaraBarBriefingSet2"
+        },
+        {
+            "id": 1477,
+            "name": "SMMarSaraBarBriefingSetLeft"
+        },
+        {
+            "id": 1478,
+            "name": "SMMarSaraBarBriefingSetRight"
+        },
+        {
+            "id": 1479,
+            "name": "SMMarSaraBarBriefingTVMain"
+        },
+        {
+            "id": 1480,
+            "name": "SMMarSaraBarBriefingTVMain2"
+        },
+        {
+            "id": 1481,
+            "name": "SMMarSaraBarBriefingTVMain3"
+        },
+        {
+            "id": 1482,
+            "name": "SMMarSaraBarBriefingTVPortrait1"
+        },
+        {
+            "id": 1483,
+            "name": "SMMarSaraBarBriefingTVPortrait2"
+        },
+        {
+            "id": 1484,
+            "name": "SMMarSaraBarBriefingTVPortrait3"
+        },
+        {
+            "id": 1485,
+            "name": "SMMarSaraBarBriefingTVPortrait4"
+        },
+        {
+            "id": 1486,
+            "name": "SMMarSaraBarBriefingTVPortrait5"
+        },
+        {
+            "id": 1487,
+            "name": "SMMarSaraBarSet"
+        },
+        {
+            "id": 1488,
+            "name": "SMMarSaraBarSet2"
+        },
+        {
+            "id": 1489,
+            "name": "SMMarSaraBarStarmapHS"
+        },
+        {
+            "id": 1490,
+            "name": "SMMarSaraBarTVHS"
+        },
+        {
+            "id": 1491,
+            "name": "SMMarSaraBarHydraliskSkullHS"
+        },
+        {
+            "id": 1492,
+            "name": "SMMarSaraBarCorkboardHS"
+        },
+        {
+            "id": 1493,
+            "name": "SMMarSaraBarCorkboardBackground"
+        },
+        {
+            "id": 1494,
+            "name": "SMMarSaraBarCorkboardItem1HS"
+        },
+        {
+            "id": 1495,
+            "name": "SMMarSaraBarCorkboardItem2HS"
+        },
+        {
+            "id": 1496,
+            "name": "SMMarSaraBarCorkboardItem3HS"
+        },
+        {
+            "id": 1497,
+            "name": "SMMarSaraBarCorkboardItem4HS"
+        },
+        {
+            "id": 1498,
+            "name": "SMMarSaraBarCorkboardItem5HS"
+        },
+        {
+            "id": 1499,
+            "name": "SMMarSaraBarCorkboardItem6HS"
+        },
+        {
+            "id": 1500,
+            "name": "SMMarSaraBarCorkboardItem7HS"
+        },
+        {
+            "id": 1501,
+            "name": "SMMarSaraBarCorkboardItem8HS"
+        },
+        {
+            "id": 1502,
+            "name": "SMMarSaraBarCorkboardItem9HS"
+        },
+        {
+            "id": 1503,
+            "name": "SMMarSaraBarBottlesHS"
+        },
+        {
+            "id": 1504,
+            "name": "SMValerianObservatoryProps"
+        },
+        {
+            "id": 1505,
+            "name": "SMValerianObservatoryStarmap"
+        },
+        {
+            "id": 1506,
+            "name": "SMBanshee"
+        },
+        {
+            "id": 1507,
+            "name": "SMViking"
+        },
+        {
+            "id": 1508,
+            "name": "SMArmoryBanshee"
+        },
+        {
+            "id": 1509,
+            "name": "SMArmoryDropship"
+        },
+        {
+            "id": 1510,
+            "name": "SMArmoryTank"
+        },
+        {
+            "id": 1511,
+            "name": "SMArmoryViking"
+        },
+        {
+            "id": 1512,
+            "name": "SMArmorySpiderMine"
+        },
+        {
+            "id": 1513,
+            "name": "SMArmoryGhostCrate"
+        },
+        {
+            "id": 1514,
+            "name": "SMArmorySpectreCrate"
+        },
+        {
+            "id": 1515,
+            "name": "SMArmoryBansheePHCrate"
+        },
+        {
+            "id": 1516,
+            "name": "SMArmoryDropshipPHCrate"
+        },
+        {
+            "id": 1517,
+            "name": "SMArmoryTankPHCrate"
+        },
+        {
+            "id": 1518,
+            "name": "SMArmoryVikingPHCrate"
+        },
+        {
+            "id": 1519,
+            "name": "SMArmorySpiderMinePHCrate"
+        },
+        {
+            "id": 1520,
+            "name": "SMArmoryGhostCratePHCrate"
+        },
+        {
+            "id": 1521,
+            "name": "SMArmorySpectreCratePHCrate"
+        },
+        {
+            "id": 1522,
+            "name": "SMArmoryRifle"
+        },
+        {
+            "id": 1523,
+            "name": "SMDropship"
+        },
+        {
+            "id": 1524,
+            "name": "SMDropshipBlue"
+        },
+        {
+            "id": 1525,
+            "name": "SMHyperionArmoryViking"
+        },
+        {
+            "id": 1526,
+            "name": "SMCharGatlingGun"
+        },
+        {
+            "id": 1527,
+            "name": "SMBountyHunter"
+        },
+        {
+            "id": 1528,
+            "name": "SMCivilian"
+        },
+        {
+            "id": 1529,
+            "name": "SMZergedHanson"
+        },
+        {
+            "id": 1530,
+            "name": "SMLabAssistant"
+        },
+        {
+            "id": 1531,
+            "name": "SMHyperionArmorer"
+        },
+        {
+            "id": 1532,
+            "name": "SMUNNScreen"
+        },
+        {
+            "id": 1533,
+            "name": "NewsArcturusInterviewSet"
+        },
+        {
+            "id": 1534,
+            "name": "NewsArcturusPressRoom"
+        },
+        {
+            "id": 1535,
+            "name": "SMDonnyVermillionSet"
+        },
+        {
+            "id": 1536,
+            "name": "NewsMeinhoffRefugeeCenter"
+        },
+        {
+            "id": 1537,
+            "name": "NewsRaynorLogo"
+        },
+        {
+            "id": 1538,
+            "name": "NewsTVEffect"
+        },
+        {
+            "id": 1539,
+            "name": "SMUNNCamera"
+        },
+        {
+            "id": 1540,
+            "name": "SMLeeKenoSet"
+        },
+        {
+            "id": 1541,
+            "name": "SMTVStatic"
+        },
+        {
+            "id": 1542,
+            "name": "SMDonnyVermillion"
+        },
+        {
+            "id": 1543,
+            "name": "SMDonnyVermillionDeath"
+        },
+        {
+            "id": 1544,
+            "name": "SMLeeKeno"
+        },
+        {
+            "id": 1545,
+            "name": "SMKateLockwell"
+        },
+        {
+            "id": 1546,
+            "name": "SMMikeLiberty"
+        },
+        {
+            "id": 1547,
+            "name": "SMTerranReadyRoomLeftTV"
+        },
+        {
+            "id": 1548,
+            "name": "SMTerranReadyRoomMainTV"
+        },
+        {
+            "id": 1549,
+            "name": "SMTerranReadyRoomRightTV"
+        },
+        {
+            "id": 1550,
+            "name": "SMHyperionArmoryStage1Set"
+        },
+        {
+            "id": 1551,
+            "name": "SMHyperionArmoryStage1Set01"
+        },
+        {
+            "id": 1552,
+            "name": "SMHyperionArmoryStage1Set02"
+        },
+        {
+            "id": 1553,
+            "name": "SMHyperionArmoryStage1Set03"
+        },
+        {
+            "id": 1554,
+            "name": "SMHyperionArmorySpaceLighting"
+        },
+        {
+            "id": 1555,
+            "name": "SMHyperionArmoryStage1TechnologyConsoleHS"
+        },
+        {
+            "id": 1556,
+            "name": "SMHyperionBridgeStage1Bow"
+        },
+        {
+            "id": 1557,
+            "name": "SMHyperionBridgeStage1Set"
+        },
+        {
+            "id": 1558,
+            "name": "SMHyperionBridgeStage1Set2"
+        },
+        {
+            "id": 1559,
+            "name": "SMHyperionBridgeStage1Set3"
+        },
+        {
+            "id": 1560,
+            "name": "SMHyperionBridgeHolomap"
+        },
+        {
+            "id": 1561,
+            "name": "SMHyperionCantinaStage1Set"
+        },
+        {
+            "id": 1562,
+            "name": "SMHyperionCantinaStage1Set2"
+        },
+        {
+            "id": 1563,
+            "name": "SMHyperionCantinaStage1WallPiece"
+        },
+        {
+            "id": 1564,
+            "name": "SMHyperionBridgeProps"
+        },
+        {
+            "id": 1565,
+            "name": "SMHyperionCantinaProps"
+        },
+        {
+            "id": 1566,
+            "name": "SMHyperionMedLabProps"
+        },
+        {
+            "id": 1567,
+            "name": "SMHyperionMedLabProtossCryotube0HS"
+        },
+        {
+            "id": 1568,
+            "name": "SMHyperionMedLabProtossCryotube1HS"
+        },
+        {
+            "id": 1569,
+            "name": "SMHyperionMedLabProtossCryotube2HS"
+        },
+        {
+            "id": 1570,
+            "name": "SMHyperionMedLabProtossCryotube3HS"
+        },
+        {
+            "id": 1571,
+            "name": "SMHyperionMedLabProtossCryotube4HS"
+        },
+        {
+            "id": 1572,
+            "name": "SMHyperionMedLabProtossCryotube5HS"
+        },
+        {
+            "id": 1573,
+            "name": "SMHyperionMedLabZergCryotube0HS"
+        },
+        {
+            "id": 1574,
+            "name": "SMHyperionMedLabZergCryotube1HS"
+        },
+        {
+            "id": 1575,
+            "name": "SMHyperionMedLabZergCryotube2HS"
+        },
+        {
+            "id": 1576,
+            "name": "SMHyperionMedLabZergCryotube3HS"
+        },
+        {
+            "id": 1577,
+            "name": "SMHyperionMedLabZergCryotube4HS"
+        },
+        {
+            "id": 1578,
+            "name": "SMHyperionMedLabZergCryotube5HS"
+        },
+        {
+            "id": 1579,
+            "name": "SMHyperionMedLabCryotubeA"
+        },
+        {
+            "id": 1580,
+            "name": "SMHyperionMedLabCryotubeB"
+        },
+        {
+            "id": 1581,
+            "name": "SMHyperionCantinaStage1ExitHS"
+        },
+        {
+            "id": 1582,
+            "name": "SMHyperionCantinaStage1StaircaseHS"
+        },
+        {
+            "id": 1583,
+            "name": "SMHyperionCantinaStage1TVHS"
+        },
+        {
+            "id": 1584,
+            "name": "SMHyperionCantinaStage1ArcadeGameHS"
+        },
+        {
+            "id": 1585,
+            "name": "SMHyperionCantinaStage1JukeboxHS"
+        },
+        {
+            "id": 1586,
+            "name": "SMHyperionCantinaStage1CorkboardHS"
+        },
+        {
+            "id": 1587,
+            "name": "SMHyperionCantinaProgressFrame"
+        },
+        {
+            "id": 1588,
+            "name": "SMHyperionCantinaHydraClawsHS"
+        },
+        {
+            "id": 1589,
+            "name": "SMHyperionCantinaMercComputerHS"
+        },
+        {
+            "id": 1590,
+            "name": "SMHyperionCantinaStage1Progress1HS"
+        },
+        {
+            "id": 1591,
+            "name": "SMHyperionCantinaStage1Progress2HS"
+        },
+        {
+            "id": 1592,
+            "name": "SMHyperionCantinaStage1Progress3HS"
+        },
+        {
+            "id": 1593,
+            "name": "SMHyperionCantinaStage1Progress4HS"
+        },
+        {
+            "id": 1594,
+            "name": "SMHyperionCantinaStage1Progress5HS"
+        },
+        {
+            "id": 1595,
+            "name": "SMHyperionCantinaStage1Progress6HS"
+        },
+        {
+            "id": 1596,
+            "name": "SMHyperionCorridorSet"
+        },
+        {
+            "id": 1597,
+            "name": "SMHyperionBridgeStage1BattleReportsHS"
+        },
+        {
+            "id": 1598,
+            "name": "SMHyperionBridgeStage1CenterConsoleHS"
+        },
+        {
+            "id": 1599,
+            "name": "SMHyperionBridgeStage1BattleCommandHS"
+        },
+        {
+            "id": 1600,
+            "name": "SMHyperionBridgeStage1CantinaHS"
+        },
+        {
+            "id": 1601,
+            "name": "SMHyperionBridgeStage1WindowHS"
+        },
+        {
+            "id": 1602,
+            "name": "SMHyperionMedLabStage1Set"
+        },
+        {
+            "id": 1603,
+            "name": "SMHyperionMedLabStage1Set2"
+        },
+        {
+            "id": 1604,
+            "name": "SMHyperionMedLabStage1SetLights"
+        },
+        {
+            "id": 1605,
+            "name": "SMHyperionMedLabStage1ConsoleHS"
+        },
+        {
+            "id": 1606,
+            "name": "SMHyperionMedLabStage1DoorHS"
+        },
+        {
+            "id": 1607,
+            "name": "SMHyperionMedLabStage1CrystalHS"
+        },
+        {
+            "id": 1608,
+            "name": "SMHyperionMedLabStage1ArtifactHS"
+        },
+        {
+            "id": 1609,
+            "name": "SMHyperionLabArtifactPart1HS"
+        },
+        {
+            "id": 1610,
+            "name": "SMHyperionLabArtifactPart2HS"
+        },
+        {
+            "id": 1611,
+            "name": "SMHyperionLabArtifactPart3HS"
+        },
+        {
+            "id": 1612,
+            "name": "SMHyperionLabArtifactPart4HS"
+        },
+        {
+            "id": 1613,
+            "name": "SMHyperionLabArtifactBaseHS"
+        },
+        {
+            "id": 1614,
+            "name": "SMShadowbox"
+        },
+        {
+            "id": 1615,
+            "name": "SMCharBattlezoneShadowbox"
+        },
+        {
+            "id": 1616,
+            "name": "SMCharInteractiveSkyparallax"
+        },
+        {
+            "id": 1617,
+            "name": "SMCharInteractive02Skyparallax"
+        },
+        {
+            "id": 1618,
+            "name": "SMRaynorCommander"
+        },
+        {
+            "id": 1619,
+            "name": "SMAdjutant"
+        },
+        {
+            "id": 1620,
+            "name": "SMAdjutantHologram"
+        },
+        {
+            "id": 1621,
+            "name": "SMMarauder"
+        },
+        {
+            "id": 1622,
+            "name": "SMFirebat"
+        },
+        {
+            "id": 1623,
+            "name": "SMMarauderPHCrate"
+        },
+        {
+            "id": 1624,
+            "name": "SMFirebatPHCrate"
+        },
+        {
+            "id": 1625,
+            "name": "SMRaynorMarine"
+        },
+        {
+            "id": 1626,
+            "name": "SMMarine01"
+        },
+        {
+            "id": 1627,
+            "name": "SMMarine02"
+        },
+        {
+            "id": 1628,
+            "name": "SMMarine02AOD"
+        },
+        {
+            "id": 1629,
+            "name": "SMMarine03"
+        },
+        {
+            "id": 1630,
+            "name": "SMMarine04"
+        },
+        {
+            "id": 1631,
+            "name": "SMCade"
+        },
+        {
+            "id": 1632,
+            "name": "SMHall"
+        },
+        {
+            "id": 1633,
+            "name": "SMBralik"
+        },
+        {
+            "id": 1634,
+            "name": "SMAnnabelle"
+        },
+        {
+            "id": 1635,
+            "name": "SMEarl"
+        },
+        {
+            "id": 1636,
+            "name": "SMKachinsky"
+        },
+        {
+            "id": 1637,
+            "name": "SMGenericMaleGreaseMonkey01"
+        },
+        {
+            "id": 1638,
+            "name": "SMGenericMaleGreaseMonkey02"
+        },
+        {
+            "id": 1639,
+            "name": "SMGenericMaleOfficer01"
+        },
+        {
+            "id": 1640,
+            "name": "SMGenericMaleOfficer02"
+        },
+        {
+            "id": 1641,
+            "name": "SMStetmann"
+        },
+        {
+            "id": 1642,
+            "name": "SMCooper"
+        },
+        {
+            "id": 1643,
+            "name": "SMHill"
+        },
+        {
+            "id": 1644,
+            "name": "SMYbarra"
+        },
+        {
+            "id": 1645,
+            "name": "SMValerianMengsk"
+        },
+        {
+            "id": 1646,
+            "name": "SMArcturusMengsk"
+        },
+        {
+            "id": 1647,
+            "name": "SMArcturusHologram"
+        },
+        {
+            "id": 1648,
+            "name": "SMZeratul"
+        },
+        {
+            "id": 1649,
+            "name": "SMHydralisk"
+        },
+        {
+            "id": 1650,
+            "name": "SMHydraliskDead"
+        },
+        {
+            "id": 1651,
+            "name": "SMMutalisk"
+        },
+        {
+            "id": 1652,
+            "name": "SMZergling"
+        },
+        {
+            "id": 1653,
+            "name": "Scientist"
+        },
+        {
+            "id": 1654,
+            "name": "MinerMale"
+        },
+        {
+            "id": 1655,
+            "name": "Civilian"
+        },
+        {
+            "id": 1656,
+            "name": "Colonist"
+        },
+        {
+            "id": 1657,
+            "name": "CivilianFemale"
+        },
+        {
+            "id": 1658,
+            "name": "ColonistFemale"
+        },
+        {
+            "id": 1659,
+            "name": "Hut"
+        },
+        {
+            "id": 1660,
+            "name": "ColonistHut"
+        },
+        {
+            "id": 1661,
+            "name": "InfestableHut"
+        },
+        {
+            "id": 1662,
+            "name": "InfestableColonistHut"
+        },
+        {
+            "id": 1663,
+            "name": "XelNagaShrineXil"
+        },
+        {
+            "id": 1664,
+            "name": "ProtossRelic"
+        },
+        {
+            "id": 1665,
+            "name": "PickupGrenades"
+        },
+        {
+            "id": 1666,
+            "name": "PickupPlasmaGun"
+        },
+        {
+            "id": 1667,
+            "name": "PickupPlasmaRounds"
+        },
+        {
+            "id": 1668,
+            "name": "PickupMedicRecharge"
+        },
+        {
+            "id": 1669,
+            "name": "PickupManaRecharge"
+        },
+        {
+            "id": 1670,
+            "name": "PickupRestorationCharge"
+        },
+        {
+            "id": 1671,
+            "name": "PickupChronoRiftDevice"
+        },
+        {
+            "id": 1672,
+            "name": "PickupChronoRiftCharge"
+        },
+        {
+            "id": 1673,
+            "name": "GasCanister"
+        },
+        {
+            "id": 1674,
+            "name": "GasCanisterProtoss"
+        },
+        {
+            "id": 1675,
+            "name": "GasCanisterZerg"
+        },
+        {
+            "id": 1676,
+            "name": "MineralCrystal"
+        },
+        {
+            "id": 1677,
+            "name": "PalletGas"
+        },
+        {
+            "id": 1678,
+            "name": "PalletMinerals"
+        },
+        {
+            "id": 1679,
+            "name": "NaturalGas"
+        },
+        {
+            "id": 1680,
+            "name": "NaturalMinerals"
+        },
+        {
+            "id": 1681,
+            "name": "NaturalMineralsRed"
+        },
+        {
+            "id": 1682,
+            "name": "PickupHealth25"
+        },
+        {
+            "id": 1683,
+            "name": "PickupHealth50"
+        },
+        {
+            "id": 1684,
+            "name": "PickupHealth100"
+        },
+        {
+            "id": 1685,
+            "name": "PickupHealthFull"
+        },
+        {
+            "id": 1686,
+            "name": "PickupEnergy25"
+        },
+        {
+            "id": 1687,
+            "name": "PickupEnergy50"
+        },
+        {
+            "id": 1688,
+            "name": "PickupEnergy100"
+        },
+        {
+            "id": 1689,
+            "name": "PickupEnergyFull"
+        },
+        {
+            "id": 1690,
+            "name": "PickupMines"
+        },
+        {
+            "id": 1691,
+            "name": "PickupPsiStorm"
+        },
+        {
+            "id": 1692,
+            "name": "CivilianCarsUnit"
+        },
+        {
+            "id": 1693,
+            "name": "CruiserBike"
+        },
+        {
+            "id": 1694,
+            "name": "TerranBuggy"
+        },
+        {
+            "id": 1695,
+            "name": "ColonistVehicleUnit"
+        },
+        {
+            "id": 1696,
+            "name": "ColonistVehicleUnit01"
+        },
+        {
+            "id": 1697,
+            "name": "DumpTruck"
+        },
+        {
+            "id": 1698,
+            "name": "TankerTruck"
+        },
+        {
+            "id": 1699,
+            "name": "FlatbedTruck"
+        },
+        {
+            "id": 1700,
+            "name": "ColonistShipTHanson02A"
+        },
+        {
+            "id": 1701,
+            "name": "Purifier"
+        },
+        {
+            "id": 1702,
+            "name": "InfestedArmory"
+        },
+        {
+            "id": 1703,
+            "name": "InfestedBarracks"
+        },
+        {
+            "id": 1704,
+            "name": "InfestedBunker"
+        },
+        {
+            "id": 1705,
+            "name": "InfestedCC"
+        },
+        {
+            "id": 1706,
+            "name": "InfestedEngBay"
+        },
+        {
+            "id": 1707,
+            "name": "InfestedFactory"
+        },
+        {
+            "id": 1708,
+            "name": "InfestedRefinery"
+        },
+        {
+            "id": 1709,
+            "name": "InfestedStarport"
+        },
+        {
+            "id": 1710,
+            "name": "InfestedMissileTurret"
+        },
+        {
+            "id": 1711,
+            "name": "LogisticsHeadquarters"
+        },
+        {
+            "id": 1712,
+            "name": "InfestedSupply"
+        },
+        {
+            "id": 1713,
+            "name": "TarsonisEngine"
+        },
+        {
+            "id": 1714,
+            "name": "TarsonisEngineFast"
+        },
+        {
+            "id": 1715,
+            "name": "FreightCar"
+        },
+        {
+            "id": 1716,
+            "name": "Caboose"
+        },
+        {
+            "id": 1717,
+            "name": "Hyperion"
+        },
+        {
+            "id": 1718,
+            "name": "MengskHologramBillboard"
+        },
+        {
+            "id": 1719,
+            "name": "TRaynor01SignsDestructible1"
+        },
+        {
+            "id": 1720,
+            "name": "AbandonedBuilding"
+        },
+        {
+            "id": 1721,
+            "name": "Nova"
+        },
+        {
+            "id": 1722,
+            "name": "Food1000"
+        },
+        {
+            "id": 1723,
+            "name": "PsiIndoctrinator"
+        },
+        {
+            "id": 1724,
+            "name": "JoriumStockpile"
+        },
+        {
+            "id": 1725,
+            "name": "ZergDropPod"
+        },
+        {
+            "id": 1726,
+            "name": "TerranDropPod"
+        },
+        {
+            "id": 1727,
+            "name": "ColonistBiodome"
+        },
+        {
+            "id": 1728,
+            "name": "ColonistBiodomeHalfBuilt"
+        },
+        {
+            "id": 1729,
+            "name": "InfestableBiodome"
+        },
+        {
+            "id": 1730,
+            "name": "InfestableColonistBiodome"
+        },
+        {
+            "id": 1731,
+            "name": "Medic"
+        },
+        {
+            "id": 1732,
+            "name": "VikingSky_Unit"
+        },
+        {
+            "id": 1733,
+            "name": "SS_Fighter"
+        },
+        {
+            "id": 1734,
+            "name": "SS_Phoenix"
+        },
+        {
+            "id": 1735,
+            "name": "SS_Carrier"
+        },
+        {
+            "id": 1736,
+            "name": "SS_BackgroundZerg01"
+        },
+        {
+            "id": 1737,
+            "name": "SS_BackgroundSpace00"
+        },
+        {
+            "id": 1738,
+            "name": "SS_BackgroundSpace01"
+        },
+        {
+            "id": 1739,
+            "name": "SS_BackgroundSpace02"
+        },
+        {
+            "id": 1740,
+            "name": "SS_BackgroundSpaceProt00"
+        },
+        {
+            "id": 1741,
+            "name": "SS_BackgroundSpaceProt01"
+        },
+        {
+            "id": 1742,
+            "name": "SS_BackgroundSpaceProt02"
+        },
+        {
+            "id": 1743,
+            "name": "SS_BackgroundSpaceProt03"
+        },
+        {
+            "id": 1744,
+            "name": "SS_BackgroundSpaceProt04"
+        },
+        {
+            "id": 1745,
+            "name": "SS_BackgroundSpaceProtossLarge"
+        },
+        {
+            "id": 1746,
+            "name": "SS_BackgroundSpaceZergLarge"
+        },
+        {
+            "id": 1747,
+            "name": "SS_BackgroundSpaceTerranLarge"
+        },
+        {
+            "id": 1748,
+            "name": "SS_BackgroundSpaceZerg01"
+        },
+        {
+            "id": 1749,
+            "name": "SS_BackgroundSpaceTerran01"
+        },
+        {
+            "id": 1750,
+            "name": "BreachingCharge"
+        },
+        {
+            "id": 1751,
+            "name": "InfestationSpire"
+        },
+        {
+            "id": 1752,
+            "name": "SpacePlatformVentsUnit"
+        },
+        {
+            "id": 1753,
+            "name": "StoneZealot"
+        },
+        {
+            "id": 1754,
+            "name": "PreserverPrison"
+        },
+        {
+            "id": 1755,
+            "name": "PortJunker"
+        },
+        {
+            "id": 1756,
+            "name": "Leviathan"
+        },
+        {
+            "id": 1757,
+            "name": "Swarmling"
+        },
+        {
+            "id": 1758,
+            "name": "ValhallaDestructibleWall"
+        },
+        {
+            "id": 1759,
+            "name": "NewFolsomPrisonEntrance"
+        },
+        {
+            "id": 1760,
+            "name": "OdinBuild"
+        },
+        {
+            "id": 1761,
+            "name": "NukePack"
+        },
+        {
+            "id": 1762,
+            "name": "CharDestructibleRockCover"
+        },
+        {
+            "id": 1763,
+            "name": "CharDestructibleRockCoverV"
+        },
+        {
+            "id": 1764,
+            "name": "CharDestructibleRockCoverULDR"
+        },
+        {
+            "id": 1765,
+            "name": "CharDestructibleRockCoverURDL"
+        },
+        {
+            "id": 1766,
+            "name": "MaarWarpInUnit"
+        },
+        {
+            "id": 1767,
+            "name": "EggPurple"
+        },
+        {
+            "id": 1768,
+            "name": "TruckFlatbedUnit"
+        },
+        {
+            "id": 1769,
+            "name": "TruckSemiUnit"
+        },
+        {
+            "id": 1770,
+            "name": "TruckUtilityUnit"
+        },
+        {
+            "id": 1771,
+            "name": "InfestedColonistShip"
+        },
+        {
+            "id": 1772,
+            "name": "CastanarDestructibleDebris"
+        },
+        {
+            "id": 1773,
+            "name": "ColonistTransport"
+        },
+        {
+            "id": 1774,
+            "name": "PreserverBase"
+        },
+        {
+            "id": 1775,
+            "name": "PreserverA"
+        },
+        {
+            "id": 1776,
+            "name": "PreserverB"
+        },
+        {
+            "id": 1777,
+            "name": "PreserverC"
+        },
+        {
+            "id": 1778,
+            "name": "TaurenSpaceMarine"
+        },
+        {
+            "id": 1779,
+            "name": "MarSaraBridgeBLUR"
+        },
+        {
+            "id": 1780,
+            "name": "MarSaraBridgeBRUL"
+        },
+        {
+            "id": 1781,
+            "name": "ShortBridgeVertical"
+        },
+        {
+            "id": 1782,
+            "name": "ShortBridgeHorizontal"
+        },
+        {
+            "id": 1783,
+            "name": "TestHero"
+        },
+        {
+            "id": 1784,
+            "name": "TestShop"
+        },
+        {
+            "id": 1785,
+            "name": "HealingPotionTESTTarget"
+        },
+        {
+            "id": 1786,
+            "name": "4SlotBag"
+        },
+        {
+            "id": 1787,
+            "name": "6SlotBag"
+        },
+        {
+            "id": 1788,
+            "name": "8SlotBag"
+        },
+        {
+            "id": 1789,
+            "name": "10SlotBag"
+        },
+        {
+            "id": 1790,
+            "name": "12SlotBag"
+        },
+        {
+            "id": 1791,
+            "name": "14SlotBag"
+        },
+        {
+            "id": 1792,
+            "name": "16SlotBag"
+        },
+        {
+            "id": 1793,
+            "name": "18SlotBag"
+        },
+        {
+            "id": 1794,
+            "name": "20SlotBag"
+        },
+        {
+            "id": 1795,
+            "name": "22SlotBag"
+        },
+        {
+            "id": 1796,
+            "name": "24SlotBag"
+        },
+        {
+            "id": 1797,
+            "name": "RepulserField6"
+        },
+        {
+            "id": 1798,
+            "name": "RepulserField8"
+        },
+        {
+            "id": 1799,
+            "name": "RepulserField10"
+        },
+        {
+            "id": 1800,
+            "name": "RepulserField12"
+        },
+        {
+            "id": 1801,
+            "name": "DestructibleWallCorner45ULBL"
+        },
+        {
+            "id": 1802,
+            "name": "DestructibleWallCorner45ULUR"
+        },
+        {
+            "id": 1803,
+            "name": "DestructibleWallCorner45URBR"
+        },
+        {
+            "id": 1804,
+            "name": "DestructibleWallCorner45"
+        },
+        {
+            "id": 1805,
+            "name": "DestructibleWallCorner45UR90L"
+        },
+        {
+            "id": 1806,
+            "name": "DestructibleWallCorner45UL90B"
+        },
+        {
+            "id": 1807,
+            "name": "DestructibleWallCorner45BL90R"
+        },
+        {
+            "id": 1808,
+            "name": "DestructibleWallCorner45BR90T"
+        },
+        {
+            "id": 1809,
+            "name": "DestructibleWallCorner90L45BR"
+        },
+        {
+            "id": 1810,
+            "name": "DestructibleWallCorner90T45BL"
+        },
+        {
+            "id": 1811,
+            "name": "DestructibleWallCorner90R45UL"
+        },
+        {
+            "id": 1812,
+            "name": "DestructibleWallCorner90B45UR"
+        },
+        {
+            "id": 1813,
+            "name": "DestructibleWallCorner90TR"
+        },
+        {
+            "id": 1814,
+            "name": "DestructibleWallCorner90BR"
+        },
+        {
+            "id": 1815,
+            "name": "DestructibleWallCorner90LB"
+        },
+        {
+            "id": 1816,
+            "name": "DestructibleWallCorner90LT"
+        },
+        {
+            "id": 1817,
+            "name": "DestructibleWallDiagonalBLUR"
+        },
+        {
+            "id": 1818,
+            "name": "DestructibleWallDiagonalBLURLF"
+        },
+        {
+            "id": 1819,
+            "name": "DestructibleWallDiagonalULBRLF"
+        },
+        {
+            "id": 1820,
+            "name": "DestructibleWallDiagonalULBR"
+        },
+        {
+            "id": 1821,
+            "name": "DestructibleWallStraightVertical"
+        },
+        {
+            "id": 1822,
+            "name": "DestructibleWallVerticalLF"
+        },
+        {
+            "id": 1823,
+            "name": "DestructibleWallStraightHorizontal"
+        },
+        {
+            "id": 1824,
+            "name": "DestructibleWallStraightHorizontalBF"
+        },
+        {
+            "id": 1825,
+            "name": "DefenseWallE"
+        },
+        {
+            "id": 1826,
+            "name": "DefenseWallS"
+        },
+        {
+            "id": 1827,
+            "name": "DefenseWallW"
+        },
+        {
+            "id": 1828,
+            "name": "DefenseWallN"
+        },
+        {
+            "id": 1829,
+            "name": "DefenseWallNE"
+        },
+        {
+            "id": 1830,
+            "name": "DefenseWallSW"
+        },
+        {
+            "id": 1831,
+            "name": "DefenseWallNW"
+        },
+        {
+            "id": 1832,
+            "name": "DefenseWallSE"
+        },
+        {
+            "id": 1833,
+            "name": "WreckedBattlecruiserHeliosFinal"
+        },
+        {
+            "id": 1834,
+            "name": "FireworksBlue"
+        },
+        {
+            "id": 1835,
+            "name": "FireworksRed"
+        },
+        {
+            "id": 1836,
+            "name": "FireworksYellow"
+        },
+        {
+            "id": 1837,
+            "name": "PurifierBlastMarkUnit"
+        },
+        {
+            "id": 1838,
+            "name": "ItemGravityBombs"
+        },
+        {
+            "id": 1839,
+            "name": "ItemGrenades"
+        },
+        {
+            "id": 1840,
+            "name": "ItemMedkit"
+        },
+        {
+            "id": 1841,
+            "name": "ItemMines"
+        },
+        {
+            "id": 1842,
+            "name": "ReaperPlacement"
+        },
+        {
+            "id": 1843,
+            "name": "QueenZagaraACGluescreenDummy"
+        },
+        {
+            "id": 1844,
+            "name": "OverseerZagaraACGluescreenDummy"
+        },
+        {
+            "id": 1845,
+            "name": "StukovInfestedCivilianACGluescreenDummy"
+        },
+        {
+            "id": 1846,
+            "name": "StukovInfestedMarineACGluescreenDummy"
+        },
+        {
+            "id": 1847,
+            "name": "StukovInfestedSiegeTankACGluescreenDummy"
+        },
+        {
+            "id": 1848,
+            "name": "StukovInfestedDiamondbackACGluescreenDummy"
+        },
+        {
+            "id": 1849,
+            "name": "StukovInfestedBansheeACGluescreenDummy"
+        },
+        {
+            "id": 1850,
+            "name": "SILiberatorACGluescreenDummy"
+        },
+        {
+            "id": 1851,
+            "name": "StukovInfestedBunkerACGluescreenDummy"
+        },
+        {
+            "id": 1852,
+            "name": "StukovInfestedMissileTurretACGluescreenDummy"
+        },
+        {
+            "id": 1853,
+            "name": "StukovBroodQueenACGluescreenDummy"
+        },
+        {
+            "id": 1854,
+            "name": "ZealotFenixACGluescreenDummy"
+        },
+        {
+            "id": 1855,
+            "name": "SentryFenixACGluescreenDummy"
+        },
+        {
+            "id": 1856,
+            "name": "AdeptFenixACGluescreenDummy"
+        },
+        {
+            "id": 1857,
+            "name": "ImmortalFenixACGluescreenDummy"
+        },
+        {
+            "id": 1858,
+            "name": "ColossusFenixACGluescreenDummy"
+        },
+        {
+            "id": 1859,
+            "name": "DisruptorACGluescreenDummy"
+        },
+        {
+            "id": 1860,
+            "name": "ObserverFenixACGluescreenDummy"
+        },
+        {
+            "id": 1861,
+            "name": "ScoutACGluescreenDummy"
+        },
+        {
+            "id": 1862,
+            "name": "CarrierFenixACGluescreenDummy"
+        },
+        {
+            "id": 1863,
+            "name": "PhotonCannonFenixACGluescreenDummy"
+        },
+        {
+            "id": 1864,
+            "name": "PrimalZerglingACGluescreenDummy"
+        },
+        {
+            "id": 1865,
+            "name": "RavasaurACGluescreenDummy"
+        },
+        {
+            "id": 1866,
+            "name": "PrimalRoachACGluescreenDummy"
+        },
+        {
+            "id": 1867,
+            "name": "FireRoachACGluescreenDummy"
+        },
+        {
+            "id": 1868,
+            "name": "PrimalGuardianACGluescreenDummy"
+        },
+        {
+            "id": 1869,
+            "name": "PrimalHydraliskACGluescreenDummy"
+        },
+        {
+            "id": 1870,
+            "name": "PrimalMutaliskACGluescreenDummy"
+        },
+        {
+            "id": 1871,
+            "name": "PrimalImpalerACGluescreenDummy"
+        },
+        {
+            "id": 1872,
+            "name": "PrimalSwarmHostACGluescreenDummy"
+        },
+        {
+            "id": 1873,
+            "name": "CreeperHostACGluescreenDummy"
+        },
+        {
+            "id": 1874,
+            "name": "PrimalUltraliskACGluescreenDummy"
+        },
+        {
+            "id": 1875,
+            "name": "TyrannozorACGluescreenDummy"
+        },
+        {
+            "id": 1876,
+            "name": "PrimalWurmACGluescreenDummy"
+        },
+        {
+            "id": 1877,
+            "name": "HHReaperACGluescreenDummy"
+        },
+        {
+            "id": 1878,
+            "name": "HHWidowMineACGluescreenDummy"
+        },
+        {
+            "id": 1879,
+            "name": "HHHellionTankACGluescreenDummy"
+        },
+        {
+            "id": 1880,
+            "name": "HHWraithACGluescreenDummy"
+        },
+        {
+            "id": 1881,
+            "name": "HHVikingACGluescreenDummy"
+        },
+        {
+            "id": 1882,
+            "name": "HHBattlecruiserACGluescreenDummy"
+        },
+        {
+            "id": 1883,
+            "name": "HHRavenACGluescreenDummy"
+        },
+        {
+            "id": 1884,
+            "name": "HHBomberPlatformACGluescreenDummy"
+        },
+        {
+            "id": 1885,
+            "name": "HHMercStarportACGluescreenDummy"
+        },
+        {
+            "id": 1886,
+            "name": "HHMissileTurretACGluescreenDummy"
+        },
+        {
+            "id": 1887,
+            "name": "HighTemplarSkinPreview"
+        },
+        {
+            "id": 1888,
+            "name": "WarpPrismSkinPreview"
+        },
+        {
+            "id": 1889,
+            "name": "SiegeTankSkinPreview"
+        },
+        {
+            "id": 1890,
+            "name": "LiberatorSkinPreview"
+        },
+        {
+            "id": 1891,
+            "name": "VikingSkinPreview"
+        },
+        {
+            "id": 1892,
+            "name": "StukovInfestedTrooperACGluescreenDummy"
+        },
+        {
+            "id": 1893,
+            "name": "XelNagaDestructibleBlocker6S"
+        },
+        {
+            "id": 1894,
+            "name": "XelNagaDestructibleBlocker6SE"
+        },
+        {
+            "id": 1895,
+            "name": "XelNagaDestructibleBlocker6E"
+        },
+        {
+            "id": 1896,
+            "name": "XelNagaDestructibleBlocker6NE"
+        },
+        {
+            "id": 1897,
+            "name": "XelNagaDestructibleBlocker6N"
+        },
+        {
+            "id": 1898,
+            "name": "XelNagaDestructibleBlocker6NW"
+        },
+        {
+            "id": 1899,
+            "name": "XelNagaDestructibleBlocker6W"
+        },
+        {
+            "id": 1900,
+            "name": "XelNagaDestructibleBlocker6SW"
+        },
+        {
+            "id": 1901,
+            "name": "XelNagaDestructibleBlocker8S"
+        },
+        {
+            "id": 1902,
+            "name": "XelNagaDestructibleBlocker8SE"
+        },
+        {
+            "id": 1903,
+            "name": "XelNagaDestructibleBlocker8E"
+        },
+        {
+            "id": 1904,
+            "name": "XelNagaDestructibleBlocker8NE"
+        },
+        {
+            "id": 1905,
+            "name": "XelNagaDestructibleBlocker8N"
+        },
+        {
+            "id": 1906,
+            "name": "XelNagaDestructibleBlocker8NW"
+        },
+        {
+            "id": 1907,
+            "name": "XelNagaDestructibleBlocker8W"
+        },
+        {
+            "id": 1908,
+            "name": "XelNagaDestructibleBlocker8SW"
+        },
+        {
+            "id": 1909,
+            "name": "SnowGlazeStarterMP"
+        },
+        {
+            "id": 1910,
+            "name": "ShieldBattery"
+        },
+        {
+            "friendlyname": "ObserverSurveillanceMode",
+            "id": 1911,
+            "name": "ObserverSiegeMode"
+        },
+        {
+            "friendlyname": "OverseerOversightMode",
+            "id": 1912,
+            "name": "OverseerSiegeMode"
+        },
+        {
+            "friendlyname": "RepairDrone",
+            "id": 1913,
+            "name": "RavenRepairDrone"
+        },
+        {
+            "id": 1914,
+            "name": "HighTemplarWeaponMissile"
+        },
+        {
+            "id": 1915,
+            "name": "CycloneMissileLargeAirAlternative"
+        },
+        {
+            "id": 1916,
+            "name": "RavenScramblerMissile"
+        },
+        {
+            "id": 1917,
+            "name": "RavenRepairDroneReleaseWeapon"
+        },
+        {
+            "id": 1918,
+            "name": "RavenShredderMissileWeapon"
+        },
+        {
+            "id": 1919,
+            "name": "InfestedAcidSpinesWeapon"
+        },
+        {
+            "id": 1920,
+            "name": "InfestorEnsnareAttackMissile"
+        },
+        {
+            "id": 1921,
+            "name": "SNARE_PLACEHOLDER"
+        },
+        {
+            "id": 1922,
+            "name": "TychusReaperACGluescreenDummy"
+        },
+        {
+            "id": 1923,
+            "name": "TychusFirebatACGluescreenDummy"
+        },
+        {
+            "id": 1924,
+            "name": "TychusSpectreACGluescreenDummy"
+        },
+        {
+            "id": 1925,
+            "name": "TychusMedicACGluescreenDummy"
+        },
+        {
+            "id": 1926,
+            "name": "TychusMarauderACGluescreenDummy"
+        },
+        {
+            "id": 1927,
+            "name": "TychusWarhoundACGluescreenDummy"
+        },
+        {
+            "id": 1928,
+            "name": "TychusHERCACGluescreenDummy"
+        },
+        {
+            "id": 1929,
+            "name": "TychusGhostACGluescreenDummy"
+        },
+        {
+            "id": 1930,
+            "name": "TychusSCVAutoTurretACGluescreenDummy"
+        },
+        {
+            "id": 1931,
+            "name": "ZeratulStalkerACGluescreenDummy"
+        },
+        {
+            "id": 1932,
+            "name": "ZeratulSentryACGluescreenDummy"
+        },
+        {
+            "id": 1933,
+            "name": "ZeratulDarkTemplarACGluescreenDummy"
+        },
+        {
+            "id": 1934,
+            "name": "ZeratulImmortalACGluescreenDummy"
+        },
+        {
+            "id": 1935,
+            "name": "ZeratulObserverACGluescreenDummy"
+        },
+        {
+            "id": 1936,
+            "name": "ZeratulDisruptorACGluescreenDummy"
+        },
+        {
+            "id": 1937,
+            "name": "ZeratulWarpPrismACGluescreenDummy"
+        },
+        {
+            "id": 1938,
+            "name": "ZeratulPhotonCannonACGluescreenDummy"
+        },
+        {
+            "id": 1939,
+            "name": "RenegadeLongboltMissileWeapon"
+        },
+        {
+            "id": 1940,
+            "name": "Viking"
+        },
+        {
+            "id": 1941,
+            "name": "RenegadeMissileTurret"
+        },
+        {
+            "id": 1942,
+            "name": "ParasiticBombRelayDummy"
+        }
+    ]
+}

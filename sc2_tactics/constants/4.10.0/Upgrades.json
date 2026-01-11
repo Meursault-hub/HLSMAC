@@ -1,0 +1,1207 @@
+
+{
+    "Upgrades": [
+        {
+            "id": 0,
+            "name": "Null"
+        },
+        {
+            "id": 1,
+            "name": "CarrierLaunchSpeedUpgrade"
+        },
+        {
+            "id": 2,
+            "name": "GlialReconstitution"
+        },
+        {
+            "id": 3,
+            "name": "TunnelingClaws"
+        },
+        {
+            "id": 4,
+            "name": "ChitinousPlating"
+        },
+        {
+            "id": 5,
+            "name": "HiSecAutoTracking"
+        },
+        {
+            "id": 6,
+            "name": "TerranBuildingArmor"
+        },
+        {
+            "id": 7,
+            "name": "TerranInfantryWeaponsLevel1"
+        },
+        {
+            "id": 8,
+            "name": "TerranInfantryWeaponsLevel2"
+        },
+        {
+            "id": 9,
+            "name": "TerranInfantryWeaponsLevel3"
+        },
+        {
+            "id": 10,
+            "name": "NeosteelFrame"
+        },
+        {
+            "id": 11,
+            "name": "TerranInfantryArmorsLevel1"
+        },
+        {
+            "id": 12,
+            "name": "TerranInfantryArmorsLevel2"
+        },
+        {
+            "id": 13,
+            "name": "TerranInfantryArmorsLevel3"
+        },
+        {
+            "id": 14,
+            "name": "ReaperSpeed"
+        },
+        {
+            "id": 15,
+            "name": "Stimpack"
+        },
+        {
+            "friendlyname": "CombatShields",
+            "id": 16,
+            "name": "ShieldWall"
+        },
+        {
+            "friendlyname": "ConcussiveShells",
+            "id": 17,
+            "name": "PunisherGrenades"
+        },
+        {
+            "id": 18,
+            "name": "SiegeTech"
+        },
+        {
+            "friendlyname": "InfernalPreigniter",
+            "id": 19,
+            "name": "HighCapacityBarrels"
+        },
+        {
+            "id": 20,
+            "name": "BansheeCloak"
+        },
+        {
+            "id": 21,
+            "name": "MedivacCaduceusReactor"
+        },
+        {
+            "id": 22,
+            "name": "RavenCorvidReactor"
+        },
+        {
+            "id": 23,
+            "name": "HunterSeeker"
+        },
+        {
+            "id": 24,
+            "name": "DurableMaterials"
+        },
+        {
+            "id": 25,
+            "name": "PersonalCloaking"
+        },
+        {
+            "id": 26,
+            "name": "GhostMoebiusReactor"
+        },
+        {
+            "id": 27,
+            "name": "TerranVehicleArmorsLevel1"
+        },
+        {
+            "id": 28,
+            "name": "TerranVehicleArmorsLevel2"
+        },
+        {
+            "id": 29,
+            "name": "TerranVehicleArmorsLevel3"
+        },
+        {
+            "id": 30,
+            "name": "TerranVehicleWeaponsLevel1"
+        },
+        {
+            "id": 31,
+            "name": "TerranVehicleWeaponsLevel2"
+        },
+        {
+            "id": 32,
+            "name": "TerranVehicleWeaponsLevel3"
+        },
+        {
+            "id": 33,
+            "name": "TerranShipArmorsLevel1"
+        },
+        {
+            "id": 34,
+            "name": "TerranShipArmorsLevel2"
+        },
+        {
+            "id": 35,
+            "name": "TerranShipArmorsLevel3"
+        },
+        {
+            "id": 36,
+            "name": "TerranShipWeaponsLevel1"
+        },
+        {
+            "id": 37,
+            "name": "TerranShipWeaponsLevel2"
+        },
+        {
+            "id": 38,
+            "name": "TerranShipWeaponsLevel3"
+        },
+        {
+            "id": 39,
+            "name": "ProtossGroundWeaponsLevel1"
+        },
+        {
+            "id": 40,
+            "name": "ProtossGroundWeaponsLevel2"
+        },
+        {
+            "id": 41,
+            "name": "ProtossGroundWeaponsLevel3"
+        },
+        {
+            "id": 42,
+            "name": "ProtossGroundArmorsLevel1"
+        },
+        {
+            "id": 43,
+            "name": "ProtossGroundArmorsLevel2"
+        },
+        {
+            "id": 44,
+            "name": "ProtossGroundArmorsLevel3"
+        },
+        {
+            "id": 45,
+            "name": "ProtossShieldsLevel1"
+        },
+        {
+            "id": 46,
+            "name": "ProtossShieldsLevel2"
+        },
+        {
+            "id": 47,
+            "name": "ProtossShieldsLevel3"
+        },
+        {
+            "id": 48,
+            "name": "ObserverGraviticBooster"
+        },
+        {
+            "id": 49,
+            "name": "GraviticDrive"
+        },
+        {
+            "id": 50,
+            "name": "ExtendedThermalLance"
+        },
+        {
+            "id": 51,
+            "name": "HighTemplarKhaydarinAmulet"
+        },
+        {
+            "id": 52,
+            "name": "PsiStormTech"
+        },
+        {
+            "id": 53,
+            "name": "ZergMeleeWeaponsLevel1"
+        },
+        {
+            "id": 54,
+            "name": "ZergMeleeWeaponsLevel2"
+        },
+        {
+            "id": 55,
+            "name": "ZergMeleeWeaponsLevel3"
+        },
+        {
+            "id": 56,
+            "name": "ZergGroundArmorsLevel1"
+        },
+        {
+            "id": 57,
+            "name": "ZergGroundArmorsLevel2"
+        },
+        {
+            "id": 58,
+            "name": "ZergGroundArmorsLevel3"
+        },
+        {
+            "id": 59,
+            "name": "ZergMissileWeaponsLevel1"
+        },
+        {
+            "id": 60,
+            "name": "ZergMissileWeaponsLevel2"
+        },
+        {
+            "id": 61,
+            "name": "ZergMissileWeaponsLevel3"
+        },
+        {
+            "friendlyname": "PneumatizedCarapace",
+            "id": 62,
+            "name": "overlordspeed"
+        },
+        {
+            "id": 63,
+            "name": "overlordtransport"
+        },
+        {
+            "id": 64,
+            "name": "Burrow"
+        },
+        {
+            "friendlyname": "ZerglingAdrenalGlands",
+            "id": 65,
+            "name": "zerglingattackspeed"
+        },
+        {
+            "friendlyname": "ZerglingMetabolicBoost",
+            "id": 66,
+            "name": "zerglingmovementspeed"
+        },
+        {
+            "id": 67,
+            "name": "hydraliskspeed"
+        },
+        {
+            "id": 68,
+            "name": "ZergFlyerWeaponsLevel1"
+        },
+        {
+            "id": 69,
+            "name": "ZergFlyerWeaponsLevel2"
+        },
+        {
+            "id": 70,
+            "name": "ZergFlyerWeaponsLevel3"
+        },
+        {
+            "id": 71,
+            "name": "ZergFlyerArmorsLevel1"
+        },
+        {
+            "id": 72,
+            "name": "ZergFlyerArmorsLevel2"
+        },
+        {
+            "id": 73,
+            "name": "ZergFlyerArmorsLevel3"
+        },
+        {
+            "friendlyname": "PathogenGlands",
+            "id": 74,
+            "name": "InfestorEnergyUpgrade"
+        },
+        {
+            "id": 75,
+            "name": "CentrificalHooks"
+        },
+        {
+            "friendlyname": "BattlecruiserWeaponRefit",
+            "id": 76,
+            "name": "BattlecruiserEnableSpecializations"
+        },
+        {
+            "id": 77,
+            "name": "BattlecruiserBehemothReactor"
+        },
+        {
+            "id": 78,
+            "name": "ProtossAirWeaponsLevel1"
+        },
+        {
+            "id": 79,
+            "name": "ProtossAirWeaponsLevel2"
+        },
+        {
+            "id": 80,
+            "name": "ProtossAirWeaponsLevel3"
+        },
+        {
+            "id": 81,
+            "name": "ProtossAirArmorsLevel1"
+        },
+        {
+            "id": 82,
+            "name": "ProtossAirArmorsLevel2"
+        },
+        {
+            "id": 83,
+            "name": "ProtossAirArmorsLevel3"
+        },
+        {
+            "id": 84,
+            "name": "WarpGateResearch"
+        },
+        {
+            "id": 85,
+            "name": "haltech"
+        },
+        {
+            "id": 86,
+            "name": "Charge"
+        },
+        {
+            "id": 87,
+            "name": "BlinkTech"
+        },
+        {
+            "id": 88,
+            "name": "AnabolicSynthesis"
+        },
+        {
+            "id": 89,
+            "name": "ObverseIncubation"
+        },
+        {
+            "id": 90,
+            "name": "VikingJotunBoosters"
+        },
+        {
+            "id": 91,
+            "name": "OrganicCarapace"
+        },
+        {
+            "id": 92,
+            "name": "InfestorPeristalsis"
+        },
+        {
+            "id": 93,
+            "name": "AbdominalFortitude"
+        },
+        {
+            "id": 94,
+            "name": "HydraliskSpeedUpgrade"
+        },
+        {
+            "id": 95,
+            "name": "BanelingBurrowMove"
+        },
+        {
+            "id": 96,
+            "name": "CombatDrugs"
+        },
+        {
+            "id": 97,
+            "name": "StrikeCannons"
+        },
+        {
+            "id": 98,
+            "name": "TransformationServos"
+        },
+        {
+            "friendlyname": "PhoenixAnionPulseCrystals",
+            "id": 99,
+            "name": "PhoenixRangeUpgrade"
+        },
+        {
+            "id": 100,
+            "name": "TempestRangeUpgrade"
+        },
+        {
+            "id": 101,
+            "name": "NeuralParasite"
+        },
+        {
+            "id": 102,
+            "name": "LocustLifetimeIncrease"
+        },
+        {
+            "id": 103,
+            "name": "UltraliskBurrowChargeUpgrade"
+        },
+        {
+            "id": 104,
+            "name": "OracleEnergyUpgrade"
+        },
+        {
+            "id": 105,
+            "name": "RestoreShields"
+        },
+        {
+            "id": 106,
+            "name": "ProtossHeroShipWeapon"
+        },
+        {
+            "id": 107,
+            "name": "ProtossHeroShipDetector"
+        },
+        {
+            "id": 108,
+            "name": "ProtossHeroShipSpell"
+        },
+        {
+            "id": 109,
+            "name": "ReaperJump"
+        },
+        {
+            "id": 110,
+            "name": "IncreasedRange"
+        },
+        {
+            "id": 111,
+            "name": "ZergBurrowMove"
+        },
+        {
+            "id": 112,
+            "name": "AnionPulseCrystals"
+        },
+        {
+            "id": 113,
+            "name": "TerranVehicleAndShipWeaponsLevel1"
+        },
+        {
+            "id": 114,
+            "name": "TerranVehicleAndShipWeaponsLevel2"
+        },
+        {
+            "id": 115,
+            "name": "TerranVehicleAndShipWeaponsLevel3"
+        },
+        {
+            "id": 116,
+            "name": "TerranVehicleAndShipArmorsLevel1"
+        },
+        {
+            "id": 117,
+            "name": "TerranVehicleAndShipArmorsLevel2"
+        },
+        {
+            "id": 118,
+            "name": "TerranVehicleAndShipArmorsLevel3"
+        },
+        {
+            "id": 119,
+            "name": "FlyingLocusts"
+        },
+        {
+            "id": 120,
+            "name": "RoachSupply"
+        },
+        {
+            "id": 121,
+            "name": "ImmortalRevive"
+        },
+        {
+            "id": 122,
+            "name": "DrillClaws"
+        },
+        {
+            "id": 123,
+            "name": "CycloneLockOnRangeUpgrade"
+        },
+        {
+            "id": 124,
+            "name": "CycloneAirUpgrade"
+        },
+        {
+            "id": 125,
+            "name": "LiberatorMorph"
+        },
+        {
+            "id": 126,
+            "name": "AdeptShieldUpgrade"
+        },
+        {
+            "id": 127,
+            "name": "LurkerRange"
+        },
+        {
+            "id": 128,
+            "name": "ImmortalBarrier"
+        },
+        {
+            "id": 129,
+            "name": "AdeptKillBounce"
+        },
+        {
+            "friendlyname": "AdeptResonatingGlaives",
+            "id": 130,
+            "name": "AdeptPiercingAttack"
+        },
+        {
+            "id": 131,
+            "name": "CinematicMode"
+        },
+        {
+            "id": 132,
+            "name": "CursorDebug"
+        },
+        {
+            "id": 133,
+            "name": "MagFieldLaunchers"
+        },
+        {
+            "friendlyname": "GroovedSpines",
+            "id": 134,
+            "name": "EvolveGroovedSpines"
+        },
+        {
+            "friendlyname": "MuscularAugments",
+            "id": 135,
+            "name": "EvolveMuscularAugments"
+        },
+        {
+            "friendlyname": "BansheeHyperflightRotors",
+            "id": 136,
+            "name": "BansheeSpeed"
+        },
+        {
+            "id": 137,
+            "name": "MedivacRapidDeployment"
+        },
+        {
+            "id": 138,
+            "name": "RavenRecalibratedExplosives"
+        },
+        {
+            "friendlyname": "HighCapacityFuelTanks",
+            "id": 139,
+            "name": "MedivacIncreaseSpeedBoost"
+        },
+        {
+            "friendlyname": "AdvancedBallistics",
+            "id": 140,
+            "name": "LiberatorAGRangeUpgrade"
+        },
+        {
+            "friendlyname": "ShadowStrike",
+            "id": 141,
+            "name": "DarkTemplarBlinkUpgrade"
+        },
+        {
+            "id": 142,
+            "name": "RavagerRange"
+        },
+        {
+            "id": 143,
+            "name": "RavenDamageUpgrade"
+        },
+        {
+            "id": 144,
+            "name": "CycloneLockOnDamageUpgrade"
+        },
+        {
+            "id": 145,
+            "name": "AresClassWeaponsSystemViking"
+        },
+        {
+            "id": 146,
+            "name": "AutoHarvester"
+        },
+        {
+            "id": 147,
+            "name": "HybridCPlasmaUpgradeHard"
+        },
+        {
+            "id": 148,
+            "name": "HybridCPlasmaUpgradeInsane"
+        },
+        {
+            "id": 149,
+            "name": "InterceptorLimit4"
+        },
+        {
+            "id": 150,
+            "name": "InterceptorLimit6"
+        },
+        {
+            "id": 151,
+            "name": "330mmBarrageCannons"
+        },
+        {
+            "id": 152,
+            "name": "NotPossibleSiegeMode"
+        },
+        {
+            "id": 153,
+            "name": "NeoSteelFrame"
+        },
+        {
+            "id": 154,
+            "name": "NeoSteelAndShrikeTurretIconUpgrade"
+        },
+        {
+            "id": 155,
+            "name": "OcularImplants"
+        },
+        {
+            "id": 156,
+            "name": "CrossSpectrumDampeners"
+        },
+        {
+            "id": 157,
+            "name": "OrbitalStrike"
+        },
+        {
+            "id": 158,
+            "name": "ClusterBomb"
+        },
+        {
+            "id": 159,
+            "name": "ShapedHull"
+        },
+        {
+            "id": 160,
+            "name": "SpectreTooltipUpgrade"
+        },
+        {
+            "id": 161,
+            "name": "UltraCapacitors"
+        },
+        {
+            "id": 162,
+            "name": "VanadiumPlating"
+        },
+        {
+            "friendlyname": "CommandCenter Reactor",
+            "id": 163,
+            "name": "CommandCenterReactor"
+        },
+        {
+            "id": 164,
+            "name": "RegenerativeBioSteel"
+        },
+        {
+            "id": 165,
+            "name": "CellularReactors"
+        },
+        {
+            "id": 166,
+            "name": "BansheeCloakedDamage"
+        },
+        {
+            "id": 167,
+            "name": "DistortionBlasters"
+        },
+        {
+            "id": 168,
+            "name": "EMPTower"
+        },
+        {
+            "id": 169,
+            "name": "SupplyDepotDrop"
+        },
+        {
+            "id": 170,
+            "name": "HiveMindEmulator"
+        },
+        {
+            "id": 171,
+            "name": "FortifiedBunkerCarapace"
+        },
+        {
+            "id": 172,
+            "name": "Predator"
+        },
+        {
+            "id": 173,
+            "name": "ScienceVessel"
+        },
+        {
+            "id": 174,
+            "name": "DualFusionWelders"
+        },
+        {
+            "id": 175,
+            "name": "AdvancedConstruction"
+        },
+        {
+            "id": 176,
+            "name": "AdvancedMedicTraining"
+        },
+        {
+            "id": 177,
+            "name": "ProjectileAccelerators"
+        },
+        {
+            "id": 178,
+            "name": "ReinforcedSuperstructure"
+        },
+        {
+            "id": 179,
+            "name": "MULE"
+        },
+        {
+            "id": 180,
+            "name": "OrbitalRelay"
+        },
+        {
+            "id": 181,
+            "name": "Razorwire"
+        },
+        {
+            "id": 182,
+            "name": "AdvancedHealingAI"
+        },
+        {
+            "id": 183,
+            "name": "TwinLinkedFlameThrowers"
+        },
+        {
+            "id": 184,
+            "name": "NanoConstructor"
+        },
+        {
+            "id": 185,
+            "name": "CerberusMines"
+        },
+        {
+            "id": 186,
+            "name": "Hyperfluxor"
+        },
+        {
+            "id": 187,
+            "name": "TriLithiumPowerCells"
+        },
+        {
+            "id": 188,
+            "name": "PermanentCloakGhost"
+        },
+        {
+            "id": 189,
+            "name": "PermanentCloakSpectre"
+        },
+        {
+            "id": 190,
+            "name": "UltrasonicPulse"
+        },
+        {
+            "id": 191,
+            "name": "SurvivalPods"
+        },
+        {
+            "id": 192,
+            "name": "EnergyStorage"
+        },
+        {
+            "id": 193,
+            "name": "FullBoreCanisterAmmo"
+        },
+        {
+            "id": 194,
+            "name": "CampaignJotunBoosters"
+        },
+        {
+            "id": 195,
+            "name": "MicroFiltering"
+        },
+        {
+            "id": 196,
+            "name": "ParticleCannonAir"
+        },
+        {
+            "id": 197,
+            "name": "VultureAutoRepair"
+        },
+        {
+            "id": 198,
+            "name": "PsiDisruptor"
+        },
+        {
+            "id": 199,
+            "name": "ScienceVesselEnergyManipulation"
+        },
+        {
+            "id": 200,
+            "name": "ScienceVesselPlasmaWeaponry"
+        },
+        {
+            "id": 201,
+            "name": "ShowGatlingGun"
+        },
+        {
+            "id": 202,
+            "name": "TechReactor"
+        },
+        {
+            "id": 203,
+            "name": "TechReactorAI"
+        },
+        {
+            "id": 204,
+            "name": "TerranDefenseRangeBonus"
+        },
+        {
+            "id": 205,
+            "name": "X88TNapalmUpgrade"
+        },
+        {
+            "id": 206,
+            "name": "HurricaneMissiles"
+        },
+        {
+            "id": 207,
+            "name": "MechanicalRebirth"
+        },
+        {
+            "id": 208,
+            "name": "MarineStimpack"
+        },
+        {
+            "id": 209,
+            "name": "DarkTemplarTactics"
+        },
+        {
+            "id": 210,
+            "name": "ClusterWarheads"
+        },
+        {
+            "id": 211,
+            "name": "CloakDistortionField"
+        },
+        {
+            "id": 212,
+            "name": "DevastatorMissiles"
+        },
+        {
+            "id": 213,
+            "name": "DistortionThrusters"
+        },
+        {
+            "id": 214,
+            "name": "DynamicPowerRouting"
+        },
+        {
+            "id": 215,
+            "name": "ImpalerRounds"
+        },
+        {
+            "id": 216,
+            "name": "KineticFields"
+        },
+        {
+            "id": 217,
+            "name": "BurstCapacitors"
+        },
+        {
+            "id": 218,
+            "name": "HailstormMissilePods"
+        },
+        {
+            "id": 219,
+            "name": "RapidDeployment"
+        },
+        {
+            "id": 220,
+            "name": "ReaperStimpack"
+        },
+        {
+            "id": 221,
+            "name": "ReaperD8Charge"
+        },
+        {
+            "id": 222,
+            "name": "Tychus05BattlecruiserPenetration"
+        },
+        {
+            "id": 223,
+            "name": "ViralPlasma"
+        },
+        {
+            "id": 224,
+            "name": "FirebatJuggernautPlating"
+        },
+        {
+            "id": 225,
+            "name": "MultilockTargetingSystems"
+        },
+        {
+            "id": 226,
+            "name": "TurboChargedEngines"
+        },
+        {
+            "id": 227,
+            "name": "DistortionSensors"
+        },
+        {
+            "id": 228,
+            "name": "InfernalPreIgniters"
+        },
+        {
+            "id": 229,
+            "name": "HellionCampaignInfernalPreIgniter"
+        },
+        {
+            "id": 230,
+            "name": "NapalmFuelTanks"
+        },
+        {
+            "id": 231,
+            "name": "AuxiliaryMedBots"
+        },
+        {
+            "id": 232,
+            "name": "JuggernautPlating"
+        },
+        {
+            "id": 233,
+            "name": "MarauderLifeBoost"
+        },
+        {
+            "id": 234,
+            "name": "CombatShield"
+        },
+        {
+            "id": 235,
+            "name": "ReaperU238Rounds"
+        },
+        {
+            "id": 236,
+            "name": "MaelstromRounds"
+        },
+        {
+            "id": 237,
+            "name": "SiegeTankShapedBlast"
+        },
+        {
+            "id": 238,
+            "name": "TungstenSpikes"
+        },
+        {
+            "id": 239,
+            "name": "BearclawNozzles"
+        },
+        {
+            "id": 240,
+            "name": "NanobotInjectors"
+        },
+        {
+            "id": 241,
+            "name": "StabilizerMedPacks"
+        },
+        {
+            "id": 242,
+            "name": "HALORockets"
+        },
+        {
+            "id": 243,
+            "name": "ScavengingSystems"
+        },
+        {
+            "id": 244,
+            "name": "ExtraMines"
+        },
+        {
+            "id": 245,
+            "name": "AresClassWeaponsSystem"
+        },
+        {
+            "id": 246,
+            "name": "WhiteNapalm"
+        },
+        {
+            "id": 247,
+            "name": "ViralMunitions"
+        },
+        {
+            "id": 248,
+            "name": "JackhammerConcussionGrenades"
+        },
+        {
+            "id": 249,
+            "name": "FireSuppressionSystems"
+        },
+        {
+            "id": 250,
+            "name": "FlareResearch"
+        },
+        {
+            "id": 251,
+            "name": "ModularConstruction"
+        },
+        {
+            "id": 252,
+            "name": "ExpandedHull"
+        },
+        {
+            "id": 253,
+            "name": "ShrikeTurret"
+        },
+        {
+            "id": 254,
+            "name": "MicrofusionReactors"
+        },
+        {
+            "id": 255,
+            "name": "WraithCloak"
+        },
+        {
+            "id": 256,
+            "name": "SingularityCharge"
+        },
+        {
+            "id": 257,
+            "name": "GraviticThrusters"
+        },
+        {
+            "id": 258,
+            "name": "YamatoCannon"
+        },
+        {
+            "id": 259,
+            "name": "DefensiveMatrix"
+        },
+        {
+            "id": 260,
+            "name": "DarkProtoss"
+        },
+        {
+            "id": 261,
+            "name": "TerranInfantryWeaponsUltraCapacitorsLevel1"
+        },
+        {
+            "id": 262,
+            "name": "TerranInfantryWeaponsUltraCapacitorsLevel2"
+        },
+        {
+            "id": 263,
+            "name": "TerranInfantryWeaponsUltraCapacitorsLevel3"
+        },
+        {
+            "id": 264,
+            "name": "TerranInfantryArmorsVanadiumPlatingLevel1"
+        },
+        {
+            "id": 265,
+            "name": "TerranInfantryArmorsVanadiumPlatingLevel2"
+        },
+        {
+            "id": 266,
+            "name": "TerranInfantryArmorsVanadiumPlatingLevel3"
+        },
+        {
+            "id": 267,
+            "name": "TerranVehicleWeaponsUltraCapacitorsLevel1"
+        },
+        {
+            "id": 268,
+            "name": "TerranVehicleWeaponsUltraCapacitorsLevel2"
+        },
+        {
+            "id": 269,
+            "name": "TerranVehicleWeaponsUltraCapacitorsLevel3"
+        },
+        {
+            "id": 270,
+            "name": "TerranVehicleArmorsVanadiumPlatingLevel1"
+        },
+        {
+            "id": 271,
+            "name": "TerranVehicleArmorsVanadiumPlatingLevel2"
+        },
+        {
+            "id": 272,
+            "name": "TerranVehicleArmorsVanadiumPlatingLevel3"
+        },
+        {
+            "id": 273,
+            "name": "TerranShipWeaponsUltraCapacitorsLevel1"
+        },
+        {
+            "id": 274,
+            "name": "TerranShipWeaponsUltraCapacitorsLevel2"
+        },
+        {
+            "id": 275,
+            "name": "TerranShipWeaponsUltraCapacitorsLevel3"
+        },
+        {
+            "id": 276,
+            "name": "TerranShipArmorsVanadiumPlatingLevel1"
+        },
+        {
+            "id": 277,
+            "name": "TerranShipArmorsVanadiumPlatingLevel2"
+        },
+        {
+            "id": 278,
+            "name": "TerranShipArmorsVanadiumPlatingLevel3"
+        },
+        {
+            "id": 279,
+            "name": "HireKelmorianMinersPH"
+        },
+        {
+            "id": 280,
+            "name": "HireDevilDogsPH"
+        },
+        {
+            "id": 281,
+            "name": "HireSpartanCompanyPH"
+        },
+        {
+            "id": 282,
+            "name": "HireHammerSecuritiesPH"
+        },
+        {
+            "id": 283,
+            "name": "HireSiegeBreakersPH"
+        },
+        {
+            "id": 284,
+            "name": "HireHelsAngelsPH"
+        },
+        {
+            "id": 285,
+            "name": "HireDuskWingPH"
+        },
+        {
+            "id": 286,
+            "name": "HireDukesRevenge"
+        },
+        {
+            "id": 287,
+            "name": "ToshEasyMode"
+        },
+        {
+            "id": 288,
+            "name": "VoidRaySpeedUpgrade"
+        },
+        {
+            "id": 289,
+            "name": "SmartServos"
+        },
+        {
+            "id": 290,
+            "name": "ArmorPiercingRockets"
+        },
+        {
+            "id": 291,
+            "name": "CycloneRapidFireLaunchers"
+        },
+        {
+            "id": 292,
+            "name": "RavenEnhancedMunitions"
+        },
+        {
+            "friendlyname": "AdaptiveTalons",
+            "id": 293,
+            "name": "DiggingClaws"
+        },
+        {
+            "id": 294,
+            "name": "CarrierCarrierCapacity"
+        },
+        {
+            "id": 295,
+            "name": "CarrierLeashRangeUpgrade"
+        }
+    ]
+}

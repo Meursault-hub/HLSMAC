@@ -1,6 +1,6 @@
 import copy
 from components.episode_buffer import EpisodeBatch
-from modules.mixers.qatten_new import QattenMixer_New
+from modules.mixers.qatten_feudal import QattenMixer_Feudal
 import torch as th
 from torch.optim import RMSprop
 import torch.nn as nn 
@@ -14,11 +14,11 @@ class FeudalLearner:
         self.logger = logger
         self.params = list(mac.parameters()) 
 
-        if args.mixer == "qatten_new":
-            self.mixer_worker = QattenMixer_New(args)
-            self.mixer_manager = QattenMixer_New(args)
+        if args.mixer == "qatten_feudal":
+            self.mixer_worker = QattenMixer_Feudal(args)
+            self.mixer_manager = QattenMixer_Feudal(args)
         else:
-            raise ValueError("Feudal Learner strictly requires QAtten_New mixer")
+            raise ValueError("Feudal Learner strictly requires QAtten_Feudal mixer")
 
         self.target_mixer_worker = copy.deepcopy(self.mixer_worker)
         self.target_mixer_manager = copy.deepcopy(self.mixer_manager)
@@ -84,7 +84,7 @@ class FeudalLearner:
             dot_product = (diff_embed * detached_goals).sum(dim=-1, keepdim=True)
             intrinsic_rewards = dot_product / (norm_diff * norm_goals)
             
-            intrinsic_rewards = intrinsic_rewards / 10.0
+            intrinsic_rewards = intrinsic_rewards
 
         mac_out_worker = []
         manager_logits = [] 
@@ -121,8 +121,10 @@ class FeudalLearner:
             target_next_actions = target_mac_out.max(dim=3, keepdim=True)[1]
             
             target_max_qvals_worker, _, _ = self.target_mixer_worker(target_max_qvals_worker, state_next, target_next_actions)
-
-        targets_worker = intrinsic_rewards.sum(dim=2) + self.args.gamma * (1 - terminated) * target_max_qvals_worker
+        
+        # [核心修正] 混合奖励机制：Worker 奖励 = 环境奖励 (rewards) + 内在奖励 (intrinsic)
+        # 这样 Worker 既有动力赢比赛 (Extrinsic)，又有动力听指挥 (Intrinsic)
+        targets_worker = rewards + intrinsic_rewards.sum(dim=2) + self.args.gamma * (1 - terminated) * target_max_qvals_worker
         td_error_worker = (chosen_action_qvals_worker - targets_worker.detach())
         loss_worker = (td_error_worker ** 2).sum() / mask_sum + q_attend_regs_worker
 
